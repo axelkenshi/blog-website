@@ -8,5 +8,6 @@ category: 'notes'
 draft: false 
 lang: 'en'
 ---
-
+pnpm run dev
+pnpm new-post <filename>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget velit vitae ipsum ultricies congue. Vivamus eget imperdiet dui. Mauris euismod, tellus vel congue congue, libero velit ultrices leo, vitae congue velit velit vel velit. Mauris eget velit vitae ipsum ultricies congue. Vivamus eget imperdiet dui. Mauris euismod, tellus vel congue congue, libero velit ultrices leo, vitae congue velit velit vel velit.
