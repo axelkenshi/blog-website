@@ -6,7 +6,7 @@ image: 'https://images.unsplash.com/photo-1564865878688-9a244444042a?w=600&auto=
 tags: ['c language']
 category: 'Programming'
 draft: false 
-lang: 'id'
+lang: 'en'
 ---
 
 :::note
