@@ -19,7 +19,7 @@ is a useful thing as people have shared their experiences and inspired you.
 :::
 
 ---
-
+![typing](https://media.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif)
 ## Learning Code: It's More Like Learning a Language Than You Think
 ![globe](https://images.unsplash.com/photo-1600633349333-eebb43d01e23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Learning a programming language is a lot like learning any human language. You don't start by memorizing grammar rules and vocabulary lists. Instead, you jump right into using it for essential, everyday communication – what you actually need.

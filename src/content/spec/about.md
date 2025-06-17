@@ -13,3 +13,5 @@ Beyond just learning, I genuinely love sharing what I uncover and connecting dif
 > - [Pixiv](https://www.pixiv.net/)
 > - [4k anime wallpaper](https://4kwallpapers.com/anime/)
 > - [Alpha coder wallpaper](https://alphacoders.com/)
+> - [Giphy](https://giphy.com/)
+> - [Tenor](https://tenor.com/)

@@ -59,20 +59,20 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:linkedin", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://linkedin.com",
 		},
 		{
-			name: "Steam",
+			name: "Discord",
 			icon: "fa6-brands:discord",
-			url: "https://store.steampowered.com",
+			url: "https://discord.gg/7KRCerwF",
 		},
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			name: "Instagram",
+			icon: "fa6-brands:instagram",
+			url: "https://instagram.com/axelkenshi",
 		},
 	],
 };

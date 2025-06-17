@@ -1,6 +1,6 @@
 ---
 title: The benefits of studying computer science
-published: 2025-05-05
+published: 2024-06-16
 description: 'This blog post explains why Computer Science is a smart choice for your future.'
 image: 'https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 tags: [Technology]
