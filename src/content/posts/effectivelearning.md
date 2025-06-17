@@ -3,10 +3,10 @@ title: 'Efficient and Effective Study Techniques: How to Implement Them'
 published: 2025-06-17
 description: 'A method that can be useful for studying more effectively and efficiently, while reaping benefits.'
 image: 'https://images.alphacoders.com/678/thumb-1920-678623.jpg'
-tags: []
-category: ''
+tags: [academics, life skills]
+category: 'life'
 draft: false 
-lang: ''
+lang: 'en'
 ---
 
 :::tip
