@@ -9,6 +9,9 @@ draft: false
 lang: 'en'
 ---
 
+:::tip
+If you want to use another language, please use the translation feature in your browser.
+:::
 # Introduction
 
 > “The best communities are places where anyone can ask questions—but where joining the inner circle feels like an honor.”

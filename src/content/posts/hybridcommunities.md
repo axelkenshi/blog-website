@@ -5,7 +5,7 @@ description: 'Balancing Open Engagement with Exclusive Membership'
 image: 'https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fG5ldHdvcmtpbmd8ZW58MHx8MHx8fDA%3D'
 tags: [cyberspace]
 category: 'my though'
-draft: true 
+draft: false
 lang: 'en'
 ---
 
