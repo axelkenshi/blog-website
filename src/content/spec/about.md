@@ -6,6 +6,9 @@ You'll often find me diving deep into the intricate world of technology and comp
 
 Beyond just learning, I genuinely love sharing what I uncover and connecting different ideas. My goal is always to spark new insights and contribute to our collective understanding. My thoughts tend to wander through abstract concepts, but I'm always looking for ways to make sense of the complex tapestries of information that surround us.
 
+> _Great blogs don’t just inform—_  
+> _they rewire how people observe the world._  
+
 ::github{repo="axelkenshi/blog-website"}
 
 > ### Sources of images used in this site

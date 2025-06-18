@@ -510,7 +510,7 @@ int main() {
 ---
 # online compiler
 Kalau kamu penasaran ingin coba materi yang kamu pelajari tadi, silahkan coba di online compiler di bawah ini 👇
-<iframe width="100%" height="468" src="https://www.programiz.com/c-programming/online-compiler/" title="C compiler" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://onecompiler.com/c/" title="C compiler" frameborder="0" allowfullscreen></iframe>
 
 ---
 Click tombol ini jika ingin 

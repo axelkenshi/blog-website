@@ -4,7 +4,7 @@ published: 2025-06-15
 description: 'Crafting Immersive Narratives in Online Spaces'
 image: 'https://images.unsplash.com/photo-1607703703520-bb638e84caf2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 tags: [psychology, cyberspace]
-category: 'my though'
+category: 'my thought'
 draft: false 
 lang: 'en'
 ---

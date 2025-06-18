@@ -1,5 +1,5 @@
 ---
-title: Star Railing!
+title: Stars Sparkling!
 published: 2025-06-12
 description: 'Did you Know about our galaxy? Lets explore!'
 image: 'https://images6.alphacoders.com/328/thumb-1920-328617.jpg'
