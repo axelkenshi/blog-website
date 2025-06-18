@@ -19,7 +19,7 @@ In today's information era, traditional study methods often face major challenge
 ---
 
 ## 1. Identifying the Challenges in Learning
-
+![Gif](https://media.tenor.com/D48L_xXEcDoAAAAM/stress-study.gif)
 Before diving into study strategies, it's important to recognize some common issues encountered during learning:
 
 - **Sleepiness:** Studying monotonous material often tires the eyes and brain, resulting in drowsiness that’s hard to avoid.  
