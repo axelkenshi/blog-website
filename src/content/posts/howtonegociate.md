@@ -76,9 +76,10 @@ How a proposal is framed **changes how it’s perceived**.
 - A proposal framed as **loss prevention** ("If you don’t act now, you risk losing market share") may work better than a **gain-based argument** ("This will help you grow by 10%").  
 
 **Example:** A SaaS company selling cybersecurity solutions avoids saying  
-"our product costs `$5,000` per month."  
+"our product costs `$ 5,000` per month."  
+
 Instead, they frame it as:  
-Protecting your business from a potential `$500,000` loss.
+Protecting your business from a potential `$ 500,000` loss.
 
 ---
 
