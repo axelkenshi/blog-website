@@ -161,6 +161,7 @@ Perhatikan bahwa konstanta yang didefinisikan dengan #define tidak memiliki tipe
 - Konstanta biasanya diletakkan di luar fungsi `main()` untuk memudahkan akses dan penggunaan di seluruh program.
 :::
 :::warning
+- *Setiap pen-deklarasian _varibel_ ataupun sebuah _fungsi_ Ada yang namanya Case Sensitive, yaitu dimana huruf besar dan kecil akan dianggap berbeda.  Contohnya: `int Angka` dan `int angka` kedua variabel tersebut adalah entitas berbeda meskipun beda satu huruf saja. hal ini pun berlaku pada pembuatan fungsi lainnya.*
 - const memungkinkan deklarasi konstanta dengan tipe data tertentu, sedangkan #define tidak.
 - Konstanta yang didefinisikan dengan const akan muncul dalam informasi debugging, sedangkan konstanta #define tidak.
 - const dapat memiliki scope lokal (dalam blok fungsi atau kode), sedangkan #define biasanya bersifat global.
