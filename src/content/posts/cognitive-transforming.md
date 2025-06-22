@@ -3,7 +3,7 @@ title: 'Cognitive Terraforming: How Interfaces Reshape Our Ways of Thinking'
 published: 2025-02-10
 description: '“We shape our tools, and thereafter our tools shape us.”  — Marshall McLuhan'
 image: 'https://images.unsplash.com/photo-1602576666092-bf6447a729fc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlciUyMGludGVyZmFjZXxlbnwwfHwwfHx8MA%3D%3D'
-tags: [psychology, blogging]
+tags: [psychology, Blogging]
 category: 'my thought'
 draft: false 
 lang: 'en'

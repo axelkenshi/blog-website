@@ -3,7 +3,7 @@ title: 'Information Decay: When Knowledge Gets Outdated Without Us Noticing'
 published: 2025-06-18
 description: '“We rarely notice when facts expire. But we still build beliefs on their bones.”'
 image: 'https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGhpbG9zb3BoZXJ8ZW58MHx8MHx8fDA%3D'
-tags: [psychology, blogging]
+tags: [psychology, Blogging]
 category: 'my thought'
 draft: false 
 lang: 'en'

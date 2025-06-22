@@ -3,7 +3,7 @@ title: 'The Quiet Beauty of Documentation: (and Drafts That Never Saw the Light)
 published: 2025-06-23
 description: '“Some things are not written to be read—they are written to be remembered.”'
 image: 'https://images.unsplash.com/photo-1551643577-371f44141d4a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8am91cm5hbGxpbmd8ZW58MHx8MHx8fDA%3D'
-tags: [blogging]
+tags: [Blogging]
 category: 'my thought'
 draft: false 
 lang: 'en'

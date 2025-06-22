@@ -3,7 +3,7 @@ title: 'Digital Mirrors: When Technology Shows Us Who We Really Are'
 published: 2025-06-21
 description: ' “You are what you click.” — Twenty-first century proverb'
 image: 'https://images.unsplash.com/photo-1746014601523-db2b450dee40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMxfHx8ZW58MHx8fHx8'
-tags: [psychology, blogging]
+tags: [psychology, Blogging]
 category: 'my thought'
 draft: false 
 lang: 'en'

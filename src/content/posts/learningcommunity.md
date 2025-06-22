@@ -3,7 +3,7 @@ title: 'Building a Digital Learning Community: Uniting Open Access with Meaningf
 published: 2025-06-19
 description: '“The best communities are places where anyone can ask questions—but where joining the inner circle feels like an honor.”'
 image: 'https://images.unsplash.com/photo-1510519138101-570d1dca3d66?q=80&w=1147&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-tags: [blogging, cyberspace]
+tags: [Blogging, cyberspace]
 category: 'my thought'
 draft: false 
 lang: 'en'
