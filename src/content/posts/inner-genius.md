@@ -12,7 +12,7 @@ lang: 'en'
 :::tip
 If you want to use another language, please use the translation feature in your browser.
 :::
-![gif](https://media.tenor.com/2P4KgUgO2y4AAAAM/brain-iq.gif)
+![gif](https://media1.tenor.com/m/LwEzKUYacDoAAAAC/angel-beats-yurippe.gif)
 ## 1. Introduction: Intelligence as an Inner Spark
 
 We often think of intelligence as a fixed trait—something you’re either born with or without. But real intelligence is more like an inner spark that needs the right fuel and conditions to flare up. In this post, we’ll explore practical, down-to-earth ways to “turn on” your own well of smarts—no PhD or magic pill required.
