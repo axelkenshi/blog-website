@@ -6,9 +6,21 @@ You'll often find me diving deep into the intricate world of technology and comp
 
 Beyond just learning, I genuinely love sharing what I uncover and connecting different ideas. My goal is always to spark new insights and contribute to our collective understanding. My thoughts tend to wander through abstract concepts, but I'm always looking for ways to make sense of the complex tapestries of information that surround us.
 
+---
+
+# About this Note's
+
 > _Great blogs don’t just inform—_  
 > _they rewire how people observe the world._  
 
+that's why I make content on this blog, 70% general knowledge 30% forbidden knowledge.  
+most of my publication readers, consider this just a silly opinion.  
+” if talking to an art curator, this is considered art.  
+but if talking to a layman, this might be considered just nonsense from the author ”.  
+
+if you as a reader feel this is meaningless, then congratulations because you are not my target reader.
+this is a digital book of my thoughts from time to time until the end.  
+besides taking notes, I also want to spread inspiration as a small part of my contribution during my life. hopefully these notes will last long and flow.  
 ::github{repo="axelkenshi/blog-website"}
 
 > ### Sources of images used in this site
