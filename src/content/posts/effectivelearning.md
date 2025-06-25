@@ -89,6 +89,41 @@ When faced with lengthy, repetitive text, modifying your approach is key:
 
 ---
 
+## 4. Managing Time and Scheduling
+- **Prioritize Your Tasks:** Identify which topics require more attention and allocate time accordingly.
+- **Create a Study Schedule:** Use a planner or digital calendar to block out specific times for studying, ensuring you stick to your routine.
+- **Limit Distractions:** Turn off notifications, use website blockers, and create a dedicated study space to avoid distractions.
+- **Take Regular Breaks:** While it's important to set time limits for studying, take frequent breaks throughout the day to recharge and refocus.
+- **Review and Adjust:** Regularly review your study schedule and adjust as needed to ensure you're not falling behind or being too busy.
+- **Seek Help When Needed:** Don't hesitate to ask for help from teachers, classmates, or a study group.
+- **Stay Positive:** Embrace challenges as opportunities for growth, knowing that you're not alone in your learning journey.
+- **Reward Yourself:** Celebrate your achievements, no matter how small, to maintain motivation and a positive mindset.
+
+---
+
+![gif](https://media.tenor.com/jF3lOLUahUcAAAAM/shin-chan-shinnosuke-nohara.gif)
+## 5. A little trick from me (author)
+- **The 5-4-3-2-1 Technique:** When you feel overwhelmed, take a few deep breaths and count to five. Then, hold a steady pose, such as a tree pose or a downward dog pose. Repeat this for 4 minutes, and then take a 20-second break. Repeat this cycle for 20-30 minutes, gradually increasing the duration of your breaks.
+- **If you feel unbearable sleepiness,** this phase usually occurs at 12.00-14.00 noon. then try to take a 30-minute break to close your eyes and relax your body, set a 30-minute alarm for a short nap, this is called the power nap technique.
+- **if you are bored with the subject matter in text or oral form,** try to visualize it with an analogy or presented in a data diagram.  
+There are two ways, namely imagination and physical visualization.  
+A. if using physical visualization, you can design your understanding on a graphic such as a notebook or digital media such as canva.  
+B. if using imagination, it means that you need mental concentration and thinking skills. for example if there is animal population data in the text, you can imagine for example there are 10 elephants (animal shape) or imagine it in a bar chart as a comparison with other data.  
+- **Avoid crowded and noisy environments**, if you want to use concentration to study. Sometimes there are types of lessons that can be done together, and some need to be done alone.
+- **If mild drowsiness occurs,** consume mint candy or coffee or snacks to refresh your moods.
+- **The deep learning phase** is the stage where you have entered a state of full concentration to learn one thing, not shaken by distractions and able to stay away from sources of temptation.  
+like a sniper aiming at a target from a distance of 700 meters, he is very focused and able to eliminate distractions.  
+how to enter? like trying new food is the analogy.  
+Do it with curiosity, keep away sources of distraction such as cellphones and social media on the computer, and complete your small daily tasks. Don't delay too much and do what you can now, without looking for reasons or momentary motivation.  
+the real motivation is in the heart not from someone's words. After doing all that, I guarantee you will slowly drift into concentration and adrenaline.  
+if you are still having trouble, there is probably 1 reason, namely losing your goal, such as why are you studying if it has no impact.  
+the proverb says "when it's hard to start, it's also hard to get out".  
+- Last but not least, **if you find it difficult to understand** complex material, try discussing it with a study partner, mentor, or even artificial intelligence (AI).  
+This will help the process of explaining difficult material into something easy to understand. You can dig up information about what you don't know from those who know.  
+For example, you can give the AI ​​a prompt: "Please explain the ABC material sequentially from simple concepts to the continuation in easy-to-understand language and in simple explanations."  
+
+---
+
 ## Conclusion
 
 Efficient and effective study techniques go beyond simple reading and memorization—they involve structuring your environment, method, and mindset to keep your brain in peak condition. By implementing strategies like the Feynman Technique, flow triggers, the Pomodoro Technique, and targeted approaches to combat sleepiness, boredom, and demotivation, even repetitive and non-interactive material can be turned into an engaging, beneficial, and energetic learning experience.
