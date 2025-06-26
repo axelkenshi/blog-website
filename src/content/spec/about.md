@@ -28,5 +28,7 @@ besides taking notes, I also want to spread inspiration as a small part of my co
 > - [Pixiv](https://www.pixiv.net/)
 > - [4k anime wallpaper](https://4kwallpapers.com/anime/)
 > - [Alpha coder wallpaper](https://alphacoders.com/)
+> - [Walpaper](https://wallpapers.com/)
+> - [wallpaper cave](https://wallpapercave.com/)
 > - [Giphy](https://giphy.com/)
 > - [Tenor](https://tenor.com/)
