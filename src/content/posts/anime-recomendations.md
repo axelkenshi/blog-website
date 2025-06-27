@@ -19,6 +19,15 @@ the purpose of documenting all of this is so that I don't forget the many master
 **Category:** Anime + Movie.  
 **Gendre:** Drama.  
 **Overview:**  
+
+---
+
+## Eigthy six
+![img](https://wallpapercave.com/wp/wp9110951.jpg)
+**Category:** Anime.  
+**Gendre:** Sci-fi.  
+**Overview:**  
+
 ---
 
 ## Natsume yuujinchou
@@ -29,10 +38,84 @@ the purpose of documenting all of this is so that I don't forget the many master
 
 ---
 
+## Ansatsu kyoushitsu
+![sensei](https://images4.alphacoders.com/610/thumbbig-610238.webp)
+**Category:** Anime.  
+**Gendre:** Supernatural, Drama, sci-fi  
+**Overview:**  
+
+---
+
+## Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii Desu ka?
+![sukasuka](https://wallpapercave.com/wp/wp10982401.png)
+**Category:** Anime.  
+**Gendre:**  
+**Overview:**  
+
+---
+
+## Rokudenashi Majutsu Koushi to Akashic Records
+![img](https://wallpapercave.com/wp/wp2211152.png)
+**Category:** Anime.  
+**Gendre:**  
+**Overview:**  
+
+---
+
+## Akagami no shirayuki-hime
+![akagami](https://picfiles.alphacoders.com/368/thumb-1920-368904.jpg)
+**Category:** Anime.  
+**Gendre:** Slice of life, Comedy.  
+**Overview:**  
+
+---
+
+## Amagi Brilliant Park
+![amagi](https://wallpapercave.com/wp/wp3799690.png)
+**Category:** Anime.  
+**Gendre:** Slice of life, Comedy.  
+**Overview:**  
+
+---
+
+## Magi: the kingdom of magic
+### + Magi: the labyrinth of magic
+### + Magi: Sinbad no bouken
+![magi](https://wallpapercave.com/wp/wp12728835.png)
+**Category:** Anime.  
+**Gendre:**   
+**Overview:**  
+
+---
+
+## Nanatsu no taizai
+![img](https://wallpapercave.com/dwp2x/wp2635834.png)
+**Category:** Anime.  
+**Gendre:**   
+**Overview:**  
+
+---
+
 ## Summer Ghost
 ![summer ghost](https://wallpapercave.com/wp/wp11202031.jpg)
 **Category:** Movie.  
 **Gendre:** Supernatural, Drama  
+**Overview:**  
+
+---
+
+## Tasogare otome x amnesia
+![tasogare](https://wallpapercave.com/wp/wp6607303.jpg)
+**Category:** Anime.  
+**Gendre:** Supernatural, Drama  
+**Overview:**  
+
+---
+
+## Sankarea
+![sankarea](https://wallpapercave.com/wp/wp6579704.jpg)
+**Category:** Anime.  
+**Gendre:** Supernatural, Drama, Comedy, Romance.  
 **Overview:**  
 
 ---
