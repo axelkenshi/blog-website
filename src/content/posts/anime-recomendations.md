@@ -11,14 +11,20 @@ lang: 'en'
 
 okay, this blog is quite special, because it is an overview of various anime that I remember and I should describe those that I consider masterpieces.  
 I'll explain with my own delivery as an overview, not a spoiler.  
-the purpose of documenting all of this is so that I don't forget the many masterpieces I've enjoyed. 
-<!-- picfiles: min ratio (1280x1024) -->
+the purpose of documenting all of this is so that I don't forget the many masterpieces I've enjoyed.  
+:::tip
+If you want to translate into another language, please use the translate feature in your browser, it might be a bit messy, like the title changing its meaning-- so I suggest translating only for the purpose of seeing the overview.  
+:::
+<!-- picfiles: min ratio (1280x1024) (6400x4000) -->
 # Alright, let's start from top to bottom!
 ## Attack on titan
 ![attack on titan](https://wallpapers.com/images/high/eren-yeager-pfp-with-bright-eyes-5yilum1awdhkr9zm.webp)
 **Category:** Anime + Movie.  
 **Gendre:** Drama.  
 **Overview:**  
+**Sequence:** S1, S2, S3, S4, Movie.  
+Eren Yeager, a young man who lives inside a giant wall on a paradise island to protect society from giants, in the future he is the one who is appointed to open freedom even though it is full of sacrifices. He also inherited the power of the titan fighter and founder.  
+he has the ambition to achieve freedom from the wall that restrains his life. His journey is very long and it can be said that all episodes of each season are interconnected as clues.  
 
 ---
 
@@ -30,24 +36,58 @@ the purpose of documenting all of this is so that I don't forget the many master
 
 ---
 
+## Dark Gathering
+![img](https://wallpapercave.com/wp/wp12763897.jpg)
+**Category:** Anime.  
+**Gendre:** Supernatural, Drama, Comedy, Horror.  
+**Overview:**  
+Keitarou Gentouga, a freshman who hates ghosts. Unfortunately for him, he has a talent for attracting spirits. He is hired as a private tutor for a little girl named Yayoi who can see spirits and is looking for the spirit that took her mother. This is where the journey of pitting and eliminating ghosts and gods begins.
+
+---
+
 ## Natsume yuujinchou
-![natsume](https://images4.alphacoders.com/723/thumbbig-723754.webp)
+![natsume](https://c4.wallpaperflare.com/wallpaper/207/528/1007/natsume-book-of-friends-natsume-yuujinchou-wallpaper-preview.jpg)
 **Category:** Anime.  
 **Gendre:** Supernatural, Drama, Comedy, Slice of life.  
 **Overview:**  
+Natsume, an ordinary high school student who is able to see supernatural beings thanks to his grandmother's genetic abilities. Long story short, he meets a god like a kyuubi who can take the form of a cute and annoying cat, making a contract with him. With nyanko-sensei he begins his journey to release the old agreement with the yokai who were defeated by his grandmother.
 
 ---
 
 ## Ansatsu kyoushitsu
-![sensei](https://images4.alphacoders.com/610/thumbbig-610238.webp)
+![sensei](https://images.alphacoders.com/605/thumb-1920-605582.png)
 **Category:** Anime.  
 **Gendre:** Supernatural, Drama, sci-fi  
 **Overview:**  
 
 ---
 
+## Ginka
+![img](https://m.media-amazon.com/images/I/61YHSmfYfvL.jpg)
+**Category:** Visual Novel (Game).  
+**Gendre:** Supernatural, Drama, Romance.  
+**Overview:**  
+
+---
+
 ## Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii Desu ka?
 ![sukasuka](https://wallpapercave.com/wp/wp10982401.png)
+**Category:** Anime.  
+**Gendre:**  
+**Overview:**  
+
+---
+
+## Plastic memories
+![img](https://images4.alphacoders.com/118/thumb-1920-1189004.jpg)
+**Category:** Anime.  
+**Gendre:** Sci-fi  
+**Overview:**  
+
+---
+
+## Golden Time
+![golden time](https://wallpapercave.com/wp/wp2010872.jpg)
 **Category:** Anime.  
 **Gendre:**  
 **Overview:**  
@@ -74,6 +114,14 @@ the purpose of documenting all of this is so that I don't forget the many master
 ![amagi](https://wallpapercave.com/wp/wp3799690.png)
 **Category:** Anime.  
 **Gendre:** Slice of life, Comedy.  
+**Overview:**  
+
+---
+
+## Sword Art Online
+![sao](https://images6.alphacoders.com/131/thumb-1920-1319783.jpeg)
+**Category:** Anime.  
+**Gendre:** Action.  
 **Overview:**  
 
 ---
@@ -197,13 +245,22 @@ the purpose of documenting all of this is so that I don't forget the many master
 
 ---
 
+## Twin star exorcists
+![img](https://c4.wallpaperflare.com/wallpaper/403/461/172/anime-twin-star-exorcists-benio-adashino-rokuro-enmadou-wallpaper-preview.jpg)
+
+---
+
 ## Hitsugi no chaika
 ![hitsugi chaika](https://picfiles.alphacoders.com/165/thumb-1920-165182.jpg)
 
 ---
 
 ## Angel Beats!
-![angel beats](https://wallpapers.com/images/high/angel-beats-anime-poster-eb0o7stoinjm4jpn.webp)
+![angel beats](https://c4.wallpaperflare.com/wallpaper/143/241/139/anime-angel-beats-ayato-naoi-eri-shiina-wallpaper-preview.jpg)
+**Category:** Anime.  
+**Gendre:** Action, Drama, Fantasy, Tragedy, Isekai, Comedy.  
+**Overview:**  
+Yuzuru Otonashi, a young man who wakes up in a strange place around a school without any memory, has amnesia. He meets Yuri Nakamura, a leader of the "post-death squad" organization or called SSS whose mission is to uncover the mystery of why they are trapped in that world... until they reach the end of their happy journey, graduation.
 
 ---
 
