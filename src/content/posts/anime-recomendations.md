@@ -31,8 +31,10 @@ he has the ambition to achieve freedom from the wall that restrains his life. Hi
 ## Eigthy six
 ![img](https://wallpapercave.com/wp/wp9110951.jpg)
 **Category:** Anime.  
-**Gendre:** Sci-fi.  
+**Gendre:** Mecha, Sci-Fi, Military, Drama.  
+**Order:** S1, S2.  
 **Overview:**  
+If you're looking for an anime that delivers a powerful punch, 86 is absolutely it. I went into this one expecting just another mecha show, but it quickly became so much more. It's a deeply emotional and thought-provoking series that tackles themes of war, discrimination, and what it truly means to be human, all wrapped up in intense action. The characters, especially Lena and Shin, are incredibly compelling, and their struggles resonated with me long after each episode. It's a gripping watch that left a strong impression, blending thrilling combat with a heavy, moving story.
 
 ---
 
@@ -49,6 +51,7 @@ Keitarou Gentouga, a freshman who hates ghosts. Unfortunately for him, he has a 
 ![natsume](https://c4.wallpaperflare.com/wallpaper/207/528/1007/natsume-book-of-friends-natsume-yuujinchou-wallpaper-preview.jpg)
 **Category:** Anime.  
 **Gendre:** Supernatural, Drama, Comedy, Slice of life.  
+**Order:** S1, S2, S3, S4, OVA.  
 **Overview:**  
 Natsume, an ordinary high school student who is able to see supernatural beings thanks to his grandmother's genetic abilities. Long story short, he meets a god like a kyuubi who can take the form of a cute and annoying cat, making a contract with him. With nyanko-sensei he begins his journey to release the old agreement with the yokai who were defeated by his grandmother.
 
@@ -57,8 +60,10 @@ Natsume, an ordinary high school student who is able to see supernatural beings 
 ## Ansatsu kyoushitsu
 ![sensei](https://images.alphacoders.com/605/thumb-1920-605582.png)
 **Category:** Anime.  
-**Gendre:** Supernatural, Drama, sci-fi  
+**Gendre:** Comedy, Action, Sci-Fi, School, Fantasy.  
+**Order:** S1, S2.  
 **Overview:**  
+If you're looking for an anime that's surprisingly heartwarming despite its bizarre premise, Ansatsu Kyoushitsu is an absolute must-watch. The story kicks off with Koro-sensei, an unbelievably powerful, tentacled alien who destroys 70% of the moon and then threatens to do the same to Earth unless his junior high students—the infamous Class 3-E—can assassinate him before graduation. I went into this expecting pure chaos, and while it delivers on that front with hilarious action, what truly blew me away was its incredible heart. It's a show that masterfully balances laugh-out-loud comedy and thrilling assassination attempts with genuine lessons about self-worth, mentorship, and what it truly means to learn and grow. The students of Class 3-E, under Koro-sensei's unconventional guidance, develop in such profound ways that you can't help but get invested in every single one of them.
 
 ---
 
@@ -73,48 +78,55 @@ Natsume, an ordinary high school student who is able to see supernatural beings 
 ## Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii Desu ka?
 ![sukasuka](https://wallpapercave.com/wp/wp10982401.png)
 **Category:** Anime.  
-**Gendre:**  
+**Gendre:** Fantasy, Sci-Fi, Drama, Romance.  
 **Overview:**  
+WorldEnd is a beautifully melancholic series that truly swept me away. It follows Willem, the last human, as he cares for a group of young girls known as Leprechauns who are the only ones capable of fighting the world's terrifying monsters. I found it to be a deeply emotional and poignant story about sacrifice and finding meaning in a fading world. It's a heart-wrenching yet beautiful experience that left a lasting impression.
 
 ---
 
 ## Plastic memories
 ![img](https://images4.alphacoders.com/118/thumb-1920-1189004.jpg)
 **Category:** Anime.  
-**Gendre:** Sci-fi  
+**Gendre:** Sci-Fi, Drama, Romance.  
 **Overview:**  
+If you're looking for an anime that will tug at your heartstrings and make you think about what it means to truly live and love, Plastic Memories is definitely one to watch. The story follows Tsukasa Mizugaki, who begins working at a company that produces "Giftias"—highly advanced androids almost indistinguishable from humans, but with a limited lifespan. His job involves retrieving these Giftias when their time is up. I went into this expecting a simple sci-fi romance, but it quickly became a deeply emotional journey, especially with the introduction of Isla, his Giftia partner. The series beautifully explores themes of memory, mortality, and the pain of inevitable goodbyes, making every moment between the characters incredibly precious. It’s a bittersweet experience that will likely leave you with a lump in your throat and a lot to reflect on.
 
 ---
 
 ## Golden Time
 ![golden time](https://wallpapercave.com/wp/wp2010872.jpg)
 **Category:** Anime.  
-**Gendre:**  
+**Gendre:**  Romance, Drama, Comedy, shounen.  
 **Overview:**  
+Golden Time is a surprisingly real college romance that really drew me in. It's about Banri, a freshman who's lost his memories, and how he navigates new friendships and a budding relationship with Koko. I loved how it felt like an authentic look at young adulthood, dealing with past struggles and finding yourself in new connections. It's a journey with plenty of laughs and heartfelt moments.
 
 ---
 
 ## Rokudenashi Majutsu Koushi to Akashic Records
 ![img](https://wallpapercave.com/wp/wp2211152.png)
 **Category:** Anime.  
-**Gendre:**  
+**Gendre:** Fantasy, Action, Comedy, Magic, School.  
 **Overview:**  
+If you're into a magic school anime with a protagonist who's anything but typical, Akashic Records of Bastard Magic Instructor is a fun watch. The story introduces Glenn Radars, a seemingly lazy and incompetent substitute teacher who somehow finds himself in charge of a class at a prestigious magic academy. I went into this expecting a generic magic school setting, but Glenn's unconventional teaching methods and cynical attitude quickly made it stand out. It's got a great mix of action, comedy, and surprisingly cool magic battles. Watching him slowly win over his skeptical students, like Sistine Fibel and Rumia Tingel, was pretty entertaining. It’s a lighthearted yet engaging series that offers a good time with its unique take on the magic academy trope.
 
 ---
 
 ## Akagami no shirayuki-hime
 ![akagami](https://picfiles.alphacoders.com/368/thumb-1920-368904.jpg)
 **Category:** Anime.  
-**Gendre:** Slice of life, Comedy.  
+**Gendre:** Fantasy, Romance, Drama  
+**Order:** S1, S2.  
 **Overview:**  
+If you're looking for a refreshing shojo romance that feels mature and genuinely sweet, Akagami no Shirayuki-hime is an absolute gem. The story follows Shirayuki, an independent and spirited herbalist with striking red hair who flees her home to avoid marrying a vain prince. She soon finds herself in the neighboring kingdom and crosses paths with Zen Wisteria, a charming and earnest prince. I went into this expecting a typical fairy tale, but what I got was a beautifully crafted story about two people who genuinely support each other's dreams and ambitions. I really loved how strong and capable Shirayuki is on her own, and Zen is just the kind of supportive and respectful male lead you rarely see. It's a delightful watch that focuses on healthy relationships, hard work, and finding your place, with just enough fantasy elements to keep things enchanting.
 
 ---
 
 ## Amagi Brilliant Park
 ![amagi](https://wallpapercave.com/wp/wp3799690.png)
 **Category:** Anime.  
-**Gendre:** Slice of life, Comedy.  
+**Gendre:** Comedy, Fantasy, Slice of Life.  
 **Overview:**  
+Amagi Brilliant Park is a really fun and unique comedy about Seiya Kanie, a smart guy who gets stuck trying to save a failing magical amusement park. I loved how it mixed funny situations with the challenge of running a park full of quirky mascots and magical staff. It's a lighthearted and entertaining show that's perfect if you want something different and genuinely funny!
 
 ---
 
@@ -122,6 +134,7 @@ Natsume, an ordinary high school student who is able to see supernatural beings 
 ![sao](https://images6.alphacoders.com/131/thumb-1920-1319783.jpeg)
 **Category:** Anime.  
 **Gendre:** Action.  
+**Order:** S1 (Aincrad, Fairy Dance), S2 (Phantom Bullet, Mother's Rosario), Ordinal Scale (Movie), Alicization (S3 Parts 1 & 2), Progressive (Movies).  
 **Overview:**  
 
 ---
