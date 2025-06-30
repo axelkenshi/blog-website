@@ -65,9 +65,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://linkedin.com",
 		},
 		{
-			name: "Discord",
-			icon: "fa6-brands:discord",
-			url: "https://discord.gg/7KRCerwF",
+			name: "Website-portofolio",
+			icon: "fa6-solid:globe",
+			url: "https://example.com",
 		},
 		{
 			name: "Instagram",

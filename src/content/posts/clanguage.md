@@ -5,7 +5,7 @@ description: '[indonesian] Belajar bahasa pemrograman C dari dasar dasarnya'
 image: 'https://images.unsplash.com/photo-1564865878688-9a244444042a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2dyYW1taW5nfGVufDB8fDB8fHww'
 tags: ['c language']
 category: 'Programming'
-draft: false 
+draft: true
 lang: 'en'
 ---
 

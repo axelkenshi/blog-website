@@ -113,7 +113,7 @@ B. if using imagination, it means that you need mental concentration and thinkin
 - **If mild drowsiness occurs,** consume mint candy or coffee or snacks to refresh your moods.
 - **The deep learning phase** is the stage where you have entered a state of full concentration to learn one thing, not shaken by distractions and able to stay away from sources of temptation.  
 like a sniper aiming at a target from a distance of 700 meters, he is very focused and able to eliminate distractions.  
-how to enter? like trying new food is the analogy.  
+how to enter? feel the urgency of why you're doing this.  
 Do it with curiosity, keep away sources of distraction such as cellphones and social media on the computer, and complete your small daily tasks. Don't delay too much and do what you can now, without looking for reasons or momentary motivation.  
 the real motivation is in the heart not from someone's words. After doing all that, I guarantee you will slowly drift into concentration and adrenaline.  
 if you are still having trouble, there is probably 1 reason, namely losing your goal, such as why are you studying if it has no impact.  
