@@ -15,14 +15,19 @@ the purpose of documenting all of this is so that I don't forget the many master
 :::tip
 If you want to translate into another language, please use the translate feature in your browser, it might be a bit messy, like the title changing its meaning-- so I suggest translating only for the purpose of seeing the overview.  
 :::
+:::note
+Save this blog url if you like the content I present is relavant to you.  
+My notes are eternal, I'll keep updating them.  
+So maybe you can come back to read them later.  
+:::
 <!-- picfiles: min ratio (1280x1024) (6400x4000) -->
 # Alright, let's start from top to bottom!
 ## Attack on titan
 ![attack on titan](https://wallpapers.com/images/high/eren-yeager-pfp-with-bright-eyes-5yilum1awdhkr9zm.webp)
 **Category:** Anime + Movie.  
 **Gendre:** Drama.  
-**Overview:**  
 **Sequence:** S1, S2, S3, S4, Movie.  
+**Overview:**  
 Eren Yeager, a young man who lives inside a giant wall on a paradise island to protect society from giants, in the future he is the one who is appointed to open freedom even though it is full of sacrifices. He also inherited the power of the titan fighter and founder.  
 he has the ambition to achieve freedom from the wall that restrains his life. His journey is very long and it can be said that all episodes of each season are interconnected as clues.  
 
@@ -32,7 +37,7 @@ he has the ambition to achieve freedom from the wall that restrains his life. Hi
 ![img](https://wallpapercave.com/wp/wp9110951.jpg)
 **Category:** Anime.  
 **Gendre:** Mecha, Sci-Fi, Military, Drama.  
-**Order:** S1, S2.  
+**Sequence:** S1, S2.  
 **Overview:**  
 If you're looking for an anime that delivers a powerful punch, 86 is absolutely it. I went into this one expecting just another mecha show, but it quickly became so much more. It's a deeply emotional and thought-provoking series that tackles themes of war, discrimination, and what it truly means to be human, all wrapped up in intense action. The characters, especially Lena and Shin, are incredibly compelling, and their struggles resonated with me long after each episode. It's a gripping watch that left a strong impression, blending thrilling combat with a heavy, moving story.
 
@@ -51,7 +56,7 @@ Keitarou Gentouga, a freshman who hates ghosts. Unfortunately for him, he has a 
 ![natsume](https://c4.wallpaperflare.com/wallpaper/207/528/1007/natsume-book-of-friends-natsume-yuujinchou-wallpaper-preview.jpg)
 **Category:** Anime.  
 **Gendre:** Supernatural, Drama, Comedy, Slice of life.  
-**Order:** S1, S2, S3, S4, OVA.  
+**Sequence:** S1, S2, S3, S4, OVA.  
 **Overview:**  
 Natsume, an ordinary high school student who is able to see supernatural beings thanks to his grandmother's genetic abilities. Long story short, he meets a god like a kyuubi who can take the form of a cute and annoying cat, making a contract with him. With nyanko-sensei he begins his journey to release the old agreement with the yokai who were defeated by his grandmother.
 
@@ -61,7 +66,7 @@ Natsume, an ordinary high school student who is able to see supernatural beings 
 ![sensei](https://images.alphacoders.com/605/thumb-1920-605582.png)
 **Category:** Anime.  
 **Gendre:** Comedy, Action, Sci-Fi, School, Fantasy.  
-**Order:** S1, S2.  
+**Sequence:** S1, S2.  
 **Overview:**  
 If you're looking for an anime that's surprisingly heartwarming despite its bizarre premise, Ansatsu Kyoushitsu is an absolute must-watch. The story kicks off with Koro-sensei, an unbelievably powerful, tentacled alien who destroys 70% of the moon and then threatens to do the same to Earth unless his junior high students—the infamous Class 3-E—can assassinate him before graduation. I went into this expecting pure chaos, and while it delivers on that front with hilarious action, what truly blew me away was its incredible heart. It's a show that masterfully balances laugh-out-loud comedy and thrilling assassination attempts with genuine lessons about self-worth, mentorship, and what it truly means to learn and grow. The students of Class 3-E, under Koro-sensei's unconventional guidance, develop in such profound ways that you can't help but get invested in every single one of them.
 
@@ -115,7 +120,7 @@ If you're into a magic school anime with a protagonist who's anything but typica
 ![akagami](https://picfiles.alphacoders.com/368/thumb-1920-368904.jpg)
 **Category:** Anime.  
 **Gendre:** Fantasy, Romance, Drama  
-**Order:** S1, S2.  
+**Sequence:** S1, S2.  
 **Overview:**  
 If you're looking for a refreshing shojo romance that feels mature and genuinely sweet, Akagami no Shirayuki-hime is an absolute gem. The story follows Shirayuki, an independent and spirited herbalist with striking red hair who flees her home to avoid marrying a vain prince. She soon finds herself in the neighboring kingdom and crosses paths with Zen Wisteria, a charming and earnest prince. I went into this expecting a typical fairy tale, but what I got was a beautifully crafted story about two people who genuinely support each other's dreams and ambitions. I really loved how strong and capable Shirayuki is on her own, and Zen is just the kind of supportive and respectful male lead you rarely see. It's a delightful watch that focuses on healthy relationships, hard work, and finding your place, with just enough fantasy elements to keep things enchanting.
 
@@ -133,9 +138,10 @@ Amagi Brilliant Park is a really fun and unique comedy about Seiya Kanie, a smar
 ## Sword Art Online
 ![sao](https://images6.alphacoders.com/131/thumb-1920-1319783.jpeg)
 **Category:** Anime.  
-**Gendre:** Action.  
-**Order:** S1 (Aincrad, Fairy Dance), S2 (Phantom Bullet, Mother's Rosario), Ordinal Scale (Movie), Alicization (S3 Parts 1 & 2), Progressive (Movies).  
+**Gendre:** Action, Adventure, Fantasy, Romance, Sci-Fi.  
+**Sequence:** S1 (Aincrad, Fairy Dance), S2 (Phantom Bullet, Mother's Rosario), Ordinal Scale (Movie), Alicization (S3 Parts 1 & 2), Progressive (Movies).  
 **Overview:**  
+Sword Art Online thrusts you into a virtual reality MMORPG where logging out is no longer an option – dying in the game means dying in real life. Kirito, a solo player, navigates this deadly world, forming bonds and fighting for survival alongside other trapped players. It's an exhilarating journey filled with high-stakes battles, emotional moments, and a constant exploration of the line between the virtual and the real. While it has its intense action sequences, the heart of the series often lies in the relationships and the psychological impact of being trapped in such a perilous game. It's a great pick if you enjoy immersive fantasy worlds with a touch of romance and philosophical pondering.
 
 ---
 
@@ -144,8 +150,10 @@ Amagi Brilliant Park is a really fun and unique comedy about Seiya Kanie, a smar
 ### + Magi: Sinbad no bouken
 ![magi](https://wallpapercave.com/wp/wp12728835.png)
 **Category:** Anime.  
-**Gendre:**   
+**Gendre:** Action, Adventure, Fantasy, Magic, Shounen  
+**Sequence:** S1, S2, Run-off(sinbad no bouken)  
 **Overview:**  
+Magi: The Kingdom of Magic continues the epic journey of Aladdin, Alibaba, and Morgiana. This season sees them embark on separate paths, deepening their understanding of the world's magic and politics. Aladdin, for example, studies at a magical academy, revealing more about this vibrant universe. It's a visually stunning and emotionally rich continuation, full of growth, new challenges, and thrilling battles that expand on the already captivating story.
 
 ---
 
@@ -265,6 +273,20 @@ Amagi Brilliant Park is a really fun and unique comedy about Seiya Kanie, a smar
 
 ## Hitsugi no chaika
 ![hitsugi chaika](https://picfiles.alphacoders.com/165/thumb-1920-165182.jpg)
+**Category:** Anime.  
+**Gendre:** Action, Drama, Fantasy.  
+**Overview:**  
+Chaika Gaz, a white haired girl descended from the continent's ruling magic king. long story short she carries a coffin everywhere with the sole purpose of burying the king. in the story of her journey we will see chaika's various doubles and the mystery behind them...
+
+---
+
+## Takopii no Genzai
+![tako](https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/75/2024/12/10/teaser-visual-takopi2-poplineid-1859234402.png)
+**Category:** Anime.  
+**Gendre:** Drama, Psychological, Sci-fi, Shounen.  
+**Overview:**  
+Kuze shizuka, an orphan girl who is severely bullied by her peers at school for no known reason. one day she meets an alien with an innocent, octopus-like physique from the planet of happiness. Day after day is spent relieving kuze's suffering from the bad behavior of others.
+This anime is quite emotionally shocking and relevant to bullying cases in the real world, even so the story is so fun.
 
 ---
 
