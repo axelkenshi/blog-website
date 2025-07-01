@@ -12,6 +12,7 @@ lang: 'en'
 okay, this blog is quite special, because it is an overview of various anime that I remember and I should describe those that I consider masterpieces.  
 I'll explain with my own delivery as an overview, not a spoiler.  
 the purpose of documenting all of this is so that I don't forget the many masterpieces I've enjoyed.  
+![gif](https://media.tenor.com/S_NEkpN3H9sAAAAM/natsume-book-of-friends.gif)
 :::tip
 If you want to translate into another language, please use the translate feature in your browser, it might be a bit messy, like the title changing its meaning-- so I suggest translating only for the purpose of seeing the overview.  
 :::
@@ -420,3 +421,5 @@ Love, Chunibyo & Other Delusions! is a funny and sweet show about Yuuta, who wan
 Glad you found it useful.  
 Stay tuned for more updates to come!~  
 There's so much I haven't written down here, it's lazy how messy my list.
+![gif](https://media.tenor.com/B5ctjP-Vj3EAAAAM/anime-meme.gif)
+![gif](https://media.tenor.com/xRZFEI3-jUIAAAAM/anime-excited.gif)

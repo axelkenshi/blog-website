@@ -22,6 +22,7 @@ but if talking to a layman, this might be considered just nonsense from the auth
 if you as a reader feel this is meaningless, then congratulations because you are not my target reader.
 this is a digital book of my thoughts from time to time until the end.  
 besides taking notes, I also want to spread inspiration as a small part of my contribution during my life. hopefully these notes will last long and flow.  
+![gif](https://media.tenor.com/8XYlsNDxIz8AAAAM/lucy-heartfilia-lucy.gif)
 ::github{repo="axelkenshi/blog-website"}
 
 > ### Sources of images used in this site
