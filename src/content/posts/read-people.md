@@ -164,7 +164,10 @@ Tonight, pick one person you interact with regularly. Notice one detail about th
 ![gif](https://media.tenor.com/WQWKNBdUk40AAAAM/sakayanagi-arisu-classroom-of-the-elite.gif)
 :::tip
 a little advice from me, although cruel.  
-it's okay to be friends with people who seem like losers, but don't let them influence or get in your way. because even though they are useless for your vision, they can be a source of a little information if needed and motivation for you by looking at them to do something out of the box.  
+it's okay to be friends with people who seem like losers, but don't let them influence or get in your way. because even though they are useless for your vision, At the very least, they can be a means to a temporary end that doesn't hinder your bigger goals if needed.  
+for example, a friend of mine who is a very conservative person, but he has a very good sense of humor.  
+he can be a source of motivation and a source of information for you if you look at them with the right lens.  
+and motivation for you by looking at them to do something out of the box.  
 
 socialize like normal people without discriminating against others in a frontal manner.  
 Don't take advantage of other people's weaknesses as your strengths, that's detrimental.  

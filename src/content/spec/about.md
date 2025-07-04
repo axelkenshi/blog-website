@@ -24,6 +24,7 @@ this is a digital book of my thoughts from time to time until the end.
 besides taking notes, I also want to spread inspiration as a small part of my contribution during my life. hopefully these notes will last long and flow.  
 ![gif](https://media.tenor.com/8XYlsNDxIz8AAAAM/lucy-heartfilia-lucy.gif)
 ::github{repo="axelkenshi/blog-website"}
+> We walk the talk, not only talk the talk -- from meme quote
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
