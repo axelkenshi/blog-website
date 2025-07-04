@@ -1,6 +1,6 @@
 ---
 title: 'The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism'
-published: 2022-07-01
+published: 2023-07-01
 description: '[Indonesian Language] This is a summary of what the author might want to convey in the book, note: it does not mean that what I wrote here is accurate, so it is better for you to read the original first.'
 image: 'https://m.media-amazon.com/images/I/81hS0u0bqXL._SY522_.jpg'
 tags: [Book Summary]
