@@ -78,7 +78,7 @@ Disini akan saya coba kenalkan beberapa konsep yang perlu kamu mengerti untuk me
 
 ## Struktur Program C
 Lihat bagaimana penulisan awal struktur program..  
-sebelum menulis perintah(disebut syntax)
+sebelum menulis perintah(disebut syntax-- Aturan-aturan yang mengatur bagaimana kode harus ditulis agar dapat dipahami oleh komputer)
 ```c
 #include <stdio.h>
 int main() {
@@ -176,6 +176,7 @@ printf("Hello World!"); // output Hello World!
 // input
 char a;
 scanf("%c", &a);
+printf("This is the output: %c", a); // this is the output : blabla...from input
 ```
 :::note
 - `printf` adalah sebuah perintah yang mencetak nilai ke layar, biasanya ada di terminal.
