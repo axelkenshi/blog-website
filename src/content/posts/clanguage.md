@@ -2,10 +2,10 @@
 title: Learn C language
 published: 2024-06-13
 description: '[indonesian] Belajar bahasa pemrograman C dari dasar dasarnya'
-image: 'https://images.unsplash.com/photo-1564865878688-9a244444042a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2dyYW1taW5nfGVufDB8fDB8fHww'
-tags: ['c language']
+image: 'https://wallpapercave.com/wp/wp2825120.jpg'
+tags: ['C language']
 category: 'Programming'
-draft: true
+draft: false
 lang: 'en'
 ---
 
@@ -16,10 +16,31 @@ Jika anda pemula, ingin belajar pemerograman, maka materi bacaan ini bisa menjad
 If you want to use English or another language, please use the translation feature in your browser.
 :::
 
-Click tombol ini jika sudah membaca pengenalan
-[Lompat ke konseptual C](#konseptual-dasar-bahasa-pemerograman-c)
-# Pengenalan: Apa itu Pemerograman Bahasa C?
-Bahasa C adalah bahasa pemrograman yang dikembangkan pada tahun 1972 oleh Dennis Ritchie di Bell Labs. Bahasa ini dirancang untuk sistem operasi Unix dan menjadi salah satu bahasa pemrograman yang paling populer dan berpengaruh dalam sejarah pengembangan perangkat lunak. 
+---
+
+Click tombol dibawah ini jika sudah membaca pengenalan.  
+**Lihat apa yang konten ini sajikan** [Daftar isi](#apa-saja-yang-harus-dipelajari-dalam-bahasa-c).  
+
+# A letter from author
+![gif](https://media.tenor.com/1Ygfg3W4V2cAAAAM/akane-kurokawa-kurokawa-akane.gif)
+Halo semuanya, saya Axel-- penulis dari blog ini. Saya disini berniat menuangkan kembali ilmu yang saya telah pelajari dari bahasa pemerograman C, murni dari pengalaman saya. Alasan kenapa saya menuliskan blog ini secara khusus adalah untuk membantu kamu yang baru mau terjun di dunia pemrograman... karena saya tau betapa sulitnya belajar otodidak dari sumber yang gak jelas, penjelasan yang bertele-tele, dan tidak ada contoh yang nyata.  
+Maka dari itu saya bakal jelaskan dengan cara yang gampang dipahami anak smp sekalipun.  
+
+Sebelum kamu belajar pemerograman, kamu harus tau alasan kenapa tertarik pada pemerograman -- coba baca [Manfaat coding](https://luminarysirx.my.id/posts/whylearncoding/).  
+
+Disekolah selama mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari teknologi yang kita gunakan selama ini.
+Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep baru yang kedengaran rumit sebagai orang yang masih awam~ padahal gampang banget.  
+> "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. Norman Ramsey.  
+
+Okelah saya cukupkan sampai disini aja, selamat belajar -- santai aja bacanya.  
+semoga you bisa mengerti pemerograman C dalam waktu 1 bulan saja.
+![gif](https://media.tenor.com/L3ZGtEmZvncAAAAm/kokomi-dizzy.webp)
+
+## Pengenalan: Apa itu Pemerograman Bahasa C?
+Pemerograman adalah suatu cara bagaimana manusia bisa memerintah mesin komputasi (komputer bukan cuma laptop dan pc loh yaa!) melakukan tugas tertentu untuk mempermudah kebutuhan sehari-hari yang berkaitan erat dengan teknologi yang kita gunakan seperti misalnya Handphone, laptop, mesin manufaktur, robot, dan lainnya. -- dalam bentuk kode program yang menjadi rangkaian alur sistematis tentang apa yang harus dikerjakan komputer.  
+Intinya ilmu pemerograman itu untuk membuat sebuah software atau yang kita kenal aplikasi, -- ingat itu.
+
+Bahasa C adalah bahasa pemrograman yang dikembangkan pada tahun 1972 oleh Dennis Ritchie di Bell Labs. Bahasa ini dirancang untuk sistem operasi Unix(OS perangkat komputer zaman dulu) dan menjadi salah satu bahasa pemrograman yang paling populer dan berpengaruh dalam sejarah pengembangan perangkat lunak. 
 
 ## Apa yang bisa dipelajari dari bahasa C?
 Bahasa C memiliki banyak kelebihan, seperti: 
@@ -37,23 +58,29 @@ Jika niatmu memang mau terjun di dunia pemerograman, maka ini adalah langkah awa
 
 ## Bagaimana cara belajar bahasa pemrograman C?
 Untuk belajar bahasa pemrograman C, kamu bisa mengikuti langkah-langkah berikut:
-1. Menyiapkan lingkungan pengembangan, anggaplah kode editor di komputer
+1. Menyiapkan lingkungan pengembangan, anggaplah kode editor yang ada di komputer
 2. Memahami konsep dasar pemrograman
 3. Menulis kode
 4. Menjalankan kode
-5. Mengulang langkah-langkah tersebut sampai mahir
+5. Mengulang langkah-langkah tersebut sampai mahir serta terbiasa.
 
 ## Apa saja yang harus dipelajari dalam bahasa C?
+Oh iya.. ini juga sebagai daftar isi dari apa yang bakal kita bahas.  
 Untuk mempelajari bahasa C, berikut adalah beberapa konsep dasar yang perlu dipahami:
-- **Sintaks Dasar**: Memahami cara penulisan kode, seperti penggunaan tanda kurung, titik koma, dan struktur kontrol.
-- **Tipe Data**: Memahami tipe data dasar seperti integer, float, char, dan lainnya.
-- **Variabel dan Konstanta**: Memahami cara mendeklarasikan variabel dan konstanta, serta cara menggunakannya dalam kode.
-- **Operator**: Memahami operator-operator yang digunakan dalam pemrograman, seperti operator aritmatika, operator relasional, dan operator logika.
-- **Struktur Kontrol**: Memahami cara menggunakan struktur kontrol seperti if-else, switch case.
-- **Perulangan**: Memahami cara menggunakan perulangan untuk menjalankan blok kode secara berulang. (for, while, do-while).
+- [**Sintaks Dasar**](#konseptual-dasar-bahasa-pemerograman-c): Memahami cara penulisan kode, seperti penggunaan tanda kurung, titik koma, dan struktur kontrol.
+- [**Tipe Data dan Variabel**](#tipe-data-dan-variabel): Memahami tipe data dasar seperti integer, float, char, dan lainnya.
+- [**Input output dan contoh penggunaannya**](#input-output-dan-contoh-penggunaannya): Memahami cara membuat perintah input dan output.
+- [**Konstanta**](#konstanta): Memahami cara mendeklarasikan variabel dan konstanta, serta cara menggunakannya dalam kode.
+- [**Operator**](#operator): Memahami operator-operator yang digunakan dalam pemrograman, seperti operator aritmatika, operator relasional, dan operator logika.
+- [**Struktur Kontrol**](#struktur-kontrol): Memahami cara menggunakan struktur kontrol yang akan mengatur alur sistem bekerja.
+    - [**Percabangan**](#percabangan): Memahami cara membuat keputusan program berdasarkan kondisi tertentu. (if-else, switch case).
+    - [**Perulangan**](#perulangan): Memahami cara menggunakan perulangan untuk menjalankan blok kode secara berulang. (for, while, do-while).
 - **Fungsi**: Memahami cara mendeklarasikan dan menggunakan fungsi untuk memecah kode menjadi bagian-bagian yang lebih kecil dan terorganisir.
-- **Array**: Memahami cara menggunakan array untuk menyimpan kumpulan data dengan tipe yang sama.
 - **Struktur Data**: Memahami struktur data seperti array, linked list, tree, dan graph.
+    - **Array**: Memahami cara menggunakan array untuk menyimpan kumpulan data dengan tipe yang sama.
+    - **Linked List**: Memahami cara kerja linked list dan bagaimana menggunakan pointer untuk mengakses dan mengelola data.
+    - **Tree**: Memahami konsep tree dan bagaimana menggunakan struktur tree dalam pemrograman.
+    - **Graph**: Memahami konsep graph dan bagaimana menggunakan struktur graph dalam pemrograman.
 - **Pemrosesan File**: Memahami cara membaca dan menulis file.
 - **Pointer**: Memahami konsep pointer dan bagaimana menggunakannya untuk mengakses memori secara langsung.
 - **Alokasi Memori**: Memahami alokasi memori dinamis menggunakan `malloc` dan `free`.
@@ -100,9 +127,16 @@ opsional tapi lebih baik ditulis saja yaa.
 kecuali jika membuat sebuah function, maka letakkan di luar fungsi `main()`.
 - ketika kamu menjumpai error, coba analisis kode kamu tulis apakah ada typo atau kurang penggunaan
 simbol wajib seperti `(){}[]:` dan `;`
+- setiap kode yang kamu ciptakan, Wajib diberi tanda `;` sebagai bagian akhirnya. (misal: `printf("hallo!");`)
+- disarankan ngasih komentar sebagai dokumentasi ringkas dari kutipan sebuah kode.. yaa seperti yang saya lakukan supaya pembaca tidak bingung ini kode apaan🤔..  beberapa bentuk komentar seperti `//blablabla..` dan `/*blablabla..*/`.  
+oh ya dan juga sebuah komentar gak akan di eksekusi mesin, jadi aman aja untuk dituliskan.
 :::
 
 ## Tipe Data dan Variabel
+Biar saya jelaskan sedikit, Setiap komputer itu butuh tipe data... Lalu apa itu tipe data? menurut saya itu adalah semacam Aneka dari jenis informasi yang bisa komputer olah. Contohnya aplikasi kalkulator standar deh, itu butuh data numerik.. bukan abjad untuk di proses perhitungannya, yaa mungkin beda lagi kalau ada kalkulator sains.  
+Setiap informasi itu pasti punya jenis yang berbeda: ada yang angka, huruf, simbol, dan lainnya.  
+contoh lagi kalau kamu punya akun sosial media.. pasti harus input username dan password, itu umumnya pakai tipe data karakter(username) dan angka(password) untuk diproses sistem, bahkan macam-macam tipe data bisa digabung penggunaannya untuk keunikan. jadii...
+
 ***Tipe data*** adalah jenis data yang bisa digunakan dalam program.  
 Tipe data ini akan mempengaruhi bagaimana data akan disimpan dan diolah oleh komputer.  
 
@@ -116,6 +150,7 @@ int a; // tipe data integer ~ menyimpan bilangan bulat 12345...
 float b; // tipe data float ~ menyimpan bilangan desimal 3.14...
 double c; // tipe data double ~ menyimpan bilangan desimal dengan banyak digit 123.456789...
 char d; // tipe data karakter ~ menyimpan karakter 'a', 'b', 'c', '1', '2', '3', ...
+        // serta menyimpan macam-macam simbol seperti '@$#!^&%*()<>?/|\'
 
 /*cara pengisian nilai*/
 
@@ -135,6 +170,7 @@ tipe data primitif adalah tipe data yang paling umum digunakan.
 untuk mendeklarasikan tipe data beserta variabel ingat cara berikut:  
 `<ruas kiri> <tengah> = <nilai(opsional)>;`  
 ruas kiri adalah tipe data, ruas tengah adalah nama variabel, dan `=` adalah operator untuk mengisi nilainya.
+Note: penamaan variabel bebas kok ngasihnya contoh `int skibidi`.
 
 ### Konstanta 
 Kalau tadi variabel itu bisa dimanipulasi nilainya.. kalau konstanta tidak bisa.  
@@ -169,6 +205,8 @@ Perhatikan bahwa konstanta yang didefinisikan dengan #define tidak memiliki tipe
 ---
 
 ## Input output dan contoh penggunaannya
+Secara harfiah, input artinya nilai masukkan (maksudnya nilai yang kamu berikan)  
+sedangkan output adalah nilai yang dikeluarkan setelah diproses oleh program.
 ```c
 // output
 printf("Hello World!"); // output Hello World!
@@ -191,10 +229,11 @@ printf("This is the output: %c", a); // this is the output : blabla...from input
 
 :::important
 Sampai sini dulu...  
-Silahkan experiment dengan menggunakan `printf` dan `scanf` serta penggunaan berbagai variabel untuk memahami cara kerjanya. ini penting untuk anda ketahui bro.
+Silahkan experiment dengan menggunakan `printf` dan `scanf` serta penggunaan berbagai variabel untuk memahami cara kerjanya. ini penting untuk anda ketahui.
 silahkan coba di text editor sendiri atau online compiler di bawah ini 👇  
 [built-in online compiler](#online-compiler)
-  kemudian eksekusi programmnya.
+  kemudian lihat eksekusi programmnya apakah jalan atau error.  
+  Note: Jika program yang error.. itu terkadang dari kesalahan anda sendiri seperti penulisan sintaks yang salah, makanya coba intropeksi apa yang salah dari hasil tulisan anda lalu coba perbaiki.
 :::
 
 ---
@@ -229,6 +268,15 @@ int g = a % b; // g = 0
 ```
 
 ### operator Relasional
+:::important
+disini kamu akan mengenal tentang konsep biner, yaitu 1 dan 0.    
+1 = true,  
+0 = false.  
+
+Dengan kata lain, operator relasional akan menghasilkan nilai boolean, yaitu true atau false.
+- True adalah logika yang di anggap **benar**.
+- False adalah logika yang di anggap **salah**.
+:::
 Operator relasional digunakan untuk membandingkan dua nilai dan menghasilkan nilai boolean (true atau false).
 ```c
 int a = 10;
@@ -242,21 +290,22 @@ int f = a != b; // f = true
 int g = a >= b; // g = true
 int h = a <= b; // h = false
 ```
-:::tip
-- `>` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih besar dari nilai b.
-- `<` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih kecil dari nilai b.
-- `==` adalah operator yang digunakan untuk membandingkan apakah nilai a sama dengan nilai b.
-- `!=` adalah operator yang digunakan untuk membandingkan apakah nilai a tidak sama dengan nilai b.
-- `>=` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih besar dari sama dengan nilai b.
-- `<=` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih kecil dari sama dengan nilai b.
-:::
 :::important
 nilai true dan false di C adalah nilai boolean yang merepresentasikan logika benar dan salah.  
 biasanya diwakili oleh angka `1 = true` dan `0 = false` oleh komputer.  
 yah secara sederhana seperti komputer mengembalikan benar atau salah berdasarkan pengecekan kondisi.
+ibaratnya seperti manusia yang membedakan ini benar atau salah berdasarkan kondisi yang dilihatnya.
+:::
+:::tip
+- `>` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih besar dari nilai b.
+- `<` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih kecil dari nilai b.
+- `==` adalah operator yang digunakan untuk membandingkan apakah nilai a sama dengan nilai b. penulisan operatornya `= =`
+- `!=` adalah operator yang digunakan untuk membandingkan apakah nilai a tidak sama dengan nilai b. penulisan operatornya `! =`
+- `>=` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih besar dari sama dengan nilai b. penulisan operatornya `> =`
+- `<=` adalah operator yang digunakan untuk membandingkan apakah nilai a lebih kecil dari sama dengan nilai b. penulisan operatornya `< =`
 :::
 
-# Operator Logika
+### Operator Logika
 Operator logika digunakan untuk menggabungkan beberapa kondisi atau ekspresi logika.
 ```c
 int a = 10;
@@ -266,6 +315,7 @@ int c = (a > b) && (a < 20); // c = true
 int d = (a < b) || (a > 20); // d = false
 int e = !(a == b); // e = true
 -----------------------------
+/*Contoh lainnya:*/
 int f = (a > b) || (a < 20) && (a != b); // f = true
 int g = (a < b) && (a > 20) || (a == b); // g = false
 int h = !(a > b) && !(a < 20); // h = true
@@ -281,6 +331,122 @@ int m = !(a < b) || !(a > 20) && (a == b); // m = true
 - `||` adalah operator logika `OR` yang digunakan untuk menggabungkan dua ekspresi logika, dimana minimal salah satu ekspresi harus bernilai true agar hasilnya true.
 - `!` adalah operator logika `NOT` yang digunakan untuk menegasikan nilai boolean, yaitu jika nilai true maka akan menjadi false, dan sebaliknya.
 :::
+***Silahkan coba satu persatu contoh di atas untuk tau cara kerjanya***  
+terserah mau experiment di text editor sendiri atau online compiler di bawah ini 👇  
+[online compiler](#online-compiler)  
+![gif](https://media.tenor.com/VmwF50n-d5sAAAAM/narenare-confusing.gif)
+mampus mulai pusing tuh~
+
+## Struktur Kontrol
+Struktur kontrol itu ibaratnya kayak aturan bermain dalam program kita. Mereka membantu program untuk mengambil keputusan dan melakukan tindakan yang **berbeda** tergantung pada **kondisi** tertentu. Tanpa struktur kontrol, program kita hanya akan berjalan lurus dari atas ke bawah tanpa bisa "berpikir" atau "memilih".  
+Ada dua jenis utama struktur kontrol yang akan kita bahas:  
+
+1. **Percabangan** (Conditional Statements): Ini seperti saat kita di persimpangan jalan dan harus memilih belok kanan, kiri, atau lurus. Program akan mengecek suatu kondisi, dan jika kondisi itu benar, ia akan melakukan satu hal; jika salah, ia akan melakukan hal lain.  
+
+2. **Perulangan** (Looping Statements): Ini seperti saat kita harus melakukan hal yang sama berkali-kali, misalnya suatu kondisi dimana harus mengocok kartu sebanyak 52 kali. Program akan mengulang blok kode tertentu selama kondisi tertentu masih terpenuhi. (Kita fokus pada percabangan dulu ya!)  
+
+## Percabangan
+### A. `if-else`: Si Penentu Pilihan "Ya atau Tidak"
+`if-else` adalah percabangan yang paling sederhana. Ia memeriksa apakah suatu kondisi benar atau tidak. Jika benar, ia akan menjalankan perintah di dalamnya. Jika tidak, ia akan melompati perintah tersebut dan melanjutkan ke perintah setelahnya dalam `if-else`.  
+Contohnya berikut:
+```c
+#include <stdio.h>
+
+int main() {
+    int usia;
+
+    printf("Masukkan usia Anda: ");
+    scanf("%d", &usia); // Membaca input usia dari pengguna
+
+    if (usia >= 18) { // Kondisi: apakah usia lebih dari atau sama dengan 18?
+        printf("Anda boleh menonton film dewasa. Selamat menikmati! 🎬\n");
+    } else if (usia >= 12) {
+        printf("Anda boleh menonton film anak-anak. Selamat menikmati! 🎬\n");
+    }
+    else {
+        printf("Maaf, Anda belum cukup umur untuk menonton film dewasa. 👶\n");
+    }
+
+    return 0; // Menandakan program berakhir dengan sukses
+}
+```
+:::tip
+- Didalam blok if ataupun else memerlukan statement kondisi `( //kondisi )` dan blok kode jika kondisi terpenuhi dalam `{ //kode }`.
+- `if` artinya jika kondisi ini blablabla...
+- `else if` artinya jika selain itu kondisi ini blablabla...
+- `else` artinya kalau seluruh kondisi di atas tidak terpenuhi maka ia akan aktif (kode pengecualian).
+:::
+
+### B. `Switch Case`: Si Pemilih Banyak Opsi
+switch-case itu seperti menu di restoran atau tombol pilihan di mesin minuman otomatis. Anda punya banyak pilihan bisa memilihnya sendiri berdasarkan keinginan, dan Anda memilih salah satunya. Daripada harus bertanya pada pengkondisian "Apakah ini A? Kalau tidak, apakah ini B? Kalau tidak, apakah ini C?" berulang-ulang (yang bisa jadi panjang dengan `if-else if-else if`), `switch-case` Bisa membuat kode lebih rapi dan mudah dibaca ketika Anda memiliki banyak opsi untuk satu variabel.  
+Contohnya berikut:
+```c
+#include <stdio.h>
+
+int main() {
+    int hari;
+
+    printf("Masukkan angka hari (1-7): ");
+    scanf("%d", &hari);
+
+    switch (hari) { // Kita akan cek nilai variabel 'hari'
+        case 1:
+            printf("Hari ini adalah Minggu. ☀️\n");
+            break;
+        case 2:
+            printf("Hari ini adalah Senin. 💼\n");
+            break;
+        case 3:
+            printf("Hari ini adalah Selasa. 📚\n");
+            break;
+        case 4:
+            printf("Hari ini adalah Rabu. 📝\n");
+            break;
+        case 5:
+            printf("Hari ini adalah Kamis. 🗓️\n");
+            break;
+        case 6:
+            printf("Hari ini adalah Jumat. 🙏\n");
+            break;
+        case 7:
+            printf("Hari ini adalah Sabtu. 🎉\n");
+            break;
+        default: // Jika angka yang dimasukkan tidak 1-7
+            printf("Angka yang Anda masukkan tidak valid untuk hari. ❓\n");
+            break;
+    }
+
+    return 0;
+}
+```
+:::note[PENJELASAN]
+- Pada contoh diatas, `switch (hari)` akan memeriksa nilai dari variabel `hari`. Setiap `case` akan memeriksa apakah nilai `hari` sama dengan angka yang di dalamnya. Jika ya, ia akan menjalankan perintah di dalamnya. Jika tidak, ia akan melompati perintah tersebut dan melanjutkan ke perintah setelahnya.
+- `default` adalah perintah yang akan dijalankan jika tidak ada `case` yang sesuai dengan nilai `hari` (mirip kayak blok else di `if-else`).
+
+---
+
+- `switch(//variabel)` akan memeriksa apakah nilai `//variabel` sama dengan nilai `case` yang di dalam `{// case-nya}`.
+- `break` adalah perintah yang akan menghentikan perulangan atau percabangan. Jika tidak ada `break`, ia akan menjalankan perintah di bawahnya, meskipun kondisi tidak terpenuhi -- Akan sangat berbahaya kalau anda lupa memberi break ~ jadi wajib diberi untuk setiap case yaa!.
+- **KESIMPULAN**: Switch berbeda dengan if-else karena switch membutuhkan input untuk pengecekan nilainya, sedangan if else tidak membutuhkan input setidaknya mampu melakukan pengecekan nilai langsung di dalam sistem yang sudah diberikan dalam program.
+:::
+
+:::tip
+Kapan Menggunakan if-else dan Kapan switch-case?  
+**Gunakan if-else ketika:**
+- Anda punya dua kemungkinan (benar/salah, ya/tidak).
+- Anda perlu memeriksa rentang nilai (misalnya, `usia >= 18 atau nilai > 70 && nilai <= 100`).
+- Anda punya kondisi yang kompleks dengan operator logika (`&& (AND), || (OR), ! (NOT)`).
+
+**Gunakan switch-case ketika:**
+
+- Anda punya satu variabel yang bisa memiliki banyak nilai diskrit (nilai yang jelas dan terpisah, bukan rentang), dan Anda ingin melakukan tindakan berbeda untuk setiap nilai.
+- Anda ingin kode lebih rapi dan mudah dibaca dibandingkan banyak if-else if-else.
+:::
+
+---
+
+## Perulangan
+
 
 ### contoh implementasi gabungan dari materi diatas
 ![restauran-foods](https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8fDA%3D)
@@ -517,3 +683,7 @@ Kalau kamu penasaran ingin coba materi yang kamu pelajari tadi, silahkan coba di
 ---
 Click tombol ini jika ingin 
 [Kembali ke atas](#pengenalan-apa-itu-pemerograman-bahasa-c)
+
+Sekian saya cukupkan dari ribuan kata yang telah saya tuliskan. Terima kasih banyak sudah membaca.  
+Capek njir 😊 Funfact: Pengerjaan artikel ini membutuhkan waktu 7 hari 1 malam... thats insane.
+![gif](https://media.tenor.com/ZBtJFtWJeFYAAAAM/ga-logis-ambatukam.gif) ![gif](https://media.tenor.com/i6pfhZCP1QcAAAAm/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B0%8F%E5%AD%A4%E7%8D%A8.webp)
