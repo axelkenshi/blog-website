@@ -34,7 +34,8 @@ Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep
 > "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. Norman Ramsey.  
 
 Okelah saya cukupkan sampai disini aja, selamat belajar -- santai aja bacanya.  
-semoga anda bisa fasih pemerograman C dalam waktu 1-2 bulan saja.
+semoga anda bisa fasih pemerograman C dalam waktu 1-2 bulan saja.  
+saya yakin 100% semua konsep pemerograman akan berguna jika sudah dikuasai, apalagi mempermudah saat belajar bahasa pemerograman lain nantinya.  
 ![gif](https://media.tenor.com/L3ZGtEmZvncAAAAm/kokomi-dizzy.webp)
 
 ## Pengenalan: Apa itu Pemerograman Bahasa C?
@@ -88,7 +89,11 @@ Untuk mempelajari bahasa C, berikut adalah beberapa konsep dasar yang perlu dipa
 - [**Struktur Kontrol**](#struktur-kontrol): Memahami cara menggunakan struktur kontrol yang akan mengatur alur sistem bekerja.
     - [**Percabangan**](#percabangan): Memahami cara membuat keputusan program berdasarkan kondisi tertentu. (if-else, switch case).
     - [**Perulangan**](#perulangan): Memahami cara menggunakan perulangan untuk menjalankan blok kode secara berulang. (for, while, do-while).
-- **Fungsi**: Memahami cara mendeklarasikan dan menggunakan fungsi untuk memecah kode menjadi bagian-bagian yang lebih kecil dan terorganisir.
+- [**Study case #1**](#study-case-contoh-implementasi-gabungan-dari-materi-diatas): Mempraktekan dan memahami contoh penggunaan kombinasi konsep diatas.
+- **Subprogram**: Memahami cara membuat subprogram untuk memecah kode menjadi bagian-bagian yang lebih kecil dan terorganisir.
+    - **Fungsi**: Memahami cara mendeklarasikan dan menggunakan fungsi untuk memecah kode menjadi bagian-bagian yang lebih kecil dan terorganisir.
+    - **Prosedur**: Memahami cara membuat subprogram yang tidak mengembalikan nilai.
+    - **Prosedur dengan nilai kembalian**: Memahami cara membuat subprogram yang mengembalikan nilai.
 - **Struktur Data**: Memahami struktur data seperti array, linked list, tree, dan graph.
     - **Array**: Memahami cara menggunakan array untuk menyimpan kumpulan data dengan tipe yang sama.
     - **Linked List**: Memahami cara kerja linked list dan bagaimana menggunakan pointer untuk mengakses dan mengelola data.
@@ -162,7 +167,10 @@ juga sebuah komentar gak akan di eksekusi mesin, jadi aman aja untuk dituliskan.
 - ketika kamu membuat sebuah perintah maka letakkan di dalam fungsi `main()`.  
 kecuali jika membuat sebuah function, maka boleh saja letakkan di luar fungsi `main()` *nanti dibahas.
 :::
-
+:::tip
+Jangan cuma membaca contohnya lalu di-skip mentang mentang paham, tapi coba kamu bikin sendiri secara kreatif dari contoh yang ada.
+Cobalah juga salin kode contoh untuk di running di kode editor.. supaya bisa memahami cara kerja-nya.
+:::
 ## Tipe Data dan Variabel
 Biar saya jelaskan sedikit, Setiap komputer itu butuh tipe data... Lalu apa itu tipe data? menurut saya itu adalah semacam Aneka dari jenis informasi yang bisa komputer olah. Contohnya aplikasi kalkulator standar deh, itu butuh data numerik.. bukan abjad untuk di proses perhitungannya, yaa mungkin beda lagi kalau ada kalkulator sains.  
 Setiap informasi itu pasti punya jenis yang berbeda: ada yang angka, huruf, simbol, dan lainnya.  
@@ -209,6 +217,9 @@ Mirip seperti konsep di matematika yang menggunakan konstanta sebagai nilai teta
 contohnya adalah `pi = 3.14`.
 
 ```c title="how to use constanta"
+int a = 10;
+int hasil_perkalian = a * 2;
+------------------------------------
 const float phi = 10;
 // phi tidak bisa diubah nilainya
 // biasanya diletakkan dalam fungsi main
@@ -233,6 +244,13 @@ hal ini pun berlaku pada pembuatan sintaks lain, seperti kata kunci `int`, `char
 - const memungkinkan deklarasi konstanta dengan tipe data tertentu, sedangkan #define tidak.
 - Konstanta yang didefinisikan dengan const akan muncul dalam informasi debugging, sedangkan konstanta #define tidak.
 - const dapat memiliki scope lokal (dalam blok fungsi atau kode), sedangkan #define biasanya bersifat global.
+:::
+:::tip
+**Ada tiga cara** mendefinisikan konstanta dalam bahasa C, yaitu:
+
+1. Dengan menuliskan nilainya secara langsung (disebut sebagai "literal" sesuai konvensi penulisan dalam bahasanya). Dengan cara ini, tidak mungkin muncul dalam deklarasi nama (karena tidak bernama), dan juga tidak mungkin ditulis di ruas kiri tanda assignment = karena akan menimbulkan salah sintaks.
+2. Dengan memanfaatkan macro berkata kunci #define.
+3. Dengan mendeklarasikan sebagai const kemudian menyebutkan type dan nilainya.
 :::
 
 ---
@@ -283,18 +301,21 @@ silahkan coba di text editor sendiri atau online compiler di bawah ini 👇
 ---
 
 ## Operator
-Operator adalah operasi yang dilakukan pada nilai-nilai dalam program.  
-ada 3 jenis operator yang akan kita bahas :  
-utama :
+Dalam pemrograman C, operator itu seperti alat khusus yang kita gunakan untuk melakukan berbagai macam operasi atau pengolahan terhadap nilai-nilai (disebut juga operand).  
+
+Misalnya, kalau Anda punya angka 5 dan 3, lalu Anda ingin menambahkannya, Anda butuh alat `+` (operator penjumlahan). Kalau Anda ingin membandingkan apakah 5 lebih besar dari 3, Anda butuh alat `>` (operator perbandingan "lebih dari").  
+
+Intinya Operator adalah operasi yang dilakukan untuk mengolah nilai-nilai dalam program.  
+Sekarang, mari kita lihat beberapa jenis operator lain yang mungkin terdengar rumit tapi sebenarnya punya kegunaan yang jelas.   
+utama (sering dipakai):
 - Operator [Aritmatika](#operator-aritmatika)
 - Operator [Relasional](#operator-relasional)
 - operator [Logika](#operator-logika)
 
 tambahan :
-- Operator Bitwise
-- Operator Penugasan
-- Operator Unary
-- Operator Ternary
+- Operator [Penugasan](#operator-penugasan)
+- Operator [Unary](#operator-unary)
+- Operator [Ternary](#operator-ternary)
 
 ### Operator Aritmatika
 Penggunaannya sama seperti operasi matematika dasar yang kamu pelajari di sekolah.  
@@ -381,7 +402,136 @@ terserah mau experiment di text editor sendiri atau online compiler di bawah ini
 ![gif](https://media.tenor.com/VmwF50n-d5sAAAAM/narenare-confusing.gif)
 mampus mulai pusing tuh 😹
 
-## Struktur Kontrol
+## Tambahan konsep operator lainnya
+### Operator Penugasan
+Operator ini digunakan untuk memberikan nilai ke sebuah variabel. Simbol dasar adalah = .
+- `=` : Menugaskan nilai di sebelah kanan ke variabel di sebelah kiri.
+- `+=` : Menugaskan hasil penjumlahan (variabel = variabel + nilai).
+- `-=` : Menugaskan hasil pengurangan (variabel = variabel - nilai).
+- `*=` : Menugaskan hasil perkalian (variabel = variabel * nilai).
+- `/=` : Menugaskan hasil pembagian (variabel = variabel / nilai).
+- `%=` : Menugaskan sisa hasil bagi (variabel = variabel % nilai).
+```c title="Contoh penerapannya:"
+#include <stdio.h>
+
+int main() {
+    int x = 10; // Operator penugasan '='
+
+    printf("--- Operator Penugasan ---\n");
+    printf("Nilai awal x: %d\n", x);
+
+    x += 5; // x = x + 5; (10 + 5 = 15)
+    printf("x setelah x += 5: %d\n", x);
+
+    x -= 3; // x = x - 3; (15 - 3 = 12)
+    printf("x setelah x -= 3: %d\n", x);
+
+    x *= 2; // x = x * 2; (12 * 2 = 24)
+    printf("x setelah x *= 2: %d\n", x);
+
+    x /= 4; // x = x / 4; (24 / 4 = 6)
+    printf("x setelah x /= 4: %d\n", x);
+
+    x %= 3; // x = x % 3; (6 % 3 = 0)
+    printf("x setelah x %= 3: %d\n", x);
+
+    return 0;
+}
+```
+### Operator unary
+Operator ini hanya memerlukan satu nilai (**operand**(disebut nilai untuk operasi)) untuk bejalan.
+- `+` : Menunjukkan nilai positif (jarang digunakan karena default-nya positif).
+- `-` : Mengubah tanda nilai menjadi negatif.
+- `++` : Menambah nilai variabel sebanyak 1. (Bisa ++variabel atau variabel++)
+- `--` : Mengurangi nilai variabel sebanyak 1. (Bisa --variabel atau variabel--)
+- `!` : Operator logika NOT. Membalikkan nilai boolean (true menjadi false, false menjadi true).
+- `&` : Mengambil alamat memori dari sebuah variabel (Operator Referensi).
+- `*` : Mengakses nilai pada alamat memori yang ditunjuk (Operator Dereferensi/Pointer).
+- `sizeof` : Mengembalikan ukuran (dalam byte) dari tipe data atau variabel.
+``` c title="Contoh penggunaannya:"
+#include <stdio.h>
+
+int main() {
+    int a = 5;
+    int b = 10;
+    int c = -7;
+    int ukuran_int;
+    int is_true = 1; // 1 dianggap true, 0 dianggap false
+
+    printf("--- Operator Unary ---\n");
+
+    printf("Nilai positif: %d\n", +a);  // +a = 5
+    printf("Nilai negatif: %d\n", -c);  // -c = 7
+
+    // Increment/Decrement
+    printf("Nilai a awal: %d\n", a); // 5
+    printf("a++ (post-increment): %d\n", a++); // Akan mencetak 5, baru a jadi 6
+    printf("Nilai a sekarang: %d\n", a); // 6
+
+    printf("Nilai b awal: %d\n", b); // 10
+    printf("++b (pre-increment): %d\n", ++b); // b jadi 11, baru dicetak 11
+
+    printf("Nilai a awal (lagi): %d\n", a); // 6
+    printf("a-- (post-decrement): %d\n", a--); // Akan mencetak 6, baru a jadi 5
+    printf("Nilai a sekarang: %d\n", a); // 5
+
+    printf("Nilai b awal (lagi): %d\n", b); // 11
+    printf("--b (pre-decrement): %d\n", --b); // b jadi 10, baru dicetak 10
+
+    // Logika NOT
+    printf("is_true awal: %d\n", is_true); // 1 (true)
+    printf("!is_true (NOT): %d\n", !is_true); // 0 (false)
+
+    // sizeof
+    ukuran_int = sizeof(int); // Mengembalikan ukuran tipe data int dalam byte
+    printf("Ukuran int: %d bytes\n", ukuran_int);
+
+    // Operator & (alamat) dan * (nilai di alamat)
+    int var = 100;
+    int *ptr; // Deklarasi pointer
+
+    ptr = &var; // &var mengambil alamat memori dari 'var'
+    printf("Alamat memori var: %p\n", (void*)ptr); // %p untuk alamat
+
+    printf("Nilai yang ditunjuk ptr (*ptr): %d\n", *ptr); // *ptr mengakses nilai di alamat yang ditunjuk ptr
+
+    return 0;
+}
+```
+
+### Operator Ternary (kondisional)
+Ini adalah operator yang ringkas untuk ekspresi if-else sederhana.  
+Operator ini unik karena memerlukan tiga operand dan digunakan untuk keputusan singkat.  
+`? : :` Disebut juga operator kondisional. Sintaksnya: `kondisi ? nilai_jika_benar : nilai_jika_salah;`.
+```c title="contoh penggunaannya:"
+#include <stdio.h>
+
+int main() {
+    int nilai = 75;
+    char *status; // Untuk menyimpan string
+
+    printf("--- Operator Ternary ---\n");
+
+    // Jika nilai >= 60, status adalah "Lulus", jika tidak "Gagal"
+    status = (nilai >= 60) ? "Lulus" : "Gagal";
+
+    printf("Nilai Anda: %d, Status: %s\n", nilai, status);
+
+    nilai = 50;
+    status = (nilai >= 60) ? "Lulus" : "Gagal";
+    printf("Nilai Anda: %d, Status: %s\n", nilai, status);
+
+    return 0;
+}
+```
+***Silahkan coba satu persatu contoh di atas untuk tau cara kerjanya***  
+terserah mau experiment di text editor sendiri atau online compiler di bawah ini 👇  
+[online compiler](#online-compiler)  
+![gif](https://media1.tenor.com/m/6NmJ_aDfghwAAAAC/waduh-kumala.gif)
+
+---
+
+# Struktur Kontrol
 Struktur kontrol itu ibaratnya kayak aturan bermain dalam program kita. Mereka membantu program untuk mengambil keputusan dan melakukan tindakan yang **berbeda** tergantung pada **kondisi** tertentu. Tanpa struktur kontrol, program kita hanya akan berjalan lurus dari atas ke bawah tanpa bisa "berpikir" atau "memilih".  
 Ada dua jenis utama struktur kontrol yang akan kita bahas:  
 
@@ -625,7 +775,8 @@ Perbedaan utama antara while dan do-while:
 - while: Perulangan dieksekusi selama kondisi benar.
 - do-while: Perulangan dieksekusi setidaknya sekali, lalu dicek kondisi.
 
-### contoh implementasi gabungan dari materi diatas
+### Study Case: contoh implementasi gabungan dari materi diatas
+Oke cukup sampai sini dulu sebagai istirahat, mari praktikkan apa yang sudah dipelajari dengan membuat program sederhana dari berbagai konsep yang sudah dipelajari seperti sintaksis, tipe data dan variabel, konstanta, input output, operator dan struktur kontrol.
 ![restauran-foods](https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8fDA%3D)
 ```c title="restaurant menu" collapse={7-109}
 #include <stdio.h> // Diperlukan untuk fungsi input/output seperti printf dan scanf
