@@ -27,13 +27,14 @@ Halo semuanya, saya Axel-- penulis dari blog ini. Saya disini berniat menuangkan
 Maka dari itu saya bakal jelaskan dengan cara yang gampang dipahami anak smp sekalipun.  
 
 Sebelum kamu belajar pemerograman, kamu harus tau alasan kenapa tertarik pada pemerograman -- coba baca [Manfaat coding](https://luminarysirx.my.id/posts/whylearncoding/).  
+Serta harus tau masing masing kegunaan tombol-tombol dalam [keyboard](https://luminarysirx.my.id/posts/keyboard/).  
 
-Disekolah selama mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari teknologi yang kita gunakan selama ini.
+Disekolah selama ini mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari beberapa teknologi yang kita gunakan selama ini.
 Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep baru yang kedengaran rumit sebagai orang yang masih awam~ padahal gampang banget.  
 > "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. Norman Ramsey.  
 
 Okelah saya cukupkan sampai disini aja, selamat belajar -- santai aja bacanya.  
-semoga you bisa mengerti pemerograman C dalam waktu 1 bulan saja.
+semoga anda bisa fasih pemerograman C dalam waktu 1-2 bulan saja.
 ![gif](https://media.tenor.com/L3ZGtEmZvncAAAAm/kokomi-dizzy.webp)
 
 ## Pengenalan: Apa itu Pemerograman Bahasa C?
@@ -64,10 +65,22 @@ Untuk belajar bahasa pemrograman C, kamu bisa mengikuti langkah-langkah berikut:
 4. Menjalankan kode
 5. Mengulang langkah-langkah tersebut sampai mahir serta terbiasa.
 
+### Sebelum memulai menulis kode, ada yang perlu disiapkan... 
+Hal pertama yang perlu kamu siapkan pada device komputer atau gadget lainnya; adalah code editor / text editor.  
+Gunanya untuk mengotak atik baris kode yang akan dituliskan nantinya.  
+Untuk belajar bahasa C, disarankan menggunakan code editor yang sederhana. Ada banyak code editor yang bisa kamu gunakan, namun disini saya sarankan untuk menggunakan Dev C++. Atau pun juga ada Visual Studio Code adalah code editor yang banyak digunakan oleh para developer -- silahkan pilih sesuka hati pakai yang mana.  
+**A. Link download software kode editor** [dev C](https://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C%2B%2B%204.9.9.2/devcpp-4.9.9.2_setup.exe/download).  
+Nah sekalian setelah download, coba tonton tutorial pemakaian aplikasinya.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut-M21Unhuo?si=kkjl6BWvY47ryoST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**B. Link download software Visual Studio Code** [VSCode](https://code.visualstudio.com/download).  
+Nah sekalian setelah download, coba tonton tutorial pemakaian aplikasinya.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9563Y0kxxzM?si=pS5_A98YhjbDc3-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Apa saja yang harus dipelajari dalam bahasa C?
 Oh iya.. ini juga sebagai daftar isi dari apa yang bakal kita bahas.  
 Untuk mempelajari bahasa C, berikut adalah beberapa konsep dasar yang perlu dipahami:
-- [**Sintaks Dasar**](#konseptual-dasar-bahasa-pemerograman-c): Memahami cara penulisan kode, seperti penggunaan tanda kurung, titik koma, dan struktur kontrol.
+- [**Sintaks Dasar**](#konseptual-dasar-bahasa-pemerograman-c): Memahami cara penulisan kode, seperti penggunaan tanda kurung, titik koma, dan struktur program.
 - [**Tipe Data dan Variabel**](#tipe-data-dan-variabel): Memahami tipe data dasar seperti integer, float, char, dan lainnya.
 - [**Input output dan contoh penggunaannya**](#input-output-dan-contoh-penggunaannya): Memahami cara membuat perintah input dan output.
 - [**Konstanta**](#konstanta): Memahami cara mendeklarasikan variabel dan konstanta, serta cara menggunakannya dalam kode.
@@ -101,11 +114,24 @@ Next kita bahas konsep dasar bahasa C.
 
 ![coding icon](https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHByb2dyYW1tZXJ8ZW58MHx8MHx8fDA%3D)
 # Konseptual dasar bahasa pemerograman C
-Disini akan saya coba kenalkan beberapa konsep yang perlu kamu mengerti untuk membuat sebuah perintah di program C beserta penjelasannya.
+Disini akan saya coba kenalkan beberapa konsep yang perlu kamu mengerti untuk membuat sebuah perintah di program C beserta penjelasannya.  
 
+Mulai sekarang dan selanjutnya selama belajar pemerograman C, kita akan sering berinteraksi dengan media CLI (Command line interface) atau disebut juga sebagai Terminal (semacam media input output program sederhana dengan antarmuka/tampilan 2d dalam bentuk teks saja) biasanya dia akan terbuka jika kode program di eksekusi. -- contohnya kayak gini:
+![img](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52881909218_15f72bb07c_o.jpg)
+Kalau dari sudut pandang code editor, kira-kira bakal seperti ini bagian ngoding-nya:  
+![gif](https://code.visualstudio.com/assets/updates/1_97/nes-arrow-directions.gif)
+Oke cukup begitu saja gambaran awal sebelum mulai belajar..  
+
+---
+
+# Fondasi awal dari segalanya...
 ## Struktur Program C
+Struktur kode itu seperti serangkaian aturan yang harus dipatuhi agar program yang kamu buat bisa dijalankan.  
+Struktur kode itu tidak bisa diubah-ubah secara ngawur.. Ibaratnya seperti aturan saat membuat puisi atau pantun tergantung jenisnya sih.. Gunanya supaya menjaga keindahan dan kerapihan dari kode itu sendiri.
+
 Lihat bagaimana penulisan awal struktur program..  
-sebelum menulis perintah(disebut syntax-- Aturan-aturan yang mengatur bagaimana kode harus ditulis agar dapat dipahami oleh komputer)
+sebelum menulis perintah~  
+(Perintah dianggap juga sebagai Syntax-- Aturan-aturan yang mengatur bagaimana kode harus ditulis agar dapat dipahami oleh komputer... Dengan kata lain Syntax merupakan aturan tata bahasa yang digunakan untuk menulis perintah tersebut agar dapat dipahami oleh komputer).
 ```c
 #include <stdio.h>
 int main() {
@@ -121,15 +147,20 @@ di dalam `{}` inilah kamu bisa menuliskan perintah yang di inginkan.
 4. `return 0;`: untuk menghentikan program ketika selesai eksekusi dan mengembalikan nilai 0.  
 opsional tapi lebih baik ditulis saja yaa.
 
-:::warning
+:::warning[PERINGATAN TERKAIT SELURUH MATERI UNTUK KEDEPANNYA JUGA]
+- Khusus untuk kamu sebagai pemula, selalu ingat ini... Dalam setiap hendak membuat program C, Pastikan pembuatan file nya benar seperti `pertama-belajar.c` Pastikan ekstensi di akhirnya adalah `.c`, bukan `.txt .cpp .js etc.`. Ada beberapa rules yang harus di ingat:
+    - Nama file harus sama dengan kegunaannya begitupula dengan variabel, jangan gaje -- contoh baik:`kalkulator.c`.
+    - Perhatikan huruf besar dan kecilnya baik dari file ataupun kode program yang kamu buat nantinya.
+    - Dalam penamaan **file** dan **variabel** tidak boleh pakai `spasi` dan karakter aneh `@#%$ !*&.c`.
+    sebagai gantinya kalau diperlukan pemisah sebagai jarak penamaan, gunakan `_` (underscore) contoh: `pertama_belajar.c` atau `-` (Dash/strip) contoh: `first-time.c`
 - Ketika kamu membuat program C, kamu harus menambahkan `#include <library>`  dan itu wajib beserta struktur programmya.  
-- ketika kamu membuat sebuah perintah maka letakkan di dalam fungsi `main()`.  
-kecuali jika membuat sebuah function, maka letakkan di luar fungsi `main()`.
 - ketika kamu menjumpai error, coba analisis kode kamu tulis apakah ada typo atau kurang penggunaan
 simbol wajib seperti `(){}[]:` dan `;`
 - setiap kode yang kamu ciptakan, Wajib diberi tanda `;` sebagai bagian akhirnya. (misal: `printf("hallo!");`)
 - disarankan ngasih komentar sebagai dokumentasi ringkas dari kutipan sebuah kode.. yaa seperti yang saya lakukan supaya pembaca tidak bingung ini kode apaan🤔..  beberapa bentuk komentar seperti `//blablabla..` dan `/*blablabla..*/`.  
-oh ya dan juga sebuah komentar gak akan di eksekusi mesin, jadi aman aja untuk dituliskan.
+juga sebuah komentar gak akan di eksekusi mesin, jadi aman aja untuk dituliskan.
+- ketika kamu membuat sebuah perintah maka letakkan di dalam fungsi `main()`.  
+kecuali jika membuat sebuah function, maka boleh saja letakkan di luar fungsi `main()` *nanti dibahas.
 :::
 
 ## Tipe Data dan Variabel
@@ -196,12 +227,14 @@ Perhatikan bahwa konstanta yang didefinisikan dengan #define tidak memiliki tipe
 - Konstanta tidak bisa di deklarasikan di dalam function.
 - Konstanta biasanya diletakkan di luar fungsi `main()` untuk memudahkan akses dan penggunaan di seluruh program.
 :::
-:::warning
-- *Setiap pen-deklarasian _varibel_ ataupun sebuah _fungsi_ Ada yang namanya Case Sensitive, yaitu dimana huruf besar dan kecil akan dianggap berbeda.  Contohnya: `int Angka` dan `int angka` kedua variabel tersebut adalah entitas berbeda meskipun beda satu huruf saja. hal ini pun berlaku pada pembuatan fungsi lainnya.*
+:::warning[SUPER WARNING]
+- *Setiap pen-deklarasian _varibel_, _konstanta_ ataupun sebuah _fungsi_ Ada yang namanya ***Case Sensitive***, yaitu dimana huruf besar dan kecil akan dianggap berbeda.  Contohnya: `int Angka` dan `int angka` kedua variabel tersebut adalah entitas berbeda meskipun beda satu huruf saja.  
+hal ini pun berlaku pada pembuatan sintaks lain, seperti kata kunci `int`, `char`, `float`, `if`, `else`, `printf`, dll --pun juga harus dituliskan dalam huruf **kecil**. Bahkan kamu memberikan nama pada file pun tidak boleh sama persis, harus unik setidaknya; seperti `contoh.txt` dan `Contoh.txt`.
 - const memungkinkan deklarasi konstanta dengan tipe data tertentu, sedangkan #define tidak.
 - Konstanta yang didefinisikan dengan const akan muncul dalam informasi debugging, sedangkan konstanta #define tidak.
 - const dapat memiliki scope lokal (dalam blok fungsi atau kode), sedangkan #define biasanya bersifat global.
 :::
+
 ---
 
 ## Input output dan contoh penggunaannya
@@ -214,6 +247,9 @@ printf("Hello World!"); // output Hello World!
 // input
 char a;
 scanf("%c", &a);
+
+// output program
+printf("Your input successful to process! \n");
 printf("This is the output: %c", a); // this is the output : blabla...from input
 ```
 :::note
@@ -225,6 +261,14 @@ printf("This is the output: %c", a); // this is the output : blabla...from input
 - `%lf` adalah format spesifier untuk double, yang digunakan dalam `scanf` untuk membaca input bilangan desimal dengan presisi tinggi.
 - `%s` adalah format spesifier untuk string, yang digunakan dalam `scanf` untuk membaca input string.
 - `&` adalah operator yang digunakan untuk mengambil alamat dari variabel, sehingga `scanf` dapat menyimpan nilai input ke dalam variabel tersebut.
+:::
+:::tip
+Beberapa typografi supaya penulisan output lebih rapih dan indah:
+- `\n` adalah karakter typografi yang digunakan untuk membuat baris baru.
+- `\t` adalah karakter typografi yang digunakan untuk membuat tab.
+- `\\` adalah karakter typografi yang digunakan untuk membuat backslash.
+- `\"` adalah karakter typografi yang digunakan untuk membuat tanda kutip.
+- `\'` adalah karakter typografi yang digunakan untuk membuat tanda kutip tunggal.
 :::
 
 :::important
@@ -335,7 +379,7 @@ int m = !(a < b) || !(a > 20) && (a == b); // m = true
 terserah mau experiment di text editor sendiri atau online compiler di bawah ini 👇  
 [online compiler](#online-compiler)  
 ![gif](https://media.tenor.com/VmwF50n-d5sAAAAM/narenare-confusing.gif)
-mampus mulai pusing tuh~
+mampus mulai pusing tuh 😹
 
 ## Struktur Kontrol
 Struktur kontrol itu ibaratnya kayak aturan bermain dalam program kita. Mereka membantu program untuk mengambil keputusan dan melakukan tindakan yang **berbeda** tergantung pada **kondisi** tertentu. Tanpa struktur kontrol, program kita hanya akan berjalan lurus dari atas ke bawah tanpa bisa "berpikir" atau "memilih".  
@@ -359,12 +403,12 @@ int main() {
     scanf("%d", &usia); // Membaca input usia dari pengguna
 
     if (usia >= 18) { // Kondisi: apakah usia lebih dari atau sama dengan 18?
-        printf("Anda boleh menonton film dewasa. Selamat menikmati! 🎬\n");
+        printf("Anda boleh menonton film dewasa. Selamat menikmati! \n");
     } else if (usia >= 12) {
-        printf("Anda boleh menonton film anak-anak. Selamat menikmati! 🎬\n");
+        printf("Anda boleh menonton film anak-anak. Selamat menikmati! \n");
     }
     else {
-        printf("Maaf, Anda belum cukup umur untuk menonton film dewasa. 👶\n");
+        printf("Maaf, Anda belum cukup umur untuk menonton film dewasa. \n");
     }
 
     return 0; // Menandakan program berakhir dengan sukses
@@ -391,28 +435,28 @@ int main() {
 
     switch (hari) { // Kita akan cek nilai variabel 'hari'
         case 1:
-            printf("Hari ini adalah Minggu. ☀️\n");
+            printf("Hari ini adalah Minggu. \n");
             break;
         case 2:
-            printf("Hari ini adalah Senin. 💼\n");
+            printf("Hari ini adalah Senin. \n");
             break;
         case 3:
-            printf("Hari ini adalah Selasa. 📚\n");
+            printf("Hari ini adalah Selasa. \n");
             break;
         case 4:
-            printf("Hari ini adalah Rabu. 📝\n");
+            printf("Hari ini adalah Rabu. \n");
             break;
         case 5:
-            printf("Hari ini adalah Kamis. 🗓️\n");
+            printf("Hari ini adalah Kamis. \n");
             break;
         case 6:
-            printf("Hari ini adalah Jumat. 🙏\n");
+            printf("Hari ini adalah Jumat. \n");
             break;
         case 7:
-            printf("Hari ini adalah Sabtu. 🎉\n");
+            printf("Hari ini adalah Sabtu. \n");
             break;
         default: // Jika angka yang dimasukkan tidak 1-7
-            printf("Angka yang Anda masukkan tidak valid untuk hari. ❓\n");
+            printf("Angka yang Anda masukkan tidak valid untuk hari. \n");
             break;
     }
 
@@ -438,15 +482,148 @@ Kapan Menggunakan if-else dan Kapan switch-case?
 - Anda punya kondisi yang kompleks dengan operator logika (`&& (AND), || (OR), ! (NOT)`).
 
 **Gunakan switch-case ketika:**
-
-- Anda punya satu variabel yang bisa memiliki banyak nilai diskrit (nilai yang jelas dan terpisah, bukan rentang), dan Anda ingin melakukan tindakan berbeda untuk setiap nilai.
 - Anda ingin kode lebih rapi dan mudah dibaca dibandingkan banyak if-else if-else.
+- Anda punya satu variabel yang bisa memiliki banyak nilai diskrit (nilai yang jelas dan terpisah, bukan rentang), dan Anda ingin melakukan tindakan berbeda untuk setiap nilai. 
+
+(sedikit info: Nilai diskrit adalah nilai-nilai yang terpisah dan dapat dihitung, biasanya dalam bentuk bilangan bulat, yang tidak dapat dipecah menjadi nilai yang lebih kecil atau desimal. Contohnya adalah jumlah siswa dalam satu kelas atau jumlah mobil di tempat parkir. Sebaliknya, nilai kontinu adalah nilai yang dapat diukur dan dapat memiliki nilai di antara titik-titik yang terukur, seperti tinggi badan atau suhu. yah anda bisa cari tau sendiri di pelajaran matematika).
 :::
 
 ---
 
+![gif](https://media.tenor.com/92wsxnhSzBEAAAAM/dance-anime.gif)
 ## Perulangan
+Bayangkan Anda memiliki tugas yang harus diulang berkali-kali. Misalnya, menulis suatu kalimat sebanyak 100 kali..  Melakukannya secara manual pasti sangat melelahkan, bukan?  
 
+Nah, dalam dunia pemrograman, kita punya perulangan (atau dalam bahasa Inggris disebut loop) yang bertugas persis seperti itu: membuat komputer melakukan suatu pekerjaan berulang kali secara otomatis.  
+
+### Analogi sederhana-nya
+Anggap saja perulangan itu seperti mesin fotokopi otomatis. Anda cukup memberikan satu dokumen (program yang ingin diulang) dan memberitahu berapa banyak salinan yang Anda inginkan (berapa kali perulangan harus berjalan). Mesin fotokopi akan melakukannya tanpa Anda perlu menekan tombol satu per satu.  
+
+### Jenis-jenis Perulangan di Bahasa C
+Dalam bahasa C, ada beberapa "mesin fotokopi" yang bisa kita gunakan, yaitu:
+
+- **A. for loop** (Perulangan "Untuk"):
+Ini seperti Anda sudah tahu pasti berapa banyak salinan yang Anda inginkan.  
+Contoh: "Untuk 10 kali, cetak tulisan 'Halo!'"  
+Sangat cocok jika Anda sudah tahu dari awal berapa kali tugas harus diulang.  
+
+- **B. while loop** (Perulangan "Selama"):
+Ini seperti Anda terus menyalin dokumen selama masih ada kertas di baki. Anda tidak tahu pasti berapa banyak salinan yang akan dibuat, tapi Anda tahu bahwa perulangan akan berhenti jika syaratnya tidak terpenuhi.  
+Contoh: "Selama persediaan barang masih ada, masukkan ke dalam keranjang."  
+Sangat cocok jika perulangan bergantung pada suatu kondisi yang bisa berubah.  
+
+- **C. do-while loop** (Perulangan "Lakukan Selama"):
+Ini mirip dengan while loop, tapi ada satu perbedaan penting: tugas pasti akan dilakukan minimal satu kali, baru kemudian dicek kondisinya.  
+Contoh: "Lakukan proses belanja, lalu cek apakah Anda ingin belanja lagi. Jika ya, ulangi."  
+Cocok jika Anda ingin memastikan bahwa kode di dalam perulangan dijalankan setidaknya sekali.  
+
+## Contoh dari masing masing tiga perulangan diatas
+### A. For loop (Perulangan "Untuk")
+Ini cocok ketika kita sudah tahu pasti berapa kali kita ingin mengulang sesuatu.  
+
+**Skenario:** Kita ingin mencetak angka dari 1 sampai 3.  
+
+**Logika:** "Untuk angka i yang dimulai dari 1, selama i masih kurang dari atau sama dengan 3, dan i bertambah 1 setiap putaran, cetak nilai i."  
+```c
+#include <stdio.h> // Untuk fungsi printf
+
+int main() {
+    printf("--- Demonstrasi 'for' Loop ---\n");
+    // 'i' adalah penghitung kita
+    // Dimulai dari 1; berhenti saat i > 3; i bertambah 1 setiap putaran
+    for (int i = 1; i <= 3; i++) {
+        printf("Angka: %d\n", i); // Cetak nilai 'i' saat ini
+    }
+    printf("Selesai 'for' Loop!\n");
+    return 0;
+}
+```
+```txt title="Output Program"
+--- Demonstrasi 'for' Loop ---
+Angka: 1
+Angka: 2
+Angka: 3
+Selesai 'for' Loop!
+```
+
+### B. while Loop (Perulangan "Selama")
+Ini cocok ketika kita ingin mengulang sesuatu selama suatu kondisi masih benar. Kita mungkin tidak tahu berapa kali tepatnya akan berulang.  
+
+**Skenario:** Kita ingin mencetak angka mulai dari 1, tapi hanya selama angka itu masih kurang dari atau sama dengan 3.  
+
+**Logika:** "Selama angka a (yang dimulai dari 1) masih kurang dari atau sama dengan 3, cetak angka a, lalu tambahkan a."  
+```c
+#include <stdio.h> // Untuk fungsi printf
+
+int main() {
+    printf("\n--- Demonstrasi 'while' Loop ---\n");
+    int a = 1; // Inisialisasi penghitung 'a'
+    
+    // Perulangan akan berjalan selama 'a' kurang dari atau sama dengan 3
+    while (a <= 3) {
+        printf("Angka: %d\n", a); // Cetak nilai 'a'
+        a++; // Penting: Jangan lupa ubah nilai 'a' agar kondisi suatu saat salah (biar tidak looping terus tanpa henti)
+    }
+    printf("Selesai 'while' Loop!\n");
+    return 0;
+}
+```
+```txt title="Output Program"
+--- Demonstrasi 'while' Loop ---
+Angka: 1
+Angka: 2
+Angka: 3
+Selesai 'while' Loop!
+```
+
+### C. do-while Loop (Perulangan "Lakukan... Selama")
+Ini mirip while loop, tapi aksi di dalamnya PASTI akan dijalankan setidaknya SATU KALI, baru kemudian kondisinya dicek.  
+
+**Skenario:** Kita ingin mencetak angka, dan kita menjamin setidaknya satu angka akan tercetak, meskipun kondisi awalnya mungkin sudah salah.  
+
+**Logika:** "Lakukan (cetak angka b), lalu tambahkan b. Ulangi proses ini selama b masih kurang dari atau sama dengan 3."  
+```c
+#include <stdio.h> // Untuk fungsi printf
+
+int main() {
+    printf("\n--- Demonstrasi 'do-while' Loop ---\n");
+    int b = 1; // Inisialisasi penghitung 'b'
+    
+    do {
+        printf("Angka: %d\n", b); // Cetak nilai 'b'
+        b++; // Tambahkan 'b'
+    } while (b <= 3); // Cek kondisi SETELAH melakukan aksi
+    
+    printf("Selesai 'do-while' Loop!\n");
+
+    // Contoh menarik do-while:
+    // Bagaimana jika kondisi awalnya sudah salah?
+    printf("\n--- Contoh 'do-while' jika kondisi awal salah ---\n");
+    int c = 5; // Nilai 'c' sudah lebih dari 3
+    do {
+        printf("Ini PASTI tercetak setidaknya sekali: %d\n", c);
+        c++;
+    } while (c <= 3); // Kondisi 'c <= 3' (5 <= 3) adalah false, tapi tetap dijalankan sekali!
+    printf("Selesai 'do-while' Loop (kondisi salah)!\n");
+
+    return 0;
+}
+```
+```txt title="Output Program"
+--- Demonstrasi 'do-while' Loop ---
+Angka: 1
+Angka: 2
+Angka: 3
+Selesai 'do-while' Loop!
+
+--- Contoh 'do-while' jika kondisi awal salah ---
+Ini PASTI tercetak setidaknya sekali: 5
+Selesai 'do-while' Loop (kondisi salah)!
+```
+Anda bisa lihat bahwa meskipun dengan int c = 5; di contoh do-while kedua (kondisi c <= 3 sudah salah dari awal), baris printf tetap dieksekusi sekali. Itulah perbedaan utamanya!  
+Perbedaan utama antara while dan do-while:
+- while: Perulangan dieksekusi selama kondisi benar.
+- do-while: Perulangan dieksekusi setidaknya sekali, lalu dicek kondisi.
 
 ### contoh implementasi gabungan dari materi diatas
 ![restauran-foods](https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8fDA%3D)
@@ -681,9 +858,10 @@ Kalau kamu penasaran ingin coba materi yang kamu pelajari tadi, silahkan coba di
 <iframe width="100%" height="468" src="https://onecompiler.com/c/" title="C compiler" frameborder="0" allowfullscreen></iframe>
 
 ---
-Click tombol ini jika ingin 
-[Kembali ke atas](#pengenalan-apa-itu-pemerograman-bahasa-c)
+Click tombol ini jika ingin --  
+[Kembali ke atas](#pengenalan-apa-itu-pemerograman-bahasa-c).  
+[Lihat daftar isi untuk lanjut materi](#apa-saja-yang-harus-dipelajari-dalam-bahasa-c).  
 
 Sekian saya cukupkan dari ribuan kata yang telah saya tuliskan. Terima kasih banyak sudah membaca.  
-Capek njir 😊 Funfact: Pengerjaan artikel ini membutuhkan waktu 7 hari 1 malam... thats insane.
+Capek njir 😊 Funfact: Pengerjaan artikel ini membutuhkan waktu 4 hari 1 malam... thats insane.
 ![gif](https://media.tenor.com/ZBtJFtWJeFYAAAAM/ga-logis-ambatukam.gif) ![gif](https://media.tenor.com/i6pfhZCP1QcAAAAm/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B0%8F%E5%AD%A4%E7%8D%A8.webp)
