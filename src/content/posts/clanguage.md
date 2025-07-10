@@ -34,7 +34,6 @@ Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep
 > "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. Norman Ramsey.  
 
 Okelah saya cukupkan sampai disini aja, selamat belajar -- santai aja bacanya.  
-semoga anda bisa fasih pemerograman C dalam waktu 1-2 bulan saja.  
 saya yakin 100% semua konsep pemerograman akan berguna jika sudah dikuasai, apalagi mempermudah saat belajar bahasa pemerograman lain nantinya.  
 ![gif](https://media.tenor.com/L3ZGtEmZvncAAAAm/kokomi-dizzy.webp)
 
@@ -65,6 +64,16 @@ Untuk belajar bahasa pemrograman C, kamu bisa mengikuti langkah-langkah berikut:
 3. Menulis kode
 4. Menjalankan kode
 5. Mengulang langkah-langkah tersebut sampai mahir serta terbiasa.
+
+### tips & alur belajar pemerograman C
+| urutan | kegiatan | jangka waktu | 
+|--------|------------------|------------------|
+| 1.      | fokus pelajari sintaksis, Tipe data, sampai input output             | 1 minggu pertama         |
+| 2.      | merambah ke penggunaan konstanta & operator              | 1 minggu berikutnya            |
+| 3.      | mencoba menggunakan struktur kontrol untuk berbagai kebutuhan & latihan proyek kecil program sederhana           | 1 minggu berikutnya              |
+| 4.      | pelajari subprogram dan struktur data | 2 minggu |
+| 5.      | Latihan membuat program yang lumayan kompleks gabungan konsep diatas | 1 minggu |
+| 6.      | (opsional) pelajari cara pemerosesan file, pointer, alokasi memori, dan library | 3 minggu - lebih |
 
 ### Sebelum memulai menulis kode, ada yang perlu disiapkan... 
 Hal pertama yang perlu kamu siapkan pada device komputer atau gadget lainnya; adalah code editor / text editor.  
