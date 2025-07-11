@@ -30,15 +30,16 @@ Sebelum kamu belajar pemerograman, kamu harus tau alasan kenapa tertarik pada pe
 Serta harus tau masing masing kegunaan tombol-tombol dalam [keyboard](https://luminarysirx.my.id/posts/keyboard/).  
 
 Disekolah selama ini mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari beberapa teknologi yang kita gunakan selama ini.
-Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep baru yang kedengaran rumit sebagai orang yang masih awam~ padahal gampang banget.  
-> "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. Norman Ramsey.  
+Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep baru yang kedengaran rumit sebagai orang yang masih awam~ padahal gampang.  
+> "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. John smith.  
+> Kemudahan datang setelah kesulitan, fasih inggris berawal dari pelafalan yang belepotan.
 
 Okelah saya cukupkan sampai disini aja, selamat belajar -- santai aja bacanya.  
 saya yakin 100% semua konsep pemerograman akan berguna jika sudah dikuasai, apalagi mempermudah saat belajar bahasa pemerograman lain nantinya.  
 ![gif](https://media.tenor.com/L3ZGtEmZvncAAAAm/kokomi-dizzy.webp)
 
 ## Pengenalan: Apa itu Pemerograman Bahasa C?
-Pemerograman adalah suatu cara bagaimana manusia bisa memerintah mesin komputasi (komputer bukan cuma laptop dan pc loh yaa!) melakukan tugas tertentu untuk mempermudah kebutuhan sehari-hari yang berkaitan erat dengan teknologi yang kita gunakan seperti misalnya Handphone, laptop, mesin manufaktur, robot, dan lainnya. -- dalam bentuk kode program yang menjadi rangkaian alur sistematis tentang apa yang harus dikerjakan komputer.  
+Pemerograman adalah suatu cara bagaimana manusia bisa memerintah mesin komputasi (komputer bukan cuma laptop dan pc loh yaa!) melakukan tugas tertentu untuk mempermudah kebutuhan sehari-hari yang berkaitan erat dengan teknologi yang kita gunakan seperti misalnya Aplikasi mobile, Websites, mesin manufaktur, robot, dan lainnya. -- dalam bentuk kode program yang menjadi rangkaian alur sistematis tentang apa yang harus dikerjakan komputer.  
 Intinya ilmu pemerograman itu untuk membuat sebuah software atau yang kita kenal aplikasi, -- ingat itu.
 
 Bahasa C adalah bahasa pemrograman yang dikembangkan pada tahun 1972 oleh Dennis Ritchie di Bell Labs. Bahasa ini dirancang untuk sistem operasi Unix(OS perangkat komputer zaman dulu) dan menjadi salah satu bahasa pemrograman yang paling populer dan berpengaruh dalam sejarah pengembangan perangkat lunak. 
@@ -73,7 +74,8 @@ Untuk belajar bahasa pemrograman C, kamu bisa mengikuti langkah-langkah berikut:
 | 3.      | mencoba menggunakan struktur kontrol untuk berbagai kebutuhan & latihan proyek kecil program sederhana           | 1 minggu berikutnya              |
 | 4.      | pelajari subprogram dan struktur data | 2 minggu |
 | 5.      | Latihan membuat program yang lumayan kompleks gabungan konsep diatas | 1 minggu |
-| 6.      | (opsional) pelajari cara pemerosesan file, pointer, alokasi memori, dan library | 3 minggu - lebih |
+| 6.      | (opsional) pelajari cara pemerosesan file, pointer, alokasi memori, dan library  (meskipun untuk practical cenderung jarang dipakai kalau dari preferensi saya pada bahasa pemerograman C, jadi opsional tetapi cukup bermanfaat dipelajari) | 3 minggu - lebih |
+| 7.      | (opsional) merambah pelajari bahasa pemrograman lain seperti Python dan Javascript | 3 minggu - lebih (tergantung passion anda bidang tertentu) |
 
 ### Sebelum memulai menulis kode, ada yang perlu disiapkan... 
 Hal pertama yang perlu kamu siapkan pada device komputer atau gadget lainnya; adalah code editor / text editor.  

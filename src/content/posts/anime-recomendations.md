@@ -403,6 +403,7 @@ Charlotte plunges you into a world where a small percentage of adolescents manif
 ![img](https://wallpapers.com/images/hd/grand-blue-celebrating-scene-r5wuh1zupjdk2yad.jpg)
 **Category:** Anime.  
 **Gendre:** Comedy, Slice of Life, humorral.  
+**Sequence:** S1, S2.  
 **Overview:**  
 Iori Kitahara moves to a seaside town for university, expecting a normal college experience. Instead, he's immediately dragged into the wild antics of the Peeky Boo diving club, where alcohol, ridiculous games, and bizarre nudity seem to be more prevalent than actual diving. While diving is indeed a part of their lives, the core of the show is its over-the-top humor, incredible facial expressions, and the hilarious camaraderie among its eccentric characters. If you're looking for an outrageously funny and surprisingly wholesome slice-of-life comedy about friendship and growing up (in the most unconventional way), Grand Blue is an absolute blast that will make you laugh out loud.
 

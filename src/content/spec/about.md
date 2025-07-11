@@ -13,18 +13,20 @@ Beyond just learning, I genuinely love sharing what I uncover and connecting dif
 > _Great blogs don’t just inform—_  
 > _they rewire how people observe the world._  
 
-that's why I make content on this blog, 70% general knowledge 30% forbidden knowledge.  
+that's why I make content on this blog, 70% general knowledge, 30% weird knowledge.  
 most of my publication readers, maybe consider this just a silly opinion.  
 I don't care about the blablabla skibidi of what people say. freedom like I like to do what I like to do.  
-” if talking to an art curator, this is considered art.  
-but if talking to a layman, this might be considered just nonsense from the author ”.  
+> ” if talking to an art curator, this is considered art.  
+> but if talking to a layman, this might be considered just nonsense from the author ”.  
+
+That's all, this book was written just for the author's hobby, there's nothing else intended, no need for fame, validation, who cares.  
 
 if you as a reader feel this is meaningless, then congratulations because you are not my target reader.
 this is a digital book of my thoughts from time to time until the end.  
 besides taking notes, I also want to spread inspiration as a small part of my contribution during my life. hopefully these notes will last long and flow.  
 ![gif](https://media.tenor.com/8XYlsNDxIz8AAAAM/lucy-heartfilia-lucy.gif)
 ::github{repo="axelkenshi/blog-website"}
-> We walk the talk, not only talk the talk -- from meme quote
+> We walk the talk, not only talk the talk
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
@@ -35,3 +37,5 @@ besides taking notes, I also want to spread inspiration as a small part of my co
 > - [wallpaper cave](https://wallpapercave.com/)
 > - [Giphy](https://giphy.com/)
 > - [Tenor](https://tenor.com/)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1624225902&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/angelofkanata" title="Angel Of Kanata" target="_blank" style="color: #cccccc; text-decoration: none;">Angel Of Kanata</a> · <a href="https://soundcloud.com/angelofkanata/memory-reboot-x-andrew-tate-voj-narvent-gym" title="Memory Reboot X Andrew Tate | VOJ, Narvent | Gym" target="_blank" style="color: #cccccc; text-decoration: none;">Memory Reboot X Andrew Tate | VOJ, Narvent | Gym</a></div>
