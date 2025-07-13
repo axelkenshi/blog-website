@@ -15,7 +15,7 @@ Beyond just learning, I genuinely love sharing what I uncover and connecting dif
 
 that's why I make content on this blog, 70% general knowledge, 30% weird knowledge.  
 most of my publication readers, maybe consider this just a silly opinion.  
-I don't care about the blablabla skibidi of what people say. freedom like I like to do what I like to do.  
+I don't care about the blablabla fucking of what people say. freedom like I like to do what I like to do.  
 > ” if talking to an art curator, this is considered art.  
 > but if talking to a layman, this might be considered just nonsense from the author ”.  
 

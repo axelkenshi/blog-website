@@ -1,11 +1,11 @@
 ---
 title: Can You Create a Website Without Coding Knowledge?
-published: 2025-07-06
+published: 2025-07-08
 description: '“You don’t need to write a single line of code to stake your claim on the web.”'
 image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=755&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 tags: [Technology]
 category: 'Programming'
-draft: true 
+draft: false 
 lang: 'en'
 ---
 
@@ -15,8 +15,6 @@ If you want to use another language, please use the translation feature in your 
 ![gif](https://media.tenor.com/YhA5nO9jiCkAAAAM/ika-musume.gif)
 
 ---
-
-Draft: of course it will be more fun and satisfying if you have coding knowledge and interest in web development. Why? because even though nowadays there is AI web builder technology, templates, or interactive builder tools.. but it will not replace someone who is able to create a complex system that is not just a simple design, but also able to create applications with complex designs and logic and also understand security procedures, for example, it is impossible for AI to create E-commerce or applications that have their own ecosystem.  
 
 ## 1. Introduction: The Web Is for Everyone
 
@@ -46,7 +44,7 @@ A website signals credibility, gives you control over your online presence, and 
 | Shopify          | Turnkey e-commerce, payment processing       | E-commerce focused  | \$29                        |
 | Carrd            | Single-page sites, very lightweight           | Ultra-simple        | Free tier; \$9              |
 | Google Sites     | Free, basic layouts, Google integration      | Extremely basic     | Free                        |
-
+| Any AI web builder | Modern, lightweight, simple and no-code             | Basic to advanced   | Free - subscription                        |
 ---
 
 ## 4. Step-by-Step: Build Your Website Without Code
@@ -112,3 +110,6 @@ A website signals credibility, gives you control over your online presence, and 
 You don’t need coding skills to carve out your corner of the internet. With no-code website builders, you can launch, update, and manage a site that grows with you. Take your time exploring templates, refining content, and learning basic SEO—all without writing a single line of code.  
 
 > “Your ideas deserve a home online. Pick a no-code tool, and give them a place to live.”  
+
+of course it will be more fun and satisfying if you have coding knowledge and interest in web development. Why? because even though nowadays there is AI web builder technology, templates, or interactive builder tools.. but it will not replace someone who is able to create a complex system that is not just a simple design, but also able to create applications with complex designs and logic and also understand security procedures, for example, it is impossible for AI to create E-commerce or applications that have their own ecosystem which is done by professionals although sometimes assisted by AI to maintain and accelerate development.
+![gif](https://media.tenor.com/wVgaXb1m9HIAAAA1/sketch-sketchers-united.webp)
