@@ -21,7 +21,7 @@ I don't care about the blablabla fucking of what people say. freedom like I like
 
 That's all, this book was written just for the author's hobby, there's nothing else intended, no need for fame, validation, who cares.  
 
-if you as a reader feel this is meaningless, then congratulations because you are not my target reader.
+if you as a reader feel this note's is meaningless, then congratulations because you are not my target reader, fuck you.  
 this is a digital book of my thoughts from time to time until the end.  
 besides taking notes, I also want to spread inspiration as a small part of my contribution during my life. hopefully these notes will last long and flow.  
 ![gif](https://media.tenor.com/8XYlsNDxIz8AAAAM/lucy-heartfilia-lucy.gif)
