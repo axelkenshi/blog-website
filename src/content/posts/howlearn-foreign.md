@@ -3,7 +3,7 @@ title: 'How to Master a Foreign Language Self-Taught—A Step-by-Step Guide'
 published: 2025-07-15
 description: '“You don’t need a classroom by subscription. You need curiosity, a plan, and daily practice.”'
 image: 'https://images.unsplash.com/photo-1558443957-d056622df610?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGxlYXJuJTIwbGFuZ3VhZ2V8ZW58MHx8MHx8fDA%3D'
-tags: ['Life skills', 'Foreign Language']
+tags: ['life skills', 'Foreign Language']
 category: 'Mindset'
 draft: true
 lang: 'en'
