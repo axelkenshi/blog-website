@@ -29,7 +29,7 @@ Maka dari itu saya bakal jelaskan dengan cara yang gampang dipahami untuk orang 
 Sebelum kamu belajar pemerograman, kamu harus tau alasan kenapa tertarik pada pemerograman -- coba baca [Manfaat coding](https://luminarysirx.my.id/posts/whylearncoding/).  
 Serta harus tau masing masing kegunaan tombol-tombol dalam [keyboard](https://luminarysirx.my.id/posts/keyboard/).  
 
-95% Disekolah selama ini mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian spesifik tentang bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari beberapa teknologi yang kita gunakan selama ini.  
+95% Disekolah selama ini mungkin hanya di ajarkan mata pelajaran formal saja, jarang sekali ada tempat yang mengajarkan keahlian spesifik tentang bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari beberapa teknologi yang kita gunakan selama ini.  
 Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh melihat konsep baru yang kedengaran rumit padahal gampang sedikit susah.  
 > "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. John smith.  
 > Kemudahan datang setelah kesulitan, fasih mengaji berawal dari pelafalan yang belepotan.
