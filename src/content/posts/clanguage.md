@@ -1061,6 +1061,7 @@ void tekan_enter_untuk_lanjut() {
 }
 
 // Fungsi untuk menjeda tampilan sebentar (simulasi delay)
+// abaikan saja karna fungsi ini template saya dapat dari internet
 void delay(int milliseconds) {
     long pause;
     clock_t now,then;
@@ -1146,7 +1147,7 @@ void prolog() {
     fgets(nama_pemain, sizeof(nama_pemain), stdin);
     nama_pemain[strcspn(nama_pemain, "\n")] = 0;
 
-    // Gunakan sprintf untuk membuat string "Gue, Budi"
+    // kumpulan dialog-prolog
     tampilkan_dialog(NARATOR, "Di suatu hari yang cerah, aku dan teman teman berkumpul di posko ronda kampung awi \n untuk mempersiapkan perlengkapan sesuai yang direncanakan untuk hari H Camping nanti.");
     tampilkan_dialog(NARATOR, "bareng dua temen gue, Rio sama Siska, lagi siap-siap buat camping di Gunung Salak.");
     tampilkan_dialog(RIO, "Woy, Kalian!" );
