@@ -1,6 +1,6 @@
 ---
 title: Learn C language
-published: 2024-06-13
+published: 2026-06-13
 description: '[indonesian] Belajar bahasa pemrograman C dari dasar dasarnya'
 image: 'https://wallpapercave.com/wp/wp2825120.jpg'
 tags: ['C language']
@@ -10,7 +10,7 @@ lang: 'en'
 ---
 
 :::note
-Jika anda pemula, ingin belajar pemerograman, maka materi bacaan ini bisa menjadi referensi untuk belajar bahasa pemrograman C. Maka dari itu, semangat yaa!
+Jika ingin belajar pemerograman, maka materi bacaan ini bisa menjadi referensi untuk belajar bahasa pemrograman C. Maka dari itu, semangat yaa!
 :::
 :::tip
 If you want to use English or another language, please use the translation feature in your browser.
@@ -23,16 +23,16 @@ Click tombol dibawah ini jika sudah membaca pengenalan.
 
 # A letter from author
 ![gif](https://media.tenor.com/1Ygfg3W4V2cAAAAM/akane-kurokawa-kurokawa-akane.gif)
-Halo semuanya, saya Axel-- penulis dari blog ini. Saya disini berniat menuangkan kembali ilmu yang saya telah pelajari dari bahasa pemerograman C, murni dari pengalaman saya. Alasan kenapa saya menuliskan blog ini secara khusus adalah untuk membantu kamu yang baru mau terjun di dunia pemrograman... karena saya tau betapa sulitnya belajar otodidak dari sumber yang gak jelas, penjelasan yang bertele-tele, dan tidak ada contoh yang nyata.  
-Maka dari itu saya bakal jelaskan dengan cara yang gampang dipahami anak smp sekalipun.  
+Halo semuanya, saya Axel-- penulis dari blog ini. Saya disini berniat menuangkan kembali ilmu yang saya telah pelajari dari bahasa pemerograman C, murni dari pengalaman saya. Alasan kenapa saya menuliskan blog ini secara khusus adalah untuk membantu kamu yang baru mau terjun di dunia pemrograman... karena saya tau betapa sulitnya belajar dari sumber yang kurang jelas, penjelasan yang bertele-tele, dan tidak ada contoh yang nyata.  
+Maka dari itu saya bakal jelaskan dengan cara yang gampang dipahami untuk orang awam tanpa pengetahuan teknis.  
 
 Sebelum kamu belajar pemerograman, kamu harus tau alasan kenapa tertarik pada pemerograman -- coba baca [Manfaat coding](https://luminarysirx.my.id/posts/whylearncoding/).  
 Serta harus tau masing masing kegunaan tombol-tombol dalam [keyboard](https://luminarysirx.my.id/posts/keyboard/).  
 
-Disekolah selama ini mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari beberapa teknologi yang kita gunakan selama ini.
-Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh lihat konsep baru yang kedengaran rumit sebagai orang yang masih awam~ padahal gampang.  
+95% Disekolah selama ini mungkin hanya di ajarkan mata pelajaran formal saja, tidak ada tempat yang mengajarkan keahlian spesifik tentang bagaimana cara membangun teknologi, bagaimana cara mengetahui cara kerja dari beberapa teknologi yang kita gunakan selama ini.  
+Dan baru pertama kalinya mungkin kamu merasa bingung sekaligus aneh melihat konsep baru yang kedengaran rumit padahal gampang sedikit susah.  
 > "Semua yang anda kira sulit, sebenarnya akan mudah jika tau caranya" -- Dr. John smith.  
-> Kemudahan datang setelah kesulitan, fasih inggris berawal dari pelafalan yang belepotan.
+> Kemudahan datang setelah kesulitan, fasih mengaji berawal dari pelafalan yang belepotan.
 
 Okelah saya cukupkan sampai disini aja, selamat belajar -- santai aja bacanya.  
 saya yakin 100% semua konsep pemerograman akan berguna jika sudah dikuasai, apalagi mempermudah saat belajar bahasa pemerograman lain nantinya.  
@@ -114,6 +114,7 @@ Untuk mempelajari bahasa C, berikut adalah beberapa konsep dasar yang perlu dipa
 - **Pointer**: Memahami konsep pointer dan bagaimana menggunakannya untuk mengakses memori secara langsung.
 - **Alokasi Memori**: Memahami alokasi memori dinamis menggunakan `malloc` dan `free`.
 - **Penggunaan Library**: Memahami cara menggunakan library yang sudah ada untuk mempermudah pengembangan.
+- [**Demonstrasi story Game dengan bahasa C**](#demonstrasi-story-game-dengan-bahasa-c-terminal-output): Contoh sederhana membuat game simple dari gabungan berbagai konsep yang sudah dipelajari barusan.
 
 ## Apa saja yang harus dipersiapkan untuk belajar bahasa C?
 Untuk belajar bahasa C, berikut adalah beberapa hal yang perlu dipersiapkan:
@@ -1015,6 +1016,458 @@ int main() {
 ```
 
 ---
+
+## Demonstrasi Story game Dengan bahasa C (Terminal output)
+![img](https://images.unsplash.com/photo-1691983831816-4b5d2f6b6340?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhbXBpbmclMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D)
+
+```c title="Story Game Horror" collapse={10-443}
+#include <stdio.h>
+#include <stdlib.h> // Untuk system("cls") atau system("clear")
+#include <string.h> // Untuk strlen, strcspn
+#include <time.h>   // Untuk delay (meskipun tidak presisi, hanya simulasi)
+
+// --- Definisi Karakter dan Status ---
+// Menggunakan enum untuk ID karakter dialog agar lebih mudah dibaca
+typedef enum {
+    NARATOR,      // Narator cerita
+    PROTAGONIS,   // Protagonis (pemain)
+    RIO,          // Teman 1
+    SISKA         // Teman 2
+} KarakterID;
+
+// Struktur untuk menyimpan status protagonis
+typedef struct {
+    int kewarasan;          // Tingkat kewarasan (semakin rendah, semakin buruk)
+    int obor_dinyalakan;    // Flag: 0 = belum, 1 = sudah
+    int peta_ditemukan;     // Flag: 0 = belum, 1 = sudah
+    int jimat_ditemukan;    // Flag: 0 = belum, 1 = sudah
+    int rio_selamat;        // Flag: 0 = hilang/mati, 1 = selamat
+    int siska_selamat;      // Flag: 0 = hilang/mati, 1 = selamat
+} StatusPemain;
+
+// --- Variabel Global ---
+// Inisialisasi status pemain di awal game
+StatusPemain status_pemain = {100, 0, 0, 0, 1, 1}; // Kewarasan awal 100, item belum ada, teman selamat
+char nama_pemain[50]; // Nama yang akan diinput pengguna
+
+// --- Fungsi Utilitas ---
+
+// Fungsi untuk menjeda tampilan dan menunggu input pengguna
+void tekan_enter_untuk_lanjut() {
+    printf("\n[Tekan ENTER untuk melanjutkan...]\n");
+    int c;
+    while ((c = getchar()) != '\n' && c != EOF); // Membersihkan buffer input
+    getchar(); // Menunggu ENTER
+}
+
+// Fungsi untuk menjeda tampilan sebentar (simulasi delay)
+void delay(int milliseconds) {
+    long pause;
+    clock_t now,then;
+
+    pause = milliseconds*(CLOCKS_PER_SEC/1000);
+    now = then = clock();
+    while( (now-then) < pause )
+        now = clock();
+}
+
+// Fungsi untuk membersihkan layar konsol
+void bersihkan_layar() {
+#ifdef _WIN32
+    system("cls"); // Untuk Windows
+#else
+    system("clear"); // Untuk Linux/macOS
+#endif
+}
+
+// Fungsi untuk menampilkan dialog dari karakter tertentu
+void tampilkan_dialog(KarakterID karakter, const char *dialog) {
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    switch (karakter) {
+        case PROTAGONIS:
+            printf(">> %s: %s\n", nama_pemain, dialog);
+            break;
+        case RIO:
+            printf(">> Rio: %s\n", dialog);
+            break;
+        case SISKA:
+            printf(">> Siska: %s\n", dialog);
+            break;
+        default: // NARATOR
+            printf(">> NARATOR: %s\n", dialog);
+            break;
+    }
+    printf("----------------------------------------\n");
+    tekan_enter_untuk_lanjut();
+}
+
+// Fungsi untuk menampilkan pilihan dan mendapatkan input pengguna
+int tampilkan_pilihan(const char *narasi, const char *pilihan1, const char *pilihan2, const char *pilihan3) {
+    int pilihan;
+    char input_buffer[10];
+
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    printf(">> NARATOR: %s\n", narasi);
+    printf("----------------------------------------\n");
+    printf("Pilihan Anda:\n");
+    printf("1. %s\n", pilihan1);
+    if (pilihan2) printf("2. %s\n", pilihan2);
+    if (pilihan3) printf("3. %s\n", pilihan3);
+    printf("----------------------------------------\n");
+    printf("Masukkan nomor pilihan Anda: ");
+
+    while (1) {
+        if (fgets(input_buffer, sizeof(input_buffer), stdin) != NULL) {
+            if (sscanf(input_buffer, "%d", &pilihan) == 1) {
+                input_buffer[strcspn(input_buffer, "\n")] = 0;
+                if ((pilihan == 1 && pilihan1) ||
+                    (pilihan == 2 && pilihan2) ||
+                    (pilihan == 3 && pilihan3)) {
+                    break;
+                }
+            }
+        }
+        printf("Pilihan tidak valid. Masukkan nomor yang benar: ");
+    }
+    return pilihan;
+}
+
+// --- Segmen Cerita (Fungsi-fungsi untuk setiap bagian cerita) ---
+
+void prolog() {
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    printf("SELAMAT DATANG DI 'TEROR PUNCAK ARWAH'\n");
+    printf("----------------------------------------\n");
+    printf("Sebuah kisah horor tentang petualangan camping yang salah.\n");
+    printf("Masukkan nama panggilanmu (sebagai protagonis cerita) : ");
+    fgets(nama_pemain, sizeof(nama_pemain), stdin);
+    nama_pemain[strcspn(nama_pemain, "\n")] = 0;
+
+    // Gunakan sprintf untuk membuat string "Gue, Budi"
+    tampilkan_dialog(NARATOR, "Di suatu hari yang cerah, aku dan teman teman berkumpul di posko ronda kampung awi \n untuk mempersiapkan perlengkapan sesuai yang direncanakan untuk hari H Camping nanti.");
+    tampilkan_dialog(NARATOR, "bareng dua temen gue, Rio sama Siska, lagi siap-siap buat camping di Gunung Salak.");
+    tampilkan_dialog(RIO, "Woy, Kalian!" );
+    tampilkan_dialog(RIO, "udah siap belum? Jangan sampai ada yang ketinggalan, apalagi nyali lo!");
+    tampilkan_dialog(SISKA, "Rio, jangan gitu dong! " );
+    tampilkan_dialog(SISKA, "Udah, santai aja. Ini kan cuma camping biasa.");
+    tampilkan_dialog(NARATOR, "Padahal, Gunung Salak ini terkenal angker. Ada cerita tentang pendaki yang hilang tanpa jejak, atau ketemu makhluk aneh.");
+    tampilkan_dialog(NARATOR, "Tapi, kami bertiga emang bandel. Penasaran banget sama mitos 'Puncak Arwah' yang katanya nggak boleh didaki sembarangan.");
+    tampilkan_dialog(NARATOR, "Malam itu, kami mulai perjalanan...");
+}
+
+void chapter1_perjalanan_dan_kabut() {
+    char buffer[256];
+
+    tampilkan_dialog(NARATOR, "Kami mulai mendaki. Udara makin dingin, pepohonan makin rapat. Suara serangga malam bikin suasana makin sunyi.");
+    tampilkan_dialog(RIO, "Gila, sepi banget ya. Kok merinding gini sih gue?");
+    tampilkan_dialog(SISKA, "Perasaan lo aja kali, Rio. Jangan mikir yang aneh-aneh.");
+    tampilkan_dialog(NARATOR, "Nggak lama, kabut tebal mulai turun. Cepat banget, sampai jarak pandang cuma beberapa meter.");
+
+    int pilihan = tampilkan_pilihan(
+        "Kabut makin pekat. Apa yang harus dilakukan?",
+        "Lanjut jalan, takut kemalaman",
+        "Cari tempat berteduh sementara",
+        "Coba nyalain obor (kalau ada)"
+    );
+
+    if (pilihan == 1) {
+        tampilkan_dialog(NARATOR, "Kami nekat lanjut jalan. Tiba-tiba, Rio teriak!");
+        tampilkan_dialog(RIO, "Aduh! Ada yang nyenggol gue!");
+        tampilkan_dialog(NARATOR, "Nggak ada siapa-siapa di sekitar kami. Cuma kabut. Kewarasan lo sedikit goyah.");
+        status_pemain.kewarasan -= 10;
+        sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+    } else if (pilihan == 2) {
+        tampilkan_dialog(NARATOR, "Kami berteduh di bawah pohon besar. Suara-suara aneh mulai terdengar dari dalam kabut. Kayak bisikan, tapi nggak jelas.");
+        tampilkan_dialog(SISKA, "Denger nggak sih? Ada suara apa itu?");
+        tampilkan_dialog(NARATOR, "Kewarasan lo sedikit goyah karena suasana yang mencekam.");
+        status_pemain.kewarasan -= 7;
+        sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+    } else { // pilihan == 3
+        tampilkan_dialog(NARATOR, "Lo coba nyalain obor yang lo bawa. Cahayanya sedikit menembus kabut.");
+        if (status_pemain.obor_dinyalakan == 0) { // Hanya nyalakan obor sekali
+            status_pemain.obor_dinyalakan = 1;
+            tampilkan_dialog(NARATOR, "Obor berhasil dinyalakan. Sedikit menenangkan, tapi kabutnya tebal banget.");
+            status_pemain.kewarasan -= 3; // Kurang sedikit karena masih takut
+            sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+            tampilkan_dialog(NARATOR, buffer);
+        } else {
+            tampilkan_dialog(NARATOR, "Obor lo udah nyala. Tapi kabutnya tetep bikin merinding.");
+            status_pemain.kewarasan -= 5;
+            sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+            tampilkan_dialog(NARATOR, buffer);
+        }
+    }
+
+    tampilkan_dialog(NARATOR, "Akhirnya, kami sampai di pos 1. Malam pertama di gunung angker ini baru saja dimulai.");
+}
+
+void chapter2_malam_pertama_di_pos() {
+    char buffer[256];
+
+    tampilkan_dialog(NARATOR, "Kami buru-buru pasang tenda dan nyalain api unggun. Cahaya api sedikit mengusir hawa dingin dan rasa takut.");
+    tampilkan_dialog(SISKA, "Fiuh, akhirnya sampai juga. Gue udah capek banget.");
+    tampilkan_dialog(RIO, "Malam ini kita jaga-jaga ya. Jangan sampai tidur pulas semua.");
+    tampilkan_dialog(NARATOR, "Saat kami lagi ngobrol, tiba-tiba ada suara ranting patah dari arah kegelapan hutan.");
+
+    int pilihan = tampilkan_pilihan(
+        "Suara itu makin dekat. Apa yang akan Anda lakukan?",
+        "Cek sumber suara dengan obor",
+        "Tetap di tenda dan pura-pura nggak denger",
+        "Terbangun dan teriak minta tolong"
+    );
+
+    if (pilihan == 1) {
+        if (status_pemain.obor_dinyalakan) {
+            tampilkan_dialog(NARATOR, "Lo bawa obor, perlahan mendekati sumber suara. Tiba-tiba, seekor monyet besar melompat dari balik semak!");
+            tampilkan_dialog(NARATOR, "Lo kaget, tapi cuma monyet. Kewarasan lo aman, tapi jantung deg-degan.");
+            // Jumpscare ringan
+            printf("\n!!! JUMPSCARE !!!\n"); delay(500);
+            tampilkan_dialog(NARATOR, "Monyet itu cuma lewat. Fiuh.");
+            status_pemain.kewarasan -= 5; // Tetap sedikit berkurang karena kaget
+            sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+            tampilkan_dialog(NARATOR, buffer);
+        } else {
+            tampilkan_dialog(NARATOR, "Lo coba cek tanpa obor. Gelap banget. Tiba-tiba, lo ngerasa ada yang nyentuh pundak lo dari belakang!");
+            // Jumpscare berat
+            printf("\n!!! JUMPSCARE !!! SEBUAH TANGAN DINGIN MENYENTUH PUNDAKMU !!!\n"); delay(1000);
+            tampilkan_dialog(NARATOR, "Lo langsung putar balik, tapi nggak ada siapa-siapa. Cuma dingin. Kewarasan lo anjlok.");
+            status_pemain.kewarasan -= 25;
+            sprintf(buffer, "Kewarasan Anda berkurang drastis! (Kewarasan: %d)", status_pemain.kewarasan);
+            tampilkan_dialog(NARATOR, buffer);
+        }
+    } else if (pilihan == 2) {
+        tampilkan_dialog(NARATOR, "Kalian bertiga pura-pura nggak denger. Suara itu makin dekat, lalu berhenti tepat di luar tenda.");
+        tampilkan_dialog(NARATOR, "Ada suara napas berat, lalu bau melati yang kuat. Kalian cuma bisa berdoa dalam hati.");
+        status_pemain.kewarasan -= 15;
+        sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+    } else { // pilihan == 3
+        tampilkan_dialog(PROTAGONIS, "TOLONG! ADA APA ITU?!");
+        tampilkan_dialog(NARATOR, "Teriakan lo bikin Rio sama Siska kaget. Suara di luar tenda langsung hilang.");
+        tampilkan_dialog(RIO, "Lo kenapa sih, " );
+        tampilkan_dialog(RIO, "Bikin kaget aja!");
+        tampilkan_dialog(NARATOR, "Kewarasan lo berkurang karena panik, dan bikin temen-temen lo khawatir.");
+        status_pemain.kewarasan -= 10;
+        sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+    }
+
+    tampilkan_dialog(NARATOR, "Malam itu terasa sangat panjang. Tidur pun nggak nyenyak.");
+}
+
+void chapter3_teman_hilang_dan_jejak() {
+    char buffer[256];
+
+    tampilkan_dialog(NARATOR, "Pagi hari. Gue bangun, tapi Rio nggak ada di tenda. Siska juga panik.");
+    tampilkan_dialog(SISKA, "Rio mana? Dia nggak ada di kantong tidur!");
+    tampilkan_dialog(PROTAGONIS, "Jangan-jangan... dia diculik?");
+    tampilkan_dialog(NARATOR, "Kami cari-cari di sekitar tenda, tapi nggak ada jejak. Cuma ada sehelai kain sobek yang kayaknya punya Rio.");
+
+    int pilihan = tampilkan_pilihan(
+        "Rio hilang! Apa yang harus kita lakukan?",
+        "Ikuti jejak kain sobek itu ke dalam hutan",
+        "Tetap di pos dan tunggu sampai pagi betul",
+        "Coba cari bantuan ke bawah gunung (walaupun sinyal nggak ada)"
+    );
+
+    if (pilihan == 1) {
+        tampilkan_dialog(NARATOR, "Kami nekat ikutin jejak kain sobek itu. Makin masuk hutan, makin gelap dan menyeramkan.");
+        tampilkan_dialog(NARATOR, "Kami menemukan sebuah peta tua yang tergeletak di tanah.");
+        status_pemain.peta_ditemukan = 1;
+        tampilkan_dialog(NARATOR, "Anda menemukan Peta Tua! Semoga ini membantu.");
+        status_pemain.kewarasan -= 15;
+        sprintf(buffer, "Kewarasan Anda berkurang. (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+    } else if (pilihan == 2) {
+        tampilkan_dialog(NARATOR, "Kami memutuskan nunggu di pos. Tapi rasa khawatir bikin kami nggak tenang.");
+        tampilkan_dialog(NARATOR, "Tiba-tiba, dari arah hutan, terdengar suara tawa cekikikan yang makin dekat.");
+        status_pemain.kewarasan -= 20;
+        sprintf(buffer, "Kewarasan Anda berkurang drastis! (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+        status_pemain.rio_selamat = 0; // Rio tidak selamat jika menunggu
+        tampilkan_dialog(NARATOR, "Rio tidak kembali. Kami harus pergi.");
+    } else { // pilihan == 3
+        tampilkan_dialog(NARATOR, "Kami coba turun gunung, tapi sinyal HP nggak ada sama sekali. Kami tersesat di tengah hutan.");
+        tampilkan_dialog(NARATOR, "Siska mulai panik. Kami berdua makin putus asa.");
+        status_pemain.kewarasan -= 25;
+        sprintf(buffer, "Kewarasan Anda berkurang sangat drastis! (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+        status_pemain.rio_selamat = 0; // Rio tidak selamat jika turun gunung
+    }
+    
+    tampilkan_dialog(NARATOR, "Malam kedua di gunung ini. Lebih mengerikan dari yang pertama.");
+}
+
+void chapter4_puncak_teror() {
+    char buffer[256];
+
+    tampilkan_dialog(NARATOR, "Kami terus berjalan, atau berusaha bertahan. Tiba-tiba, kami sampai di sebuah area terbuka.");
+    tampilkan_dialog(NARATOR, "Ada pohon beringin raksasa di tengahnya, dengan akar-akar yang menjuntai seperti tangan. Di bawahnya, ada sesajen.");
+    tampilkan_dialog(NARATOR, "Dan di sana... kami melihat Rio, berdiri membelakangi kami, tubuhnya kaku.");
+    tampilkan_dialog(SISKA, "RIO! Lo kenapa?! Jangan bikin takut dong!");
+    tampilkan_dialog(NARATOR, "Rio perlahan berbalik. Matanya hitam pekat, dan senyumnya... bukan senyum Rio.");
+    tampilkan_dialog(NARATOR, "Sosok itu tertawa melengking. 'Kalian... mangsa baru...'");
+    status_pemain.kewarasan -= 30;
+    sprintf(buffer, "Kewarasan Anda di ambang batas! (Kewarasan: %d)", status_pemain.kewarasan);
+    tampilkan_dialog(NARATOR, buffer);
+
+    int pilihan = tampilkan_pilihan(
+        "Ini bukan Rio! Apa yang akan Anda lakukan?",
+        "Lari sekuat tenaga!",
+        "Coba lawan dengan obor (jika ada)",
+        "Mencoba berkomunikasi dengan entitas itu (jika punya peta)" // Perbaikan di sini
+    );
+
+    if (pilihan == 1) {
+        tampilkan_dialog(NARATOR, "Kami lari pontang-panting. Sosok itu mengejar dengan kecepatan mengerikan.");
+        if (status_pemain.obor_dinyalakan) {
+            tampilkan_dialog(NARATOR, "Obor lo sedikit menghalau, tapi sosok itu makin dekat!");
+            status_pemain.kewarasan -= 20;
+            sprintf(buffer, "Kewarasan Anda terus menurun! (Kewarasan: %d)", status_pemain.kewarasan);
+            tampilkan_dialog(NARATOR, buffer);
+        } else {
+            tampilkan_dialog(NARATOR, "Tanpa obor, kami lari dalam kegelapan. Siska teriak!");
+            printf("\n!!! JUMPSCARE !!! SISKA TERSERET KE DALAM KEGELAPAN !!!\n"); delay(1000);
+            tampilkan_dialog(NARATOR, "Siska hilang! Lo sendirian sekarang!");
+            status_pemain.kewarasan -= 40;
+            sprintf(buffer, "Kewarasan Anda hancur! (Kewarasan: %d)", status_pemain.kewarasan);
+            tampilkan_dialog(NARATOR, buffer);
+            status_pemain.siska_selamat = 0;
+        }
+    } else if (pilihan == 2 && status_pemain.obor_dinyalakan) {
+        tampilkan_dialog(PROTAGONIS, "PERGI KAU! JANGAN GANGGU KAMI!");
+        tampilkan_dialog(NARATOR, "Lo ayunkan obor ke arahnya. Sosok itu mundur sedikit, tapi matanya makin merah menyala.");
+        tampilkan_dialog(NARATOR, "Obor lo nggak cukup kuat. Dia cuma terdiam sesaat, lalu menerkam!");
+        status_pemain.kewarasan -= 35;
+        sprintf(buffer, "Kewarasan Anda sangat terguncang! (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+        status_pemain.rio_selamat = 0; // Rio tetap tidak selamat
+        status_pemain.siska_selamat = 0; // Siska juga mungkin tidak selamat
+    } else if (pilihan == 3 && status_pemain.peta_ditemukan) { // Perbaikan di sini: hanya cek peta_ditemukan
+        tampilkan_dialog(PROTAGONIS, "Aku tahu kau siapa! Aku tahu kau terjebak di sini!");
+        tampilkan_dialog(NARATOR, "Sosok itu berhenti. Wajahnya menunjukkan ekspresi terkejut, lalu marah, lalu sedih.");
+        // Logika di sini sekarang hanya bergantung pada peta_ditemukan, bukan buku_ditemukan
+        tampilkan_dialog(NARATOR, "Lo ingat petunjuk dari peta itu. Lo ceritakan penderitaan entitas itu.");
+        tampilkan_dialog(NARATOR, "Sosok itu menangis, lalu perlahan memudar, meninggalkan sebuah jimat kuno.");
+        status_pemain.jimat_ditemukan = 1;
+        tampilkan_dialog(NARATOR, "Anda menemukan Jimat Kuno!");
+        status_pemain.kewarasan += 40; // Kewarasan pulih drastis
+        sprintf(buffer, "Kewarasan Anda pulih! (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+    } else { // Pilihan 2 tanpa obor, atau Pilihan 3 tanpa peta
+        tampilkan_dialog(NARATOR, "Lo coba lawan atau bicara tanpa persiapan. Sosok itu langsung menerkam lo!");
+        status_pemain.kewarasan -= 50;
+        sprintf(buffer, "Kewarasan Anda hancur lebur! (Kewarasan: %d)", status_pemain.kewarasan);
+        tampilkan_dialog(NARATOR, buffer);
+        status_pemain.rio_selamat = 0;
+        status_pemain.siska_selamat = 0;
+    }
+}
+
+// --- Ending ---
+
+void ending_selamat_dengan_trauma() {
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    printf("--- ENDING: SELAMAT, TAPI TRAUMA ---\n");
+    printf("----------------------------------------\n");
+    tampilkan_dialog(NARATOR, "Lo berhasil turun gunung, sendirian atau bareng Siska. Tapi Rio hilang tanpa jejak.");
+    tampilkan_dialog(NARATOR, "Pengalaman di Puncak Arwah itu bikin lo nggak bisa tidur nyenyak lagi. Setiap suara ranting patah, bikin lo merinding.");
+    tampilkan_dialog(NARATOR, "Lo nggak akan pernah lagi naik gunung. Mimpi buruk itu terus menghantui.");
+    printf("\nAnda selamat, tapi dengan trauma yang mendalam.\n");
+}
+
+void ending_terjebak_di_gunung() {
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    printf("--- ENDING: TERJEBAK DI GUNUNG ---\n");
+    printf("----------------------------------------\n");
+    tampilkan_dialog(NARATOR, "Kewarasan lo hancur. Lo nggak bisa lagi bedain mana nyata mana ilusi.");
+    tampilkan_dialog(NARATOR, "Lo terus berkeliaran di hutan, mencari sesuatu yang nggak ada. Akhirnya, lo hilang, sama kayak pendaki-pendaki sebelumnya.");
+    tampilkan_dialog(NARATOR, "Puncak Arwah mengklaim korban barunya.");
+    printf("\nGAME OVER! Anda hilang di Gunung Salak.\n");
+}
+
+void ending_damai_dan_pulih() {
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    printf("--- ENDING: DAMAI DAN PULIH ---\n");
+    printf("----------------------------------------\n");
+    tampilkan_dialog(NARATOR, "Berkat Jimat Kuno, lo berhasil menenangkan entitas di Puncak Arwah.");
+    tampilkan_dialog(NARATOR, "Rio dan Siska (jika mereka selamat) ditemukan dalam keadaan shock, tapi selamat.");
+    tampilkan_dialog(NARATOR, "Lo melaporkan kejadian itu, dan Puncak Arwah kini terasa lebih tenang. Lo pulang dengan hati yang damai, meskipun dengan cerita yang luar biasa.");
+    printf("\nSELAMAT! Anda berhasil membawa kedamaian ke Puncak Arwah dan menyelamatkan teman-teman (jika memungkinkan)!\n");
+}
+
+void ending_kerasukan() {
+    bersihkan_layar();
+    printf("----------------------------------------\n");
+    printf("--- ENDING: KERASUKAN ---\n");
+    printf("----------------------------------------\n");
+    tampilkan_dialog(NARATOR, "Kewarasan lo benar-benar nol. Sosok itu berhasil menguasai tubuh lo.");
+    tampilkan_dialog(NARATOR, "Lo bukan lagi " );
+    tampilkan_dialog(NARATOR, "Sekarang, lo adalah bagian dari Puncak Arwah. Entitas baru yang akan menghantui pendaki selanjutnya.");
+    tampilkan_dialog(NARATOR, "Senyum mengerikan terukir di wajah lo. Mata lo bersinar merah.");
+    printf("\nGAME OVER! Anda menjadi bagian dari teror Puncak Arwah!\n");
+}
+
+// --- Fungsi Utama Game ---
+int main() {
+    prolog();
+
+    chapter1_perjalanan_dan_kabut();
+    
+    // Cek kewarasan sebelum lanjut
+    if (status_pemain.kewarasan <= 20) {
+        tampilkan_dialog(NARATOR, "Kewarasan lo udah terlalu rendah. Lo nggak bisa lanjut lagi.");
+        ending_terjebak_di_gunung();
+        return 0;
+    }
+
+    chapter2_malam_pertama_di_pos();
+
+    // Cek kewarasan setelah chapter 2
+    if (status_pemain.kewarasan <= 10) {
+        tampilkan_dialog(NARATOR, "Pikiran lo udah kalut. Lo nggak sanggup lagi.");
+        ending_terjebak_di_gunung();
+        return 0;
+    }
+
+    chapter3_teman_hilang_dan_jejak();
+
+    // Cek kewarasan setelah chapter 3
+    if (status_pemain.kewarasan <= 0) {
+        tampilkan_dialog(NARATOR, "Lo udah bener-bener gila.");
+        ending_kerasukan(); // Ending kerasukan jika kewarasan 0 atau di bawahnya
+        return 0;
+    }
+
+    chapter4_puncak_teror();
+
+    // Penentuan Ending akhir
+    if (status_pemain.kewarasan >= 70 && status_pemain.jimat_ditemukan) {
+        ending_damai_dan_pulih();
+    } else if (status_pemain.kewarasan <= 0) {
+        ending_kerasukan();
+    } else if (status_pemain.kewarasan <= 30) {
+        ending_terjebak_di_gunung();
+    } else {
+        ending_selamat_dengan_trauma();
+    }
+
+    printf("\nTerima kasih udah main 'TEROR PUNCAK ARWAH'!\n");
+    tekan_enter_untuk_lanjut();
+    return 0;
+}
+```
+
+---
+
 # online compiler
 Kalau kamu penasaran ingin coba materi yang kamu pelajari tadi, silahkan coba di online compiler di bawah ini 👇
 <iframe width="100%" height="468" src="https://onecompiler.com/c/" title="C compiler" frameborder="0" allowfullscreen></iframe>
@@ -1025,5 +1478,5 @@ Click tombol ini jika ingin --
 [Lihat daftar isi untuk lanjut materi](#apa-saja-yang-harus-dipelajari-dalam-bahasa-c).  
 
 Sekian saya cukupkan dari ribuan kata yang telah saya tuliskan. Terima kasih banyak sudah membaca.  
-Capek njir 😊 Funfact: Pengerjaan artikel ini membutuhkan waktu 4 hari 1 malam... thats insane.
+Capek njir 😊 Funfact: Pengerjaan artikel ini membutuhkan waktu 2 hari 1 malam... thats insane.
 ![gif](https://media.tenor.com/ZBtJFtWJeFYAAAAM/ga-logis-ambatukam.gif) ![gif](https://media.tenor.com/i6pfhZCP1QcAAAAm/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B0%8F%E5%AD%A4%E7%8D%A8.webp)
