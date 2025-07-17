@@ -119,6 +119,7 @@ It’s whether we’ll change with it—intentionally, creatively, and courageou
 If you are afraid that you will be replaced by AI, then you are a loser who can only blame the situation.. in other words you are still a skill issue compared to AI.  
 why do I say that? because you judge yourself as being worse than artificial intelligence-- even though AI maybe is more competent than all humans, they cannot become experts in certain fields... some they can take over and some not at all, for example being an architect-- can they design super complex buildings of course not but can be a tool to find design references or complex calculations for the efficiency of the architect.  
 
+![gif](https://media.tenor.com/IBRdNO50SQkAAAAm/ena-ena-shinomome.webp)
 For another example, the work of programmers is predicted to be replaced by AI, but in reality AI is developed by humans - maybe AI can develop a generative program, but only as a tool to speed up the work of humans - it will not be able to do everything alone such as designing and working on complex systems all from scratch.  
 
 It's possible that jobs like waiters could be replaced by AI robots in the next few decades... but AI currently lacks what humans have such as emotional abilities which can be an obstacle if the customer has a unique problem that AI can't recognize or understand... instead it will give an insane response that cannot be tolerated.  
