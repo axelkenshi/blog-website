@@ -1,7 +1,7 @@
 ---
 title: Learn C language
 published: 2026-06-13
-description: '[indonesian] Belajar bahasa pemrograman C dari dasar dasarnya'
+description: '[indonesian] Belajar bahasa pemrograman C dari dasar dasarnya, All in one tutorials for beginner programmer'
 image: 'https://wallpapercave.com/wp/wp2825120.jpg'
 tags: ['C language']
 category: 'Programming'
@@ -120,9 +120,9 @@ Untuk mempelajari bahasa C, berikut adalah beberapa konsep dasar yang perlu dipa
 Untuk belajar bahasa C, berikut adalah beberapa hal yang perlu dipersiapkan:
 - **Lingkungan Pengembangan**: Siapkan lingkungan pengembangan seperti IDE (Integrated Development Environment) atau teks editor yang mendukung bahasa C, seperti Code::Blocks, Visual Studio Code, atau Dev-C++.
 - **Kompiler**: Pastikan kamu memiliki kompiler C yang terpasang di komputermu, seperti GCC (GNU Compiler Collection) atau Clang.
-- **Buku atau Sumber Belajar**: Cari buku atau sumber belajar online yang membahas bahasa C secara mendalam, seperti tutorial, video, atau kursus online.
+- **Buku atau Sumber Belajar**: Cari buku atau sumber belajar online yang membahas bahasa C secara mendalam, seperti video atau tutorial online.
 - **Proyek Praktis**: Siapkan proyek praktis yang bisa kamu kerjakan untuk menerapkan konsep-konsep yang telah dipelajari, seperti membuat program sederhana, kalkulator, atau permainan kecil.
-- **Komunitas dan Dukungan**: Bergabunglah dengan komunitas online yang aktif di bidang pemrograman C, seperti Stack Overflow, Reddit, atau Discord, untuk mendapatkan bantuan dan dukungan dari pengembang lain.
+- **Komunitas dan Dukungan**: Bergabunglah dengan komunitas online yang aktif di bidang pemrograman C, seperti Stack Overflow, Reddit, atau Discord community, untuk mendapatkan bantuan dan dukungan dari developer lain.
 
 oke! saya cukupkan pendahuluannya sekian saja..  
 Next kita bahas konsep dasar bahasa C.
@@ -135,7 +135,7 @@ Disini akan saya coba kenalkan beberapa konsep yang perlu kamu mengerti untuk me
 
 Mulai sekarang dan selanjutnya selama belajar pemerograman C, kita akan sering berinteraksi dengan media CLI (Command line interface) atau disebut juga sebagai Terminal (semacam media input output program sederhana dengan antarmuka/tampilan 2d dalam bentuk teks saja) biasanya dia akan terbuka jika kode program di eksekusi. -- contohnya kayak gini:
 ![img](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52881909218_15f72bb07c_o.jpg)
-Kalau dari sudut pandang code editor, kira-kira bakal seperti ini bagian ngoding-nya:  
+Kalau dari sudut pandang developer di code editor, kira-kira bakal seperti ini bagian ngoding-nya:  
 ![gif](https://code.visualstudio.com/assets/updates/1_97/nes-arrow-directions.gif)
 Oke cukup begitu saja gambaran awal sebelum mulai belajar..  
 
@@ -144,7 +144,7 @@ Oke cukup begitu saja gambaran awal sebelum mulai belajar..
 # Fondasi awal dari segalanya...
 ## Struktur Program C
 Struktur kode itu seperti serangkaian aturan yang harus dipatuhi agar program yang kamu buat bisa dijalankan.  
-Struktur kode itu tidak bisa diubah-ubah secara ngawur.. Ibaratnya seperti aturan saat membuat puisi atau pantun tergantung jenisnya sih.. Gunanya supaya menjaga keindahan dan kerapihan dari kode itu sendiri.
+Struktur kode itu tidak bisa rubah secara ngawur.. Ibaratnya seperti aturan saat membuat puisi atau pantun tergantung jenisnya sih.. Gunanya supaya menjaga keindahan, fungsionalitas, dan kerapihan dari kode itu sendiri.
 
 Lihat bagaimana penulisan awal struktur program..  
 sebelum menulis perintah~  
