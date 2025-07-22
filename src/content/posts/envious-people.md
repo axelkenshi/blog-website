@@ -105,10 +105,10 @@ Envy and complaint are natural reactions to perceived imbalance. But they don’
 It's okay to express envy, as long as it's not accompanied by hatred. Because, essentially, humans are rational, emotional creatures who can experience good fortune or bad fortune, victory or defeat, confidence and insecurity, and other feelings.
 
 Use envy wisely, for example:  
-> "When I see my friend's business flourishing, I want to learn how it works, how it feels, how we can collaborate, and how I can reach the same level or even surpass it in a different way."
+> "When I see my friend's business growing or see their achievements, I want to learn how it works, how it feels, how we can collaborate, and how I can reach the same level or even surpass them in a different way."
 
 Not like,  
-> "How can I bring down his business? How can I steal his luck? If I suffer, he suffers. Life is unfair. I should be the one there..."
+> "How can I bring him down? How can I steal his luck? If I suffer, then he suffers. Life is unfair. I should be the one there..."
 
 ---
 
