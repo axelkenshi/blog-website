@@ -1,6 +1,6 @@
 ---
 title: 'Why Poor Lighting, Atmosphere, and Inadequate Facilities Kill Your Focus—and Zapper Your Energy'
-published: 2025-07-24
+published: 2025-07-23
 description: '“You can’t pour from an empty cup—and neither can your brain in a dim, uncomfortable room.”'
 image: 'https://images.unsplash.com/photo-1585832770485-e68a5dbfad52?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3R1ZHklMjBkZXNrfGVufDB8fDB8fHww'
 tags: [Blogging, academics]
