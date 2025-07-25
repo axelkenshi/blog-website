@@ -16,6 +16,7 @@ Putting money aside feels responsible. Yet if your goal is to double—or triple
 
 ---
 
+![gif](https://media.tenor.com/neEiNRSGTeIAAAAM/anime-cash.gif)
 ## 2. The Invisible Erosion: Inflation vs. Interest
 
 - Inflation in many countries runs 3–5% annually.  

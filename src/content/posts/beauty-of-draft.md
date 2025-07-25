@@ -111,3 +111,5 @@ Not because it’s great. But because it’s **you**, in transit.
 
 > “Write even if it’s never read. Archive even if it’s never accessed.  
 > The soul remembers best what’s gently preserved.”
+
+![gif](https://media.tenor.com/lUU2wbgHrioAAAAM/konata-luckystar.gif)

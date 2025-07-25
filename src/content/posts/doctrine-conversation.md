@@ -19,6 +19,7 @@ When we talk, we don’t just exchange information. We carry assumptions, values
 
 ---
 
+![gif](https://media.tenor.com/J1M-GKz-RCcAAAAM/inazuma-eleven-go-galaxy-inago-galaxy.gif)
 ## 2. How Doctrine Slips Into Our Words
 
 People weave beliefs into conversation through patterns that feel natural:

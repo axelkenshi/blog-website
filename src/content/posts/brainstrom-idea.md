@@ -3,7 +3,7 @@ title: 'How to Brainstorm to Unearth Your Wildest Ideas'
 published: 2025-07-13
 description: '“Sometimes your next breakthrough doesn’t come at the desk—it comes on the toilet, in the shower, or walking to nowhere.”'
 image: 'https://images.unsplash.com/photo-1522435229388-6f7a422cd95b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRoaW5raW5nfGVufDB8fDB8fHww'
-tags: [life skills]
+tags: [life skills, thinking]
 category: 'Mindset'
 draft: false 
 lang: 'en'
