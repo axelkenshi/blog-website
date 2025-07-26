@@ -54,6 +54,7 @@ Turn the big idea into manageable milestones:
 1. **Define the Minimum Viable Concept**: the simplest usable prototype or service.  
 2. **Outline Key Phases**: ideation, prototyping, testing, launch.  
 3. **Set Deadlines**: assign dates to each phase—keeping them tight encourages momentum.  
+4. **Feedback**: Dare to accept criticism and insults.
 
 A clear roadmap turns nebulous ambition into actionable tasks.
 
