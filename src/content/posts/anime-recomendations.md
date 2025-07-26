@@ -23,6 +23,7 @@ So maybe you can come back to read them later.
 :::
 <!-- picfiles: min ratio (1280x1024) (6400x4000) -->
 # Alright, let's start from top to bottom!
+![gif](https://media.tenor.com/mWPuhAIuaE0AAAAM/fumino-furuhashi-bokutachi-wa-benkyou-ga-dekinai.gif)
 ## Attack on titan
 ![attack on titan](https://wallpapers.com/images/high/eren-yeager-pfp-with-bright-eyes-5yilum1awdhkr9zm.webp)
 **Category:** Anime + Movie.  
