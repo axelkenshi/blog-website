@@ -15,8 +15,7 @@ If you want to use another language, please use the translation feature in your 
 
 # Introduction
 
-Curious about what makes achieving your dreams a reality, even if it's slow but sure? The most important key is thought, followed by capital and support.
-Curious about what makes your dreams come true, even if it's slow but sure? The most important key is your mind, followed by capital and support.  
+Curious about what makes achieving your dreams a reality, even if it's slow but sure? The most important key is thought, followed by capital and support.  
 
 When faced with problems, there are two types of people:  
 The first type will despair, give up, complain, and seek a safe zone.  
