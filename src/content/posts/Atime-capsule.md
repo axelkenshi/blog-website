@@ -17,6 +17,34 @@ lang: 'en'
 # A letter of Mindset
 
 Whatever you do in this world will have a consequence that will come in any way, whether good or bad karma.
+What you sow, that is what you reap.  
+We don't know and will never know who truly appreciates and admires our work.  
+Holding authority means carrying responsibility, not arbitrary powers.  
+mental conditions and thought patterns influence a person's actions.  
+give up on the first challenge, that's a loser.  
+
+What is done without intention will feel bland, but what is done wholeheartedly will feel satisfying.  
+Gaining knowledge is difficult and requires intention, but the hardest thing is retaining it in the deepest memory.  
+Maintaining wealth is not as easy as getting it.  
+Sharing knowledge and experience is not wrong, as a form of charity and goodness, it is good for them to know that, who change their lives.  
+Greedy nature appears when people are faced with tempting profits.  
+There is no such thing as a wasted effort, everything is a stepping stone to something better.  
+Hanging out with mediocrity will make you mediocre, hanging out with ambitious will make you ambitious.  
+
+Being too ambitious can be dangerous because it can lead to cognitive bias.  
+Be serious about the field you are pursuing, focus on what you are doing, then serious success will come.  
+If you don't sacrifice for what you want, then you desires will be sacrificed.  
+Intelligence performance is not determined at birth, but during growth and development.  
+Expecting something to change without trying is very impossible.  
+
+Skills can be mastered with 3 conditions: desire, belief, perseverance.  
+To get used to a skill, it takes repetition.  
+To find out where the mistakes are in every struggle, a mentor is needed.  
+Some people are indifferent when they don't need you, but care when they do.  
+Everyone can teach but not everyone can educate.  
+A person who has determination during his life, after his death will not be in vain.
+
+If not now, then when? If not you, then who?  
 
 ---
 
