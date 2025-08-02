@@ -21,6 +21,8 @@ If you want to use another language, please use the translation feature in your 
 
 A cognitive bias is a systematic pattern of deviation from rational judgment. Our brains rely on “shortcuts” (heuristics) to process information quickly. While heuristics improve efficiency, they often lead to errors in judgment—especially when making important decisions.
 
+![gif](https://media.tenor.com/u08ychX5jqkAAAAm/joe-hawley-speech.webp)
+
 ---
 
 ## 2. Why Do Biases Occur?

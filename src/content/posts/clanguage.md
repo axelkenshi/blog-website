@@ -66,6 +66,8 @@ Untuk belajar bahasa pemrograman C, kamu bisa mengikuti langkah-langkah berikut:
 4. Menjalankan kode
 5. Mengulang langkah-langkah tersebut sampai mahir serta terbiasa.
 
+![gif](https://media.tenor.com/E3v4j9VZuSwAAAAm/cute-cat-cat-typing.webp)
+
 ### tips & alur belajar pemerograman C
 | urutan | kegiatan | jangka waktu | 
 |--------|------------------|------------------|
