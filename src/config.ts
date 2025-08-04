@@ -74,6 +74,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:instagram",
 			url: "https://instagram.com/axelkenshi",
 		},
+		{
+			name: "Instagram",
+			icon: "fa6-solid:book-journal-whills",
+			url: "https://example.com",
+		},
 	],
 };
 
