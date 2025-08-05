@@ -111,7 +111,7 @@ Arrogance, greed, and laziness are not character defects to hide—they’re sig
 
 ---
 
-### Reflection Prompts
+### Reflection your self
 
 - Which of the three vices shows up most in your life or work?  
 - Recall a moment when arrogance, greed, or laziness nearly derailed a project. What would you do differently now?  
