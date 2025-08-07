@@ -78,7 +78,7 @@ We don’t need psychic powers—just two human tools:
 I have met all kinds of people in my life. Some are friendly, some are indifferent. Some are caring, some are uncaring, honest or lying. Some are positive and some are manipulative. Before establishing a deeper social relationship with them, I need to filter which ones are appropriate and which ones are not in my daily life.  
 How do I test it?  
 exactly as explained in the points above.  
-I try to observe the response from the interactions I do every time, observe body language (you can learn how to read human gestures yourself), and analyze the type of personality they have. that's enough to be considered.  
+I try to observe the response from the interactions I do every time, observe body language (you can learn how to read human gestures by yourself), and analyze the type of personality they have. that's enough to be considered.  
 
 Some other factors such as intelligence, emotional condition, habits, as responses are also important indicators in your consideration in interacting with them. For example, if your peers have lower thinking power than you (sorry for being rude) you may have difficulty discussing with them and you may even feel annoyed because they are not compatible with you.  
 
