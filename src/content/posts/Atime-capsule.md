@@ -1,9 +1,9 @@
 ---
 title: 'Time capsule: for me in 2030'
 published: 2022-01-01
-description: ''
+description: 'The documentary review of my thoughts and experienced poured out from the past'
 image: 'https://images.unsplash.com/photo-1487427076583-392ed176865e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-tags: []
+tags: [Blogging]
 category: 'notes'
 draft: false 
 lang: 'en'
