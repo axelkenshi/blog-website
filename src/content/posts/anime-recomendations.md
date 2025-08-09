@@ -420,6 +420,7 @@ Love, Chunibyo & Other Delusions! is a funny and sweet show about Yuuta, who wan
 
 ---
 
+![gif](https://media.tenor.com/npkTw1TZ5xQAAAAM/misaka-sister-my-brain-deciding.gif)
 Glad you found it useful.  
 Stay tuned for more updates to come!~  
 There's so much I haven't written down here, it's lazy how messy my list.

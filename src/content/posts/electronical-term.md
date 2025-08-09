@@ -10,3 +10,5 @@ lang: 'en'
 ---
 
 ![gif](https://media1.tenor.com/m/lVVtjsnqIJAAAAAd/dr-stone-senku.gif)
+
+![gif](https://media1.tenor.com/m/hrRJ0Xua9zMAAAAd/patlabor-mobile-police-patlabor.gif)

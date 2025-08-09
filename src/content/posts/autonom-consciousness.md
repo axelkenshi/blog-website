@@ -3,11 +3,19 @@ title: 'Why Our Bodies Feel Like an Automatic System Running Without Conscious C
 published: 2025-08-06
 description: '“Beneath every heartbeat and every breath lies a sequence of commands we never typed ourselves.”'
 image: 'https://plus.unsplash.com/premium_photo-1663099401334-0d9117a2dab1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D'
-tags: []
-category: ''
+tags: [Biology, Blogging]
+category: 'Science'
 draft: false 
 lang: 'en'
 ---
+
+:::tip
+If you want to translate into another language, please use the translate feature in your browser.  
+:::
+
+---
+
+![gif](https://media1.tenor.com/m/e085CmdjhFYAAAAd/%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B5%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D1%8B.gif)
 
 ## 1. Introduction: The Body as a “Living Machine”
 
@@ -98,7 +106,8 @@ Understanding these glitches helps us find solutions like biofeedback or structu
 ## 7. Influencing the Automatic System with Thought
 
 1. **Directed Breathing**  
-   The 4–7–8 technique helps calm the sympathetic system.
+   The 4–7–8 technique helps calm the sympathetic system.  
+   (inhale for 4 seconds, then hold it for 7 seconds, then release it slowly for 8 seconds calmly.)
 
 2. **Meditation and Mindfulness**  
    Alters stress signals to the hypothalamus and stimulates the parasympathetic branch.
@@ -180,3 +189,5 @@ This multilayered, automatic defense ensures we rarely notice the battles waged 
 - How does understanding your brain’s neural networks change your perspective on automatic bodily processes?
 
 - Have you ever observed a reflex action—like coughing or sneezing—when your body detected something foreign? How did it feel?
+
+![gif](https://media.tenor.com/iIiy9uFxSvAAAAAM/lucky-star-anime.gif)
