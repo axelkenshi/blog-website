@@ -9,6 +9,10 @@ draft: false
 lang: 'en'
 ---
 
+:::tip
+If you want to translate into another language, please use the translate feature in your browser.  
+:::
+
 ## 1. Introduction: The Invisible Governance
 
 Every day we navigate more than traffic lights and legal statutes. We learn to:
@@ -116,7 +120,8 @@ In Jakarta’s bustling market, a newcomer tried hawking at the busiest corner�
 
 ## 9. Conclusion: Navigating the Invisible
 
-The world’s rule order is a tapestry of written laws and unwritten demands. Awareness of these hidden protocols grants agency—turning you from a passive target of the law of the jungle into a savvy navigator of society’s silent codes.
+The world’s rule order is a tapestry of written laws and unwritten demands. Awareness of these hidden protocols grants agency—turning you from a passive target of the law of the jungle into a savvy navigator of society’s silent codes.  
+This is a little of what I explained about the extent of the law of the jungle that applies in this world, find out for yourself what you realize.  
 
 > “Master the invisible rules, and you transform confusion into clarity—and competition into collaboration.”
 
