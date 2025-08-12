@@ -22,6 +22,9 @@ We don't know and will never know who truly appreciates and admires our work.
 Holding authority means carrying responsibility, not arbitrary powers.  
 mental conditions and thought patterns influence a person's actions.  
 give up on the first challenge, that's a loser.  
+Good communication, able to convey the right meaning.  
+respect others first, then they will respect you later.  
+charisma or being respected by people, begins with self-confidence and interaction style.  
 
 What is done without intention will feel bland, but what is done wholeheartedly will feel satisfying.  
 Gaining knowledge is difficult and requires intention, but the hardest thing is retaining it in the deepest memory.  
