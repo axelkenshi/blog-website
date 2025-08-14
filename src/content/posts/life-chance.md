@@ -14,3 +14,5 @@ lang: 'en'
 ![img](https://images.unsplash.com/photo-1649937801620-d31db7fb3ab3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ5fHx8ZW58MHx8fHx8)
 
 ![img](https://images.unsplash.com/photo-1734670045391-adf5e96f4499?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU3fHx8ZW58MHx8fHx8)
+
+![img](https://images.unsplash.com/photo-1633977264263-3514fb5ca1a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGJyYWlufGVufDB8fDB8fHww) how distractions interfere with thinking power
