@@ -3,7 +3,7 @@ title: 'Nothing Is Eternal: But Some Things Endure, Even as They Fade Over Time'
 published: 2025-06-20
 description: '“Everything you see will eventually fade away—but the ideas we preserve live on, echoing through generations.” — Anonymous'
 image: 'https://plus.unsplash.com/premium_photo-1664461663120-b39152ba92ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZXRlcm5hbHxlbnwwfHwwfHx8MA%3D%3D'
-tags: [blogging]
+tags: [Blogging]
 category: 'life'
 draft: false 
 lang: 'en'

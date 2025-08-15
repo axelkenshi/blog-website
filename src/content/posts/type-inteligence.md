@@ -3,7 +3,7 @@ title: 'The Intelligence That Isn’t Seen as “Smart”: Recognizing the Abili
 published: 2025-07-02
 description: '“Just because it can’t be measured with numbers doesn’t mean it’s not valuable.”'
 image: 'https://images.unsplash.com/photo-1672523053178-367732ec8ae6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-tags: [blogging]
+tags: [Blogging]
 category: 'Mindset'
 draft: false 
 lang: 'en'

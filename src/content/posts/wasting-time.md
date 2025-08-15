@@ -3,7 +3,7 @@ title: When You’re Eager to Learn… But Distracted by Silly Stuff
 published: 2025-06-28
 description: '“Every time I open a book, my phone pings. Every time I start a course, a meme scroll calls my name.”'
 image: 'https://plus.unsplash.com/premium_photo-1724061887290-8d78a124cd14?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3RyZXNzZWQlMjBzdHVkeWluZ3xlbnwwfHwwfHx8MA%3D%3D'
-tags: [blogging]
+tags: [Blogging, academics]
 category: 'my thought'
 draft: false 
 lang: 'en'

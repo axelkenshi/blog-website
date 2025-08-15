@@ -3,7 +3,7 @@ title: 'Tips to Enter Deep Focus Mode: Level-Up Your Attention'
 published: 2025-07-25
 description: '“Don’t wait to feel focused—engineer the state. Focus is a skill, not a mood.”'
 image: 'https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-tags: [blogging, life skills]
+tags: [Blogging, life skills]
 category: 'notes'
 draft: false 
 lang: 'en'

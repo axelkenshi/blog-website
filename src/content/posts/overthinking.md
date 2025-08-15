@@ -3,7 +3,7 @@ title: 'Thinking Too Much Isn’t the Problem—Thinking Without Direction Is'
 published: 2025-06-29
 description: '“It’s not overthinking that drains you. It’s wandering in circles without a map.”'
 image: 'https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXRvbXxlbnwwfHwwfHx8MA%3D%3D'
-tags: [blogging]
+tags: [Blogging]
 category: 'life'
 draft: false
 lang: 'en'
