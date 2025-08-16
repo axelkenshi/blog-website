@@ -3,9 +3,9 @@ title: 'How God governs life, destiny, and creation through qadar, providence, a
 published: 2025-08-11
 description: '“Between what befalls us and what we choose lies a mystery many call the way God holds the world.”'
 image: 'https://images.unsplash.com/photo-1743449661678-c22cd73b338a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-tags: [thinking]
+tags: [thinking, depth topic]
 category: 'life'
-draft: true
+draft: false
 lang: 'en'
 ---
 
@@ -114,10 +114,15 @@ Can be interpreted as the absolute and unchangeable decree, law, or determinatio
 **Qadar:**  
 Can be interpreted as destiny or God's decree that can still be manipulated and influenced by human effort. Examples include success, fortune, or intelligence, which can be achieved through effort, prayer, and endeavor.  
 
-**A small example of those concepts:**  
-We don't know if someone will do something bad to us, but they known when will do it, even if they have the opportunity to change their mind.  
+![img](https://plus.unsplash.com/premium_photo-1752128537084-856fae580dfc?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-The previous example also illustrates the majesty of God, who orchestrates the interconnectedness of other people's destinies with ours. Conscience influences morals, and morals influence actions. All humans are born with a conscience, regardless of their circumstances. Even from birth, they are pure. Even the most cruel person, as an adult, retains a human side, even if their heinous actions are diminished. Are evil people also destined to be evil, or is destiny a choice God gives us to choose for ourselves?
+### A small example of those concepts:  
+> “ We don't know if someone will do something bad to us, but they known when will do it, even if they have the opportunity to change their mind.”  
+
+The is an example also illustrates the majesty of God, who orchestrates the interconnectedness of other people's destinies with ours. Conscience influences morals, and morals influence actions. All humans are born with a conscience, regardless of their circumstances. Even from birth, they are pure. Even the most cruel person, as an adult, retains a human side, even if their heinous actions are diminished(still dark hearted). Are evil people also destined to be evil, or is destiny a choice God gives us to choose for ourselves?  
+Even small animals, micro organisms, and inanimate objects of the universe have their own destiny and control over their own existence.  
+
+We will never understand why God is so super powerful in doing everything, where he is, and where he comes from - it is all beyond our understanding.
 
 ---
 
@@ -155,4 +160,5 @@ In the end, whether you speak of decree, providence, or dharma and karma, you’
 
 ![img](https://images.unsplash.com/photo-1649937801620-d31db7fb3ab3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ5fHx8ZW58MHx8fHx8)
 
-![img](https://images.unsplash.com/photo-1734670045391-adf5e96f4499?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU3fHx8ZW58MHx8fHx8)
+![img](https://plus.unsplash.com/premium_photo-1669669119127-82f9476bee66?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHx8)
+![img](https://plus.unsplash.com/premium_photo-1669669119042-aab6699bd766?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI5fHx8ZW58MHx8fHx8)
