@@ -148,4 +148,3 @@ By training yourself to see constraints not as barriers but as starting points, 
 
 ```“Observation” → “Limitation” → “Why Analysis” → “Solution Design” → “Validation” → “Launch”```
 This cycle can lead to simple yet powerful inventions that improve lives, often starting from the most mundane frustrations.  
-![gif](![gif](https://media.tenor.com/EHAVv-7MJOkAAAAM/anime-idea.gif))
