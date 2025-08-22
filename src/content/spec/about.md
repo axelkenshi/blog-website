@@ -16,10 +16,12 @@ Beyond just learning, I genuinely love sharing what I uncover and connecting dif
 that's why I make content on this blog, 70% general knowledge, 30% weird knowledge.  
 most of my publication readers, maybe consider this just a silly opinion.  
 I don't care about the blablabla fucking of what people say. freedom like I like to do what I like to do.  
-> ” if talking to an art curator, this is considered art.  
+However, I am still open to hearing criticism on my blog if someone find any flaws.  
+
+> ” if talking to an critical reader, this is considered to have an implied meaning.  
 > but if talking to a layman, this might be considered just nonsense from the author ”.  
 
-That's all, this book was written just for the author's hobby, there's nothing else intended, no need for fame, validation, who cares.  
+That's all, this book was written just for the author's hobby, there's nothing else intended, no need for fame, validation, who cares, i just want to share my thoughts.  
 
 if you as a reader feel this note's is meaningless, then congratulations because you are not my target reader, thank you.  
 this is a digital book of my thoughts from time to time until the end.  
