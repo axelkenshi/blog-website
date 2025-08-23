@@ -9,6 +9,10 @@ draft: false
 lang: 'en'
 ---
 
+:::note[Guidance]
+If you want to translate into another language, please use the translate feature in your browser.
+:::
+
 > “ It hits me like clockwork. One moment I’m polishing off my lunch, the next I’m fighting to keep my eyelids open as the afternoon blurs into a haze.”
 
 ## The Afternoon Slump: My Experience
