@@ -3,7 +3,7 @@ title: 'One Second, One Breath, One Heartbeat: A Chain of Moments Happening Ever
 published: 2025-08-21
 description: 'In the time it takes you to inhale, somewhere else, someone exhales for the very last time.”'
 image: 'https://images.unsplash.com/photo-1629985628035-f84afaef07ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGNoYWluJTIwcmVhY3Rpb258ZW58MHx8MHx8fDA%3D'
-tags: []
+tags: [depth topic]
 category: 'notes'
 draft: false 
 lang: 'en'

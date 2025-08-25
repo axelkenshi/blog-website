@@ -174,7 +174,6 @@ In the end, whether you speak of decree, providence, or dharma and karma, you’
 ![img](https://plus.unsplash.com/premium_photo-1720273337729-095ca270124d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0N3x8fGVufDB8fHx8fA%3D%3D)
 ![img](https://plus.unsplash.com/premium_photo-1681505396151-305ea4f0885c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0Mnx8fGVufDB8fHx8fA%3D%3D)
 ![img](https://plus.unsplash.com/premium_photo-1669135152617-c7542f4ccd35?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1M3x8fGVufDB8fHx8fA%3D%3D)
-![img](https://plus.unsplash.com/premium_photo-1743813347230-fa7efda728dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1NXx8fGVufDB8fHx8fA%3D%3D)
 ![img](https://plus.unsplash.com/premium_photo-1682432262864-d4acc4e45e46?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1N3x8fGVufDB8fHx8fA%3D%3D)
 ![img](https://plus.unsplash.com/premium_photo-1707751202430-66ce282d3cd9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI2MHx8fGVufDB8fHx8fA%3D%3D)
 ![img](https://plus.unsplash.com/premium_photo-1683749808382-7bf79e7f65f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMxNnx8fGVufDB8fHx8fA%3D%3D)
