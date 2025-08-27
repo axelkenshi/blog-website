@@ -1,10 +1,10 @@
 ---
 title: 'When Social Media & real life Judges: The Impressions We Leave Behind'
 published: 2025-08-23
-description: '“In the scroll of a thumb, a stranger becomes a saint, a villain, or a spectacle — often without saying a word.”'
+description: '“In the scrolling of a thumb, a stranger becomes a saint, a villain, or a spectacle — often without saying a word.”'
 image: 'https://plus.unsplash.com/premium_photo-1683865775631-3283bfaf6508?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDg5fHx8ZW58MHx8fHx8'
-tags: []
-category: ''
+tags: [psychology]
+category: 'my thought'
 draft: false 
 lang: 'en'
 ---
