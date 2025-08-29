@@ -1,10 +1,10 @@
 ---
 title: 'So… What Should I Write About Today?'
-published: 2025-08-25
+published: 2025-08-24
 description: '“I open my laptop, stare at the blinking cursor, and suddenly every brilliant idea I had yesterday has vanished into the ether.”'
 image: 'https://images.unsplash.com/photo-1718975592728-7b594fb035b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdyaXRlJTIwaW4lMjBvbGQlMjBib29rfGVufDB8fDB8fHww'
-tags: []
-category: ''
+tags: [Blogging]
+category: 'notes'
 draft: false 
 lang: 'en'
 ---
