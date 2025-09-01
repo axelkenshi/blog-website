@@ -100,6 +100,16 @@ If you're looking for an anime that will tug at your heartstrings and make you t
 
 ---
 
+## Baka to test
+![img](https://images7.alphacoders.com/530/thumb-1920-530765.png)
+**Category:** Anime  
+**Gendre:** Comedy, School, Romance, Shounen.  
+**Sequence:** S1, S2 (Ni!)  
+**Overview:**  
+*Baka and Test: Summon the Beasts* throws you into the absurd world of Fumizuki Academy, a school where students are sorted into classes based on their test scores, with the elite A-Class enjoying luxury and the "Bakas" in F-Class suffering in squalor. The twist? Students can summon powerful, chibi-like avatars to fight using their academic scores as their battle power. Akihisa Yoshii, the ultimate "baka," and his F-Class classmates, a lovable group of misfits, repeatedly challenge the higher classes in these battles to earn better classroom facilities. The series is a riot of non-stop slapstick humor, hilarious character dynamics, and surprisingly clever battle strategies. If you're looking for a comedy that's completely ridiculous but also has a lot of heart, this is a must-watch.
+
+---
+
 ## Golden Time
 ![golden time](https://wallpapercave.com/wp/wp2010872.jpg)
 **Category:** Anime.  
@@ -198,7 +208,7 @@ Sankarea follows Furuya Chihiro, a boy obsessed with zombies, who ironically get
 
 ## boku ga aishita subete no kimi e
 ### + kimi wo aishita hitori no boku e
-![boku](https://pic.bstarstatic.com/ugc/9a2e0a5cb6714268b7ab05c00fc8d733.jpg)
+![boku](https://wallpapercave.com/wp/wp12207074.jpg)
 **Category:** Movie.  
 **Gendre:** Romance, Tragedy, Drama, Sci-fi.  
 **Sequence:** interrelated, but it is recommended to watch from the first title~  
@@ -216,6 +226,15 @@ These two interconnected films, To Every You I've Loved Before and To Me, The On
 
 ---
 
+## Kimi no todoke
+![img](https://picfiles.alphacoders.com/253/thumb-1920-253654.jpg)
+**Category:** Anime  
+**Gendre:** Romance, School, Slice of Life  
+**Sequence:** S1, S2 (2nd Season)  
+**Overview:**  
+*Kimi ni Todoke: From Me to You* is a beautiful and heartwarming story about Sawako Kuronuma, a kind but misunderstood high school girl whose resemblance to the horror movie character Sadako leads her peers to fear and avoid her. Her life begins to change when she's befriended by the popular and outgoing Shouta Kazehaya. With his help, she slowly starts to open up, make genuine friends, and navigate the confusing world of teenage social life and first love. The series is a masterclass in slow-burn romance, celebrating small victories and the quiet courage it takes to connect with others. It's a sweet, gentle, and incredibly touching watch that perfectly captures the innocence and emotional turmoil of young love and self-discovery.
+
+---
 ## natsu e no tunnel sayonara no deguchi
 ![natsue](https://assets-a1.kompasiana.com/items/album/2023/11/17/visual-01-65570258edff763c8f0cc2e2.jpg?t=o&v=1200)
 **Category:** Movie.  
@@ -365,7 +384,7 @@ The Angel Next Door Spoils Me Rotten is a super sweet romance about Amane, an or
 ---
 
 ## Zutto Mae Kara Suki Deshita
-![zutto](https://pic.bstarstatic.com/ugc/c2ab85a68ab3a7a7466a9f8ce1fddb82.jpg)
+![img](https://images3.alphacoders.com/713/thumb-440-713820.webp)
 **Category:** Movie.  
 **Gendre:** Romance, School, Slice of Life.  
 **Overview:**  
@@ -407,6 +426,16 @@ Charlotte plunges you into a world where a small percentage of adolescents manif
 **Sequence:** S1, S2.  
 **Overview:**  
 Iori Kitahara moves to a seaside town for university, expecting a normal college experience. Instead, he's immediately dragged into the wild antics of the Peeky Boo diving club, where alcohol, ridiculous games, and bizarre nudity seem to be more prevalent than actual diving. While diving is indeed a part of their lives, the core of the show is its over-the-top humor, incredible facial expressions, and the hilarious camaraderie among its eccentric characters. If you're looking for an outrageously funny and surprisingly wholesome slice-of-life comedy about friendship and growing up (in the most unconventional way), Grand Blue is an absolute blast that will make you laugh out loud.
+
+---
+
+## Prison school
+![img](https://picfiles.alphacoders.com/203/thumb-1920-203839.jpg)
+**Category:** Anime  
+**Gendre:** Comedy, Ecchi, School  
+**Sequence:** S1  
+**Overview:**  
+*Prison School* is an outrageous and absurd comedy that takes place at Hachimitsu Academy, a prestigious all-girls school that has just welcomed its first five male students. Their lives quickly turn into a nightmare when they are caught peeking into the girls' locker room and are sentenced to a month of confinement in the school's on-campus "prison" by the ruthless Underground Student Council. The series is a non-stop barrage of over-the-top antics, slapstick humor, and ridiculously high-stakes situations as the boys try to survive their sentence and outwit the council. If you're looking for a comedy that is shamelessly raunchy, hilariously unpredictable, and full of extreme facial expressions, this anime is a wild ride.
 
 ---
 
