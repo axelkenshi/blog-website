@@ -2,9 +2,9 @@
 title: 'Triggers of Feel Annoyed: Like a Bomb Waiting for a Detonator'
 published: 2025-08-31
 description: '“It’s not always the big disasters that set us off — sometimes it’s the tiny spark that lights the fuse.”'
-image: ''
-tags: []
-category: ''
+image: 'https://images.unsplash.com/photo-1580617513638-d66a7d1afdab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8'
+tags: [psychology]
+category: 'my thought'
 draft: false 
 lang: 'en'
 ---
