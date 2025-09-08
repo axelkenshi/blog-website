@@ -13,6 +13,8 @@ lang: 'en'
 If you want to translate into another language, please use the translate feature in your browser.
 :::
 
+![gif](https://media.tenor.com/S71JHkiFQIkAAAAM/best-cycladic-art-think.gif)
+
 ## Opening opinion
 
 Art is often described as a universal language — but in reality, it’s more like a dialect. Some people hear it clearly. Others just hear noise.  
