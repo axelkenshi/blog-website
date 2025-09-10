@@ -9,6 +9,10 @@ draft: false
 lang: 'en'
 ---
 
+:::note[Guidance]
+If you want to translate into another language, please use the translate feature in your browser.
+:::
+
 ![gif](https://media1.tenor.com/m/U1Uw6JT3_UcAAAAd/kaguya-kaguya-sama.gif)
 
 ## **Opening Scene — The Meeting Room**
