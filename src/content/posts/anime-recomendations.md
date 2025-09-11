@@ -77,8 +77,19 @@ If you're looking for an anime that's surprisingly heartwarming despite its biza
 ## Ginka
 ![img](https://m.media-amazon.com/images/I/61YHSmfYfvL.jpg)
 **Category:** Visual Novel (Game).  
-**Gendre:** Supernatural, Drama, Romance.  
+**Gendre:** Fantasy, Supernatural, Drama, Romance.  
 **Overview:**  
+GINKA is a beautifully told visual novel that follows Shoma, a young boy who returns to his hometown after a devastating event, only to discover a mysterious girl named Ginka on an isolated island. She appears to be the only person who hasn't aged a day since he left. As Shoma interacts with her and the island's unique inhabitants, he slowly unravels the secrets behind Ginka's existence and the town's supernatural occurrences. The story is a masterful blend of melancholic drama, lighthearted romance, and fantasy, with stunning visuals and a deeply emotional narrative. It's a perfect choice if you're looking for a poignant and atmospheric tale about memory, healing, and the quiet magic found in a forgotten place.
+
+---
+
+## The NOexistenceN of you AND me
+![img](https://clan.fastly.steamstatic.com/images//44921536/a20b5fac74dcf06bcceed9ac5f13193334c7d744.png)
+**Category:** Visual Novel  
+**Gendre:** Psychological, philosophy, Horror, Sci-Fi, Indie, Surrealistic, Romance, Comedy  
+**Overview:**  
+*The NOexistenceN of you AND me* is a short but incredibly mind-bending visual novel that plunges you into a surreal psychological horror experience. The story begins simply: a mysterious girl named Lilith appears in your room. However, what follows is a journey that twists your perception of reality and existence. The game challenges you to make hundreds of choices that navigate a non-linear narrative, blurring the lines between the protagonist, Lilith, and the world itself. It’s a captivating and thought-provoking experience that’s less about jump scares and more about an unsettling, philosophical dread. If you're looking for a unique indie game that explores deep concepts of "being" and "identity," this visual novel is a must-play.  
+Each dialogue choice between you and him will lead you down a different path, between a happy romance, acceptance, or denial of his existence. Each interaction with him will immerse you in both emotional and logical depths.
 
 ---
 
@@ -343,6 +354,16 @@ Twin Star Exorcists throws you into a world where two young exorcists, Rokuro (w
 **Gendre:** Action, Fantasy, Supernatural, Romance, Shounen.  
 **Overview:**  
 throws Taiyo Asano, an incredibly shy high school student, into the chaotic and dangerous world of a family of spies. After his childhood friend, Mutsumi Yozakura, whose family are all elite spies, becomes a target, Taiyo is forced to marry into the Yozakura family to protect her. Now, he must learn to survive and thrive within this eccentric household, each member possessing unique and powerful spy skills. The series is a thrilling blend of high-octane spy missions, hilarious family antics, and a blossoming romance, all while Taiyo desperately tries to become strong enough to protect his new wife. It’s an exciting and heartwarming watch if you enjoy action-comedy with a unique premise and a strong focus on family bonds.
+
+---
+
+## Gosick
+![gosick](https://artfiles.alphacoders.com/921/thumb-800-92167.webp)
+**Category:** Anime  
+**Gendre:** Mystery, Romance, Historical, Drama  
+**Sequence:** S1 only  
+**Overview:**  
+ *Gosick* transports you to the fictional European country of Sauville in the 1920s, following the journey of Kazuya Kujo, a Japanese exchange student known for his black hair, which earns him the nickname "Black Reaper." He finds solace in the school library, where he meets the brilliant and eccentric Victorique de Blois, a petite girl with golden hair and a pipe. Together, they form an unlikely detective duo, with Victorique using her razor-sharp intellect to solve complex and often supernatural mysteries. The series masterfully combines intricate detective work with a charming slow-burn romance, all set against a richly detailed historical backdrop. It's a wonderful watch for those who enjoy clever mysteries and the quiet, emotional development between two unique characters.
 
 ---
 
