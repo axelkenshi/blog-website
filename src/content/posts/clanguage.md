@@ -5,7 +5,7 @@ description: '[indonesian] Belajar bahasa pemrograman C dari dasar dasarnya, All
 image: 'https://wallpapercave.com/wp/wp2825120.jpg'
 tags: ['C language']
 category: 'Programming'
-draft: false
+draft: true
 lang: 'en'
 ---
 
