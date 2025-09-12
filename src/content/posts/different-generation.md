@@ -15,7 +15,7 @@ If you want to translate into another language, please use the translate feature
 
 ![gif](https://media1.tenor.com/m/U1Uw6JT3_UcAAAAd/kaguya-kaguya-sama.gif)
 
-## **Opening Scene — The Meeting Room**
+## Opening Scene — The Meeting Room
 
 The meeting had barely started when the tension began to show.  
 On one side of the table, a Gen Z intern enthusiastically pitched a new social media strategy using AI-driven analytics. On the other, a Baby Boomer manager frowned, tapping his pen, preferring tried-and-true methods that had worked for decades.  
@@ -24,7 +24,7 @@ Neither was wrong. But they were speaking different “languages” — shaped n
 
 ---
 
-## **1. The Generational Landscape**
+## 1. The Generational Landscape
 
 While individuals vary, broad patterns often emerge based on the time and culture in which people were raised:  
 
@@ -37,7 +37,7 @@ While individuals vary, broad patterns often emerge based on the time and cultur
 
 ---
 
-## **2. Why Mindsets Differ**
+## 2. Why Mindsets Differ
 
 1. **Technological Environment** — Each generation’s “normal” is defined by the tools they grew up with.  
 2. **Economic Conditions** — Boomers entered a job market with more stability; Gen Z faces gig economies and automation.  
@@ -46,7 +46,7 @@ While individuals vary, broad patterns often emerge based on the time and cultur
 
 ---
 
-## **3. The Impact of the Gap**
+## 3. The Impact of the Gap
 
 - **Workplace Friction** — Different expectations about communication, work hours, and career paths.  
 - **Social Misunderstandings** — Younger generations may see older ones as “out of touch,” while older generations may see younger ones as “impatient” or “entitled.”  
@@ -56,7 +56,7 @@ While individuals vary, broad patterns often emerge based on the time and cultur
 
 ![gif](https://i.ppy.sh/b133faf87d9366b3e0dcb547b4f98dcd89951cef/68747470733a2f2f6b6f6d6172696e2e732d756c2e65752f6859754a53314c61)
 
-## **4. Bridging the Divide — A Personal Example**
+## 4. Bridging the Divide — A Personal Example
 
 When I think about bridging generational gaps, I think about my relationship with my grandmother. We couldn’t be more different in the worlds we grew up in. He was raised in an era where news came from the morning paper and skills were learned through years of hands-on work. I grew up with the internet in my pocket, learning new tools in hours instead of years.  
 
@@ -68,7 +68,7 @@ We didn’t just exchange skills — we exchanged perspectives. I learned that n
 
 ---
 
-## **5. Practical Ways to Bridge Generational Gaps**
+## 5. Practical Ways to Bridge Generational Gaps
 
 1. **Active Listening** — Hear the reasoning behind a viewpoint before judging it.  
 2. **Shared Learning** — Let younger generations teach tech skills, while older ones share long-term perspective.  
@@ -78,7 +78,7 @@ We didn’t just exchange skills — we exchanged perspectives. I learned that n
 
 ---
 
-## **Closing Reflection**
+## Closing Reflection
 
 > *“Generations are like different chapters in the same book — each written in its own style, but all part of the same story.”*
 
