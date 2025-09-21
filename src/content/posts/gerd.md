@@ -13,14 +13,32 @@ lang: 'en'
 If you want to translate into another language, please use the translate feature in your browser.
 :::
 
+![gif](https://media.tenor.com/x0MxBt2j2bIAAAAM/anime-tired.gif)
+
 ## Opening — The First Domino
 
 It started as an ordinary morning.  
 The sun was barely up, and I decided to treat myself — a plate of spicy fried rice, a cup of strong coffee, and a slice of fresh citrus. It felt indulgent, comforting, and harmless.  
 
 By midday, a familiar burn began to rise in my chest — the unwelcome reminder of GERD I thought I had under control. I told myself it would pass. But by evening, my throat felt raw, as if I’d been shouting for hours.  
+Unfortunately, I didn't bring any stomach acid neutralizers (antacids).  
 
 The next morning, my body was heavy, my muscles ached, and my energy had drained away. Within days, the soreness in my throat turned into a stubborn cough that clung to me like a shadow. What began as a simple breakfast choice had set off a chain reaction — one that would take patience, discipline, and self-awareness to undo.
+
+---
+
+![gif](https://media.tenor.com/GhK0rD3LtvwAAAAM/beyblade-beyblade-g-revolution.gif)
+
+## The scenario for the next day was as follows
+
+- Day 1 = GERD symptoms.
+- Day 2 = Fatigue, weakness, aches, and a sore throat.
+- Day 3 = Symptoms worsened to a sore throat and an unstable stomach (easily nauseous and vomiting).
+- Day 4 = Flu-like symptoms appeared again, and the inflammation turned into a chronic, annoying dry cough. I began to speculate whether it was acid reflux, inflammation, or bronchitis.
+- Day 5 = Symptoms were similar to the previous day, but the cough was worse.
+- Day 6 = Significant signs of improvement began to appear. Fever dropped dramatically, nasal discharge stopped, coughing decreased, but occasionally became phlegmy, though sometimes it was dry. (This was all thanks to the over-the-counter medication recommended to me for purchase at the pharmacy, as I hadn't gone to the doctor for some reason, undergoing self-rehabilitation at home.)
+- Day 7 = Health began to improve, coughing decreased, but still persisted, and stomach health stabilized, supported by a healthier lifestyle, such as limiting food intake, consuming fruit, and eating small, frequent meals.
+- day 8 = slowly getting back to health with full attention to patience, consistency, and hope.
 
 ---
 
@@ -68,6 +86,10 @@ When the body is fighting inflammation, it diverts energy to healing — which e
 
 > *“Health isn’t just about avoiding illness — it’s about noticing the small signals before they become loud warnings.”*
 
-What I learned from this chain reaction is simple: our bodies are always speaking to us. The question is whether we’re willing to listen before the whisper becomes a shout.
+What I learned from this chain reaction is simple: our bodies are always speaking to us. The question is whether we’re willing to listen before the whisper becomes a shout.  
+
+The premise is that humans will get sick once a year, whether during a certain period the experience can be mild, moderate or severe.  
+
+Worldly pleasures feel like they are being taken away from us when we are sick, therefore health is more valuable than anything else.
 
 ---
