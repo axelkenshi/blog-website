@@ -45,6 +45,16 @@ If you're looking for an anime that delivers a powerful punch, 86 is absolutely 
 
 ---
 
+## Aldnoah Zero
+![img](https://images8.alphacoders.com/717/thumbbig-717019.webp)
+**Category:** Anime  
+**Gendre:** Action, Sci-Fi, Mecha, Military  
+**Sequence:** S1, S2.  
+**Overview:**  
+*Aldnoah.Zero* throws you into a technologically advanced war between humanity on Earth and the Martians who have colonized the moon. When a truce is broken, the Martians, with their superior "Aldnoah" technology, launch a full-scale invasion. The series brilliantly contrasts the gritty, grounded combat of Earth's forces with the almost magical, god-like powers of the Martian mechs. The story follows two key protagonists: Inaho Kaizuka, a stoic and brilliant Earth-born student pilot who relies on strategy and logic, and Slaine Troyard, a sympathetic Martian who finds himself caught between two worlds. It's a gripping mecha series with high stakes, political intrigue, and spectacular, well-choreographed action sequences that will keep you on the edge of your seat.
+
+---
+
 ## Dark Gathering
 ![img](https://wallpapercave.com/wp/wp12763897.jpg)
 **Category:** Anime.  
