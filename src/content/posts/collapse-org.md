@@ -13,7 +13,7 @@ lang: 'en'
 If you want to translate into another language, please use the translate feature in your browser.
 :::
 
-## **Opening Scene — Watching an Organization Breathe**
+## Opening Scene — Watching an Organization Breathe
 
 I once sat in the back of a crowded hall, watching a newly formed student organization hold its very first meeting. The energy was electric — ideas flying, hands raised, laughter filling the air. It felt like watching something come alive.  
 
@@ -23,7 +23,7 @@ That experience made me realise: organizations are not static. They are born, th
 
 ---
 
-## **The Life Cycle of an Organization**
+## The Life Cycle of an Organization
 
 1. **Birth** — Formed from an idea, vision, or shared purpose.  
 2. **Growth** — Energy is high, members are motivated, and goals are pursued with passion.  
@@ -33,7 +33,7 @@ That experience made me realise: organizations are not static. They are born, th
 
 ---
 
-## **What Keeps an Organization Alive**
+## What Keeps an Organization Alive
 
 - **Leadership Rotation** — Fresh leaders bring new energy while respecting the foundation.  
 - **Adaptability** — Adjusting to changes in environment, culture, or technology.  
@@ -42,7 +42,7 @@ That experience made me realise: organizations are not static. They are born, th
 
 ---
 
-## **Why Organizations Collapse**
+## Why Organizations Collapse
 
 - **Internal Conflict** — Power struggles or lack of unity erode trust.  
 - **Rigid Structures** — Inability to adapt to new challenges or generations.  
@@ -51,7 +51,7 @@ That experience made me realise: organizations are not static. They are born, th
 
 ---
 
-## **Real-Life Example — Student Councils and Community Groups**
+## Real-Life Example — Student Councils and Community Groups
 
 Many student councils in schools or universities start with passion. In the first years, members are eager to prove themselves, organize events, and leave a legacy. But as time passes, challenges emerge:  
 - Some leaders treat positions as titles, not responsibilities.  
@@ -62,7 +62,7 @@ Similarly, community groups often rise during crises (like disaster relief or so
 
 ---
 
-## **Big-Scale Examples — Giants That Fell**
+## Big-Scale Examples — Giants That Fell
 
 History shows us that even the largest corporations can collapse if they fail to adapt:  
 
@@ -76,7 +76,7 @@ These stories show that collapse isn’t about size — it’s about adaptabilit
 
 ---
 
-## **Closing Reflection**
+## Closing Reflection
 
 > *“An organization is not just built by its founders — it is sustained by every generation that chooses to keep its purpose alive.”*
 
