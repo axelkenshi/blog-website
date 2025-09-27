@@ -1,6 +1,6 @@
 ---
 title: 'From GERD to Sore Throat to Fatigue: A Personal Journey and Lessons Learned'
-published: 2025-09-12
+published: 2025-09-15
 description: '“Sometimes, it’s not the big illnesses that teach us the most — it’s the chain reaction of small ones we thought we could ignore.”'
 image: 'https://plus.unsplash.com/premium_photo-1661779192474-6a25132bcfb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D'
 tags: [health]

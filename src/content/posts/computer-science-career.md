@@ -1,6 +1,6 @@
 ---
 title: 'Computer Science: Becoming a Practitioner of Versatile Electronics or a Software Engineer?'
-published: 2025-09-15
+published: 2025-09-12
 description: '“In the world of computer science, the tools are many — but the path you choose defines the kind of innovator you become.”'
 image: 'https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 tags: [Technology]
