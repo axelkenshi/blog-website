@@ -1,5 +1,5 @@
 ---
-title: anime-recomendations
+title: Anime Recomendation's!
 published: 2026-07-10
 description: 'Do you need anime stock for entertainment? Especially if your taste is underrated or rarely found anime. Im sure makes you mutter “thank god for bringing me together with this” blogs that recommend these masterpieces!'
 image: 'https://images7.alphacoders.com/842/thumb-440-842044.webp'
