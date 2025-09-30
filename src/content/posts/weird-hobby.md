@@ -4,7 +4,7 @@ published: 2025-09-24
 description: '“What seems strange to others can be the very thing that makes life meaningful to us.”'
 image: 'https://images.unsplash.com/photo-1711461784966-4028f2d8c35e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODd8fG1lY2hhbmljYWwlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D'
 tags: [Blogging]
-category: 'Midset'
+category: 'Mindset'
 draft: false 
 lang: 'en'
 ---
