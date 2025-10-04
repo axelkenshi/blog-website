@@ -1,7 +1,7 @@
 ---
 title: 'Are Naughty and Good Traits Inherited, Shaped by Environment, or Formed Through Experience?'
-published: 2025-9-21
-description: '“Every child is born a blank canvas — but the strokes that paint their character come from many hands.”'
+published: 2025-10-01
+description: 'Every child is born a blank canvas — but the strokes that paint their character come from many hands.'
 image: 'https://images.unsplash.com/photo-1645256804639-2568c2f7181d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fG5hdWdodHl8ZW58MHx8MHx8fDA%3D'
 tags: [psychology, Blogging]
 category: 'my thought'
@@ -25,12 +25,15 @@ Where does this difference come from? Is it written in their genes, shaped by th
 ## The Roots of Personality: Three Forces at Play
 
 ### 1. Genetics — The Biological Blueprint  
+
 Research suggests that temperament has a genetic basis. Some children are naturally more impulsive, others more cautious. Genes provide predispositions — like seeds that may grow under the right (or wrong) conditions.  
 
 ### 2. Environment — The Social Soil  
+
 Family, peers, culture, and community act as the soil in which those seeds grow. A child raised in a nurturing, structured environment may develop discipline, while one surrounded by chaos or neglect may lean toward disruptive behavior.  
 
 ### 3. Experience and Upbringing — The Daily Watering  
+
 Experiences — from parenting styles to friendships — shape how traits are expressed. A strict upbringing may suppress certain impulses, while supportive guidance can channel energy into positive outlets. Over time, repeated experiences become habits, and habits crystallize into personality.  
 
 ---
