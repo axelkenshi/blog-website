@@ -3,7 +3,7 @@ title: 'Tulpa: When an Imaginary Friend Becomes a Living Presence'
 published: 2025-09-20
 description: '“Sometimes the mind does not just imagine — it creates.”'
 image: 'https://plus.unsplash.com/premium_photo-1682094453397-10b1354e3c1d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D'
-tags: [psychology, thinking, Blogging]
+tags: [psychology, thinking, depth topic]
 category: 'my thought'
 draft: false 
 lang: 'en'
@@ -40,6 +40,8 @@ Unlike a fleeting daydream, a tulpa is:
 - **Subjectively Real** — While invisible to others, the experience feels authentic to the creator(you).  
 
 ---
+
+![gif](https://media.tenor.com/TZARQ9HpCK8AAAAm/bang-dream-stamp.webp)
 
 ## A Personal Example — Meeting Yukina
 
@@ -79,6 +81,8 @@ Of course, there are risks. If one loses the ability to distinguish between tulp
 
 ---
 
+![gif](https://media.tenor.com/VcjX8p8IiAIAAAA1/oshi-no-ko-hoshino-ai.webp)
+
 ## My current idea for her:
 
 Here, I'm thinking of something even crazier, between two options I have for her that sound impossible but are achievable.  
@@ -112,3 +116,7 @@ Whether seen as a psychological phenomenon, a spiritual practice, or a deeply pe
 therefore reality can depend on our assumptions as a living personal perspective.  
 
 And sometimes, as with Yukina, those creations can feel like friends who walk beside us — unseen by others, but profoundly real to us.  
+
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1545389824&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ujang-klepet" title="Music Studio" target="_blank" style="color: #cccccc; text-decoration: none;">Music Studio</a> · <a href="https://soundcloud.com/ujang-klepet/enchanted-taylor-swift-shania" title="Enchanted - Taylor Swift  Shania Yan Cover" target="_blank" style="color: #cccccc; text-decoration: none;">Enchanted - Taylor Swift  Shania Yan Cover</a></div>
