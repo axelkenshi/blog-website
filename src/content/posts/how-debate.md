@@ -44,6 +44,14 @@ Both are “debates,” yet they differ greatly in rules, goals, and how they mu
    Formal: structured, academic. Informal: simple, respectful, without belittling.  
 5. **Seek Common Ground**  
    The goal of debate is not always to “win,” but to find solutions or mutual understanding.  
+6. **Understand the rules of the game**
+   Know when to push your point and when to step back.
+7. **Manage Time Effectively**  
+   In formal debates, time is of the essence. Use it wisely to present your arguments.
+8. **Be Respectful of Your Opponent**  
+   In any debate, respect is the foundation of a successful conversation. Avoid belittling or dominating.
+9. **insert truth into opinion**
+   Truth is never inserted into an opinion; it is always the other way around.
 
 ---
 
