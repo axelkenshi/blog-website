@@ -104,4 +104,3 @@ And is not about defeating them — it is about protecting your peace, maintaini
 ![img](https://images.unsplash.com/photo-1587817020884-6a2f41f97e38?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGludGVyYWN0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600)
 ![img](https://images.unsplash.com/photo-1526045612212-70caf35c14df?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGludGVyYWN0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600)
 ![img](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGludGVyYWN0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600)
-![img](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGludGVyYWN0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600)
