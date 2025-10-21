@@ -15,6 +15,8 @@ If you want to translate into another language, please use the translate feature
 
 ---
 
+![gif](https://media.tenor.com/WYmal-WAnksAAAAM/yuzuki-mizusaka-nonoka-komiya.gif)
+
 ## Cinematic Opening — The Complexity of Social Dynamics
 
 In everyday life, we cannot always choose who appears around us. Some people are pleasant, some colleagues are supportive, but there are also those who are difficult: impulsive, aggressive, manipulative, even toxic. They may show up at work, on the street, or within our own families.  
@@ -93,6 +95,8 @@ Recognizing these patterns is crucial so we don’t get trapped in their games.
 - Positive manipulation: Redirect to solutions: “I see it’s tough, but what small step can we take instead?”
 
 ---
+
+![gif](https://media.tenor.com/TBL2c8I16LcAAAAM/isla-plastic-memories.gif)
 
 ## Closing Reflection
 

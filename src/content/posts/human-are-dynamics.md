@@ -13,6 +13,8 @@ lang: 'en'
 If you want to translate into another language, please use the translate feature in your browser.
 :::
 
+![gif](https://media.tenor.com/s7AoaDHsS3EAAAAM/venusxcv-anime.gif)
+
 ## Opening — The Mirror of Time
 
 Stand before a mirror today, then recall the reflection from ten years ago. The face is not the same. The body has shifted, the eyes carry different stories, the mind holds new burdens and new wisdom. This is the truth of being human: we are never static. We are creatures in motion, sculpted by time, struggle, and choice.  

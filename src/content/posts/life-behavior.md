@@ -13,6 +13,8 @@ lang: 'en'
 If you want to translate into another language, please use the translate feature in your browser.
 :::
 
+![gif](https://media.tenor.com/dha6D2MBkYgAAAAM/sakurauchi-riko.gif)
+
 ## Realife Opening — Two Children in the Same Classroom
 
 In a single classroom, you might find two extremes.  
@@ -21,6 +23,8 @@ One child is restless, mischievous, always stirring trouble. Another sits quietl
 Where does this difference come from? Is it written in their genes, shaped by the environment, or carved by the experiences and upbringing they receive?
 
 ---
+
+![gif](https://media.tenor.com/bKLDPDqv0OEAAAAM/vtuber-hololive.gif)
 
 ## The Roots of Personality: Three Forces at Play
 
@@ -56,6 +60,8 @@ Studies on **identical twins** provide some of the clearest insights into the or
 
 ---
 
+![gif](https://media.tenor.com/_3JiNpka5CsAAAAM/jpyoroshiku-raburaibu.gif)
+
 ## The Possibility of Change
 
 The most important truth: **personality is not fixed.**  
@@ -80,3 +86,5 @@ At birth, every human is like a blank page. Genes provide the paper’s texture,
 So, are “naughty” and “good” traits inherited, shaped, or taught? The answer is: all of them, intertwined. Genes set the stage, environment directs the play, and experiences write the script.  
 
 What matters most is not where we begin, but how we continue. Because in the end, every person carries the possibility of change — to turn mischief into creativity, or quietness into strength.  
+
+![gif](https://media.tenor.com/OX08USI5WhsAAAAM/shelter-anime.gif)

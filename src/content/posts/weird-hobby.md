@@ -13,6 +13,8 @@ lang: 'en'
 If you want to translate into another language, please use the translate feature in your browser.
 :::
 
+![gif](https://media.tenor.com/m8KrOBcbnpAAAAAM/charlotte-nao-tomori.gif)
+
 ## Cinematic Opening — The Spark of Obsession
 
 Picture someone staring at the back of a luxury watch, mesmerized not by the diamonds on its face but by the intricate gears ticking in perfect harmony. Or another person polishing a rare action figure, smiling as if holding a priceless treasure. To outsiders, these hobbies may look eccentric, even excessive. But to the ones who live them, they are not just pastimes — they are sparks of passion, tiny universes of joy that only they can fully understand.
@@ -61,3 +63,5 @@ What unites all these hobbies is not their practicality, but their **emotional r
 > *“To love something strange is to claim a piece of the world as uniquely yours.”*
 
 So the next time you meet someone with a hobby you don’t understand — whether it’s luxury watches, action figures, or soap carving — remember: what looks odd to you may be the very thing that keeps their spirit alive.  
+
+![gif](https://media.tenor.com/LLPqAwt-eH8AAAA1/gardar-vinland-saga.webp)
