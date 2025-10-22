@@ -486,3 +486,4 @@ Stay tuned for more updates to come!~
 There's so much I haven't written down here, it's lazy how messy my list.
 ![gif](https://media.tenor.com/B5ctjP-Vj3EAAAAM/anime-meme.gif)
 ![gif](https://media.tenor.com/xRZFEI3-jUIAAAAM/anime-excited.gif)
+![gif](https://media.tenor.com/KZDvpiCd1MsAAAAM/visual-novel-memes.gif)
