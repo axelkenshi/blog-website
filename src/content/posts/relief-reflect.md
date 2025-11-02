@@ -9,6 +9,12 @@ draft: false
 lang: 'en'
 ---
 
+:::important[Guidance]
+If you want to translate into another language, please use the translate feature in your browser.
+:::
+
+![gif](https://media1.tenor.com/m/yuzkM_PW5ZcAAAAC/iino-miko-iino.gif)
+
 ## Introduction the phenomenon
 
 There are moments when the body surprises us with sensations that feel almost electric:  
@@ -22,6 +28,8 @@ These experiences are not random. They are **reflexes**, deeply wired into our n
 > This phenomenon is biologically explained and considered a hidden body language of relief and balance.
 
 ---
+
+![gif](https://media.tenor.com/rhBLIZTTRNYAAAAM/cold-chilly.gif)
 
 ## Story: The Shiver of Relief
 
@@ -73,3 +81,5 @@ These odd jolts remind us that **the body has its own language**. They are momen
 ## Closing Thoughts
 
 What feels like a strange, almost embarrassing quirk is actually a **universal human reflex**. These micro-shocks are the body’s way of resetting balance, releasing tension, and signaling relief. Far from being meaningless, they are proof of the intricate dialogue between nerves, muscles, and emotions.  
+
+![gif](https://media.tenor.com/fgAwFzjIC5IAAAAM/anime-dancing.gif)
