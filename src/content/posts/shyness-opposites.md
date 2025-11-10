@@ -2,25 +2,35 @@
 title: 'Between Silence and Voice: Understanding Shyness, Social Sensitivity, and Their Opposites'
 published: 2025-11-07
 description: '“Kindness without boundaries becomes self-erasure. Confidence without empathy becomes isolation.”'
-image: ''
+image: 'https://plus.unsplash.com/premium_photo-1682095191908-3bc3a6b2bf87?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&q=60&w=600'
 tags: []
 category: ''
 draft: false 
 lang: 'en'
 ---
 
-## 🧠 Introduction: The Social Spectrum We All Navigate
+:::note[Guidance]
+If you want to translate into another language, please use the translate feature in your browser.
+:::
 
-In every group, you’ll find a quiet observer who hesitates to speak, someone who always says “yes” even when tired, and another who dominates the room with bold opinions. These behaviors reflect deeper traits — from *“tidak enakan”* and shyness to overconfidence and assertiveness. Understanding them helps us reflect on our own tendencies and build healthier relationships.
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1948690447&color=%239e727b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fedia-717522935" title="1nikaia" target="_blank" style="color: #cccccc; text-decoration: none;">1nikaia</a> · <a href="https://soundcloud.com/fedia-717522935/suffocation-super-slowed-loop" title="Suffocation (super slowed / loop + edit) - Crystal Castles" target="_blank" style="color: #cccccc; text-decoration: none;">Suffocation (super slowed / loop + edit) - Crystal Castles</a></div>
+
+---
+
+## 🍀 Introduction: The Social Spectrum We All Navigate
+
+In every group, you’ll find a quiet observer who hesitates to speak, someone who always says “yes” even when tired, and another who dominates the room with bold opinions. These behaviors reflect deeper traits — from *“people pleaser”* and shyness to overconfidence and assertiveness. Understanding them helps us reflect on our own tendencies and build healthier relationships.
 
 ---
 
 ## 🙇 What Is “social discomfort”?
 
-“Tidak enakan” is a uniquely Indonesian or other people trait — a blend of **social discomfort, fear of burdening others**, and excessive consideration. It’s often rooted in cultural values of harmony and respect, but when taken too far, it leads to emotional suppression and burnout.
+“people pleaser” is a uniquely other people trait — a blend of **social discomfort, fear of burdening others**, and excessive consideration. It’s often rooted in cultural values of harmony and respect, but when taken too far, it leads to emotional suppression and burnout.
 
 ### 🔍 Real-Life Example:  
-Rani, a junior designer, is constantly asked to revise work late at night. She never refuses, fearing she’ll disappoint her team. Over time, she feels drained and resentful, but still says “iya” with a smile. Her kindness becomes a silent burden.
+Yuna, a junior designer, is constantly asked to revise work late at night. She never refuses, fearing she’ll disappoint her team. Over time, she feels drained and resentful, but still says “okay” with a smile. Her kindness becomes a silent burden.
 
 ---
 
@@ -88,3 +98,5 @@ Whether you lean toward being “tidak enakan” or overconfident, the goal is b
 - To be assertive without becoming harsh  
 
 Understanding these traits helps us grow — not by changing who we are, but by refining how we relate.
+
+![img](https://plus.unsplash.com/premium_photo-1661716973567-dde31c1aae50?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=600)
