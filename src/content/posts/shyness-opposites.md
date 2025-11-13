@@ -98,5 +98,3 @@ Whether you lean toward being “tidak enakan” or overconfident, the goal is b
 - To be assertive without becoming harsh  
 
 Understanding these traits helps us grow — not by changing who we are, but by refining how we relate.
-
-![img](https://plus.unsplash.com/premium_photo-1661716973567-dde31c1aae50?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=600)
