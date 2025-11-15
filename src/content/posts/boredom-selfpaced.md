@@ -118,5 +118,3 @@ After all, the journey of learning is not just about reaching the destination, b
 Sometimes, the feeling of laziness about learning something we're not interested in—but feel it's important, has urgency, and little benefit—can become a burden that binds us because we don't have a compelling reason why we should conquer it.  
 
 After reading this article, you might be thinking "Why should I learn this if it won't be of any use at all after I master it? Like why should I know it for a moment if the insight disappears later?" Try to instill meaning in the urgency you are pursuing.
-
-![gif](https://plus.unsplash.com/premium_photo-1722859207519-e0f6433f1c1f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=600)
