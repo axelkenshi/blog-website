@@ -196,3 +196,4 @@ In the end, whether you speak of decree, providence, or dharma and karma, you’
 ![gif](https://media.tenor.com/6906u9o39PMAAAAM/asteroid-in-love-mira-konohata.gif)
 ![gif](https://media.tenor.com/sziP2_vGElIAAAAM/asteroid-in-love-mira-konohata.gif)
 ![gif](https://media.tenor.com/9FhK4onCzugAAAAM/asteroid-in-love-mira-konohata.gif)
+![img](https://plus.unsplash.com/premium_photo-1681910151326-c0992bcf3310?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8)
