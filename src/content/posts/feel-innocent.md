@@ -3,11 +3,15 @@ title: 'Awkward Silence: When Assumptions Meet Reality'
 published: 2025-11-15
 description: 'Sometimes awkwardness in social interactions is caused by a lack of insight, the situation, or misinterpretation.'
 image: 'https://images.unsplash.com/photo-1541297955747-4b652e022815?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMyfHx8ZW58MHx8fHx8'
-tags: [my thought]
-category: 'psychology, depth topic'
+tags: [psychology, depth topic]
+category: 'my thought'
 draft: false 
 lang: 'en'
 ---
+
+:::important[Guidance]
+If you want to translate into another language, please use the translate feature in your browser.
+:::
 
 ![gif](https://media.tenor.com/sblOS-zgWoAAAAAm/bocchi-thumbs-up.webp)
 
