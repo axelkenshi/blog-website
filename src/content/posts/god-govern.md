@@ -190,7 +190,6 @@ In the end, whether you speak of decree, providence, or dharma and karma, you’
 ![gif](https://media.tenor.com/LbQqRI6yAJoAAAAM/pory-porymations.gif)
 ![gif](https://media.tenor.com/BozkPz52na4AAAAM/teste.gif)
 ![gif](https://media.tenor.com/zqXw-CjYwWUAAAAM/my-favorite.gif)
-![gif](https://media.tenor.com/TQMmSgpC-z8AAAAM/asteroid-in-love-mira-konohata.gif)
 ![gif](https://media.tenor.com/6906u9o39PMAAAAM/asteroid-in-love-mira-konohata.gif)
 ![gif](https://media.tenor.com/sziP2_vGElIAAAAM/asteroid-in-love-mira-konohata.gif)
 ![gif](https://media.tenor.com/9FhK4onCzugAAAAM/asteroid-in-love-mira-konohata.gif)
