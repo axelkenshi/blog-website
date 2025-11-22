@@ -96,6 +96,8 @@ That reaction can feel jarring: you didn’t ask for pity, yet their words cut d
 
 ---
 
+![gif](https://media.tenor.com/r0YWhxB9v_cAAAAM/oshi-no-ko-s2-oshi-no-ko.gif)
+
 ## 7. Conclusion: Transforming Shadows into Growth
 
 Envy and complaint are natural reactions to perceived imbalance. But they don’t have to fracture relationships. By understanding the psychology behind these feelings—and responding with empathy, transparency, and actionable guidance—you can turn another’s jealousy into mutual inspiration.

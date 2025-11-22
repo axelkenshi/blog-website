@@ -3,8 +3,8 @@ title: 'The Double-Edged Joy of Dopamine: When Pleasure Becomes Power or Weaknes
 published: 2025-11-21
 description: 'Steady productivity is born from dopamine channeled into small progress, clear meaning, purposeful variation, and a strong biological foundation.'
 image: 'https://plus.unsplash.com/premium_photo-1661726583083-0b5c85859de7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fHw%3D'
-tags: []
-category: ''
+tags: [life skills, academics]
+category: 'notes'
 draft: false 
 lang: 'en'
 ---
@@ -155,10 +155,8 @@ Whether it’s the thrill of a promised reward, the trap of unhealthy addiction,
 
 By designing healthy reward systems, gamifying tasks, delaying instant gratification, and nurturing our biological foundations, we can transform dopamine into a blessing. It becomes the fire that warms our discipline, the spark that lights our creativity, and the energy that carries us toward our dreams.  
 
-![gif](https://plus.unsplash.com/premium_photo-1682097578070-901d10cabc5b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
-![gif](https://plus.unsplash.com/premium_photo-1728759434873-f7da19786b7d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
-![gif](https://images.unsplash.com/photo-1579619597328-142326e07210?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
-![gif](https://plus.unsplash.com/premium_photo-1728759439198-9068deb2afe0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHx3YXRjaG1ha2VyfGVufDB8fDB8fHww)
-
-![gif](https://media.tenor.com/0aW3mHWUoO8AAAAM/anime-pretending-to-be-happy.gif)
-![gif](https://media.tenor.com/bGy1tJU1uRkAAAAM/%E6%98%9F%E5%B1%91%E3%83%86%E3%83%AC%E3%83%91%E3%82%B9-%E5%B0%8F%E3%83%8E%E6%98%9F-%E6%B5%B7%E6%9E%9C.gif)
+![img](https://plus.unsplash.com/premium_photo-1682097578070-901d10cabc5b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
+![img](https://plus.unsplash.com/premium_photo-1728759434873-f7da19786b7d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
+![img](https://images.unsplash.com/photo-1579619597328-142326e07210?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
+![img](https://plus.unsplash.com/premium_photo-1728759439198-9068deb2afe0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHx3YXRjaG1ha2VyfGVufDB8fDB8fHww)
+![img](https://plus.unsplash.com/premium_photo-1661726719508-7e72f880e47f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D)

@@ -3,8 +3,8 @@ title: 'Negative vs. Positive Mindset: How Our Lens Shapes the World'
 published: 2025-11-13
 description: 'The way we think and affirm the world will determine the fate we will experience, between the pessimist and the optimist.'
 image: 'https://plus.unsplash.com/premium_photo-1661716973567-dde31c1aae50?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=600'
-tags: [notes]
-category: 'Blogging'
+tags: [thinking]
+category: 'Mindset'
 draft: false 
 lang: 'en'
 ---
