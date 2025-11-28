@@ -3,8 +3,8 @@ title: 'Breaking the Shackles: Conquer Laziness and Regret'
 published: 2025-11-16
 description: 'Regret always comes at the end, sometimes we are blinded by lust but if controlled properly it can become a positive impulse'
 image: 'https://plus.unsplash.com/premium_photo-1661308267362-97343a31b907?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8'
-tags: [Mindset]
-category: 'thinking'
+tags: [thinking]
+category: 'Mindset'
 draft: false 
 lang: 'en'
 ---

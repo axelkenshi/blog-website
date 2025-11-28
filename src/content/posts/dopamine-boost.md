@@ -41,7 +41,7 @@ Dopamine is not simply the “pleasure chemical.” It is the **anticipation mol
 
 ---
 
-![gif](![gif](https://media.tenor.com/TQMmSgpC-z8AAAAM/asteroid-in-love-mira-konohata.gif))
+![gif](https://media.tenor.com/TQMmSgpC-z8AAAAM/asteroid-in-love-mira-konohata.gif)
 
 ## 📖 A Personal Reflection  
 
