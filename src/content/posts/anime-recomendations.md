@@ -367,6 +367,16 @@ throws Taiyo Asano, an incredibly shy high school student, into the chaotic and 
 
 ---
 
+## Seto no hanayome
+![seto](https://images8.alphacoders.com/745/thumbbig-745425.webp)
+**Category:** Anime  
+**Gendre:** Comedy, Romance, Parody, Supernatural  
+**Sequence:** S1 only  
+**Overview:**  
+*Seto no Hanayome* (My Bride is a Mermaid) is a hilariously chaotic romantic comedy that wastes no time diving into absurdity. Nagasumi Michishio, a normal high school boy, nearly drowns while vacationing but is saved by a mermaid named Sun Seto. According to mermaid law, if a human sees a mermaid's true form, one of them must die, or they must marry. To protect them both, Sun's powerful yakuza family, the Seto clan, forces Nagasumi into an engagement. The series is a brilliant parody of action tropes and high school clichés, delivering non-stop, over-the-top gags, absurd situations, and truly memorable characters. If you enjoy rapid-fire comedy and a romance that's frequently interrupted by underwater gangsters, this is an absolute must-watch.
+
+---
+
 ## Gosick
 ![gosick](https://artfiles.alphacoders.com/921/thumb-800-92167.webp)
 **Category:** Anime  
