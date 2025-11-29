@@ -16,7 +16,10 @@ lang: 'en'
 
 # A letter of Mindset
 
-Whatever you do in this world will have a consequence that will come in any way, whether good or bad karma.
+Everything I've written here is the result of reflection and not purely philosophical.  
+
+If you sincerely ask God for something, God will grant it.  
+Whatever you do in this world will have a consequence that will come in any way, whether good or bad karma.  
 What you sow, that is what you reap.  
 We don't know and will never know who truly appreciates and admires our work.  
 Holding authority means carrying responsibility, not arbitrary powers.  
@@ -26,6 +29,8 @@ Good communication, able to convey the right meaning.
 respect others first, then they will respect you later.  
 charisma or being respected by people, begins with self-confidence and interaction style.  
 
+The most valuable thing in a person's life transformation is not wealth or material things, but the mindset they carry throughout their lives; without it, everything would be meaningless.  
+
 What is done without intention will feel bland, but what is done wholeheartedly will feel satisfying.  
 Gaining knowledge is difficult and requires intention, but the hardest thing is retaining it in the deepest memory.  
 Maintaining wealth is not as easy as getting it.  
@@ -34,11 +39,25 @@ Greedy nature appears when people are faced with tempting profits.
 There is no such thing as a wasted effort, everything is a stepping stone to something better.  
 Hanging out with mediocrity will make you mediocre, hanging out with ambitious will make you ambitious.  
 
+Each individual's personality is always influenced by their different subjective experiences.  
+Wisdom is the result of a blend of diverse experiences.  
+Destiny has many routes, and the future is shaped by the choices they make.  
+
 Being too ambitious can be dangerous because it can lead to cognitive bias.  
 Be serious about the field you are pursuing, focus on what you are doing, then serious success will come.  
 If you don't sacrifice for what you want, then you desires will be sacrificed.  
 Intelligence performance is not determined at birth, but during growth and development.  
 Expecting something to change without trying is very impossible.  
+
+It's difficult to forget something because memories have entered the deepest recesses of memory, accompanied by emotional context.  
+A group will collapse when pure solidarity fades.  
+A beginner's mistake is not recognizing where one's mistakes lie.  
+Laziness is the real enemy that kills goals.  
+
+Start predicting the short-term future by thinking about simple things and concrete consequences.  
+The voice of the mouth can bring peace or declare war.  
+Sometimes a bold step is a crazy way, and sometimes a crazy way is a blunder.  
+spirit is energy and life energy is consciousness and consciousness is maintained by biological production.  
 
 Skills can be mastered with 3 conditions: desire, belief, perseverance.  
 To get used to a skill, it takes repetition.  
