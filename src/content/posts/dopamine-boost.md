@@ -160,3 +160,6 @@ By designing healthy reward systems, gamifying tasks, delaying instant gratifica
 ![img](https://images.unsplash.com/photo-1579619597328-142326e07210?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fHdhdGNobWFrZXJ8ZW58MHx8MHx8fDA%3D)
 ![img](https://plus.unsplash.com/premium_photo-1728759439198-9068deb2afe0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHx3YXRjaG1ha2VyfGVufDB8fDB8fHww)
 ![img](https://plus.unsplash.com/premium_photo-1661726719508-7e72f880e47f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D)
+![img](https://plus.unsplash.com/premium_photo-1726804902488-f3aca6925593?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amFwYW5lc2UlMjByZWxhdGlvbnNoaXB8ZW58MHx8MHx8fDA%3D)
+![gif](https://media.tenor.com/MdCwwLF6g7cAAAAM/rage-anime.gif)
+![gif](https://media.tenor.com/p-muQOuX-BwAAAAM/himouto-umaru-chan-blushing.gif)
