@@ -165,3 +165,7 @@ By designing healthy reward systems, gamifying tasks, delaying instant gratifica
 ![img](https://images.unsplash.com/photo-1657199603934-44e15a2f23ea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDc1fHx8ZW58MHx8fHx8)
 ![img](https://plus.unsplash.com/premium_photo-1679515418918-4dd741bdfa15?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D)
 ![img](https://images.unsplash.com/photo-1580661621885-eda0da8c7554?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU2fHx8ZW58MHx8fHx8)
+![gif](https://media.tenor.com/A2dqYr-6Ih4AAAAM/kaguya-anime.gif)
+![gif](https://media.tenor.com/m6dQQsjVp2kAAAAM/he-is-dead-kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen.gif)
+![gif](https://media.tenor.com/ziit8n9VFnIAAAA1/kaguya-houraisan.webp)
+![gif](https://media1.tenor.com/m/mRzvijj2lQAAAAAd/touhou-kaguya.gif)
