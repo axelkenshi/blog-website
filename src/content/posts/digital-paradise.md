@@ -3,7 +3,7 @@ title: 'Digital Paradise, Endless Happiness'
 published: 2025-12-03
 description: '“Screens can entertain us, but only reality can sustain us.”'
 image: 'https://plus.unsplash.com/premium_photo-1661962864389-54ec5c1fc81f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI0fHx8ZW58MHx8fHx8'
-tags: [blogging]
+tags: [Blogging]
 category: 'my thought'
 draft: false 
 lang: 'en'

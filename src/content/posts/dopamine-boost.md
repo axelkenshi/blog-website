@@ -139,6 +139,8 @@ This cycle keeps dopamine flowing in **waves** rather than spikes — fueling pr
 
 ---
 
+![gif](https://media.tenor.com/1N0fS_Pm4G0AAAAM/hw-homework.gif)
+
 ## 🧩 Reflection  
 
 Dopamine isn't the enemy; it's the energy of desire. When we guide it—through a healthy reward system, meaningful habits, and wise boundaries—pleasure becomes power. From the promise of a reward that ignites passion, to the trap of quick gratification that we recognize and limit, to the days without spark that we transform with micro-progress—it's all an exercise in balance.  
