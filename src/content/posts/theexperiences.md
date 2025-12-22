@@ -123,3 +123,7 @@ Experience is the invisible teacher that shapes confidence and skill. Whether in
 ---
 
 ![img](https://images.unsplash.com/photo-1754152365066-6bb1db8167b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM4fHx8ZW58MHx8fHx8)
+![gif](https://media.tenor.com/XQDvK7M0y8wAAAAM/nekopara-ova.gif)
+![gif](https://media.tenor.com/xiv7B6roCZ0AAAAM/anime-love.gif)
+![gif](https://media.tenor.com/NX-JyFT4RtYAAAAM/hanako-slave.gif)
+![gif](https://media.tenor.com/9d-C-VwCkbEAAAAM/sora-%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89.gif)
