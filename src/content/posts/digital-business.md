@@ -3,7 +3,7 @@ title: 'Getting Rich from Zero Marginal Cost Business'
 published: 2025-12-30
 description: '“In the digital age, wealth is not built from factories, but from ideas with zero marginal cost.”'
 image: 'https://images.unsplash.com/photo-1630852722469-1a421dc9db5d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D'
-tags: [insight, business]
+tags: [insight, Business]
 category: 'notes'
 draft: false 
 lang: 'en'
