@@ -84,5 +84,3 @@ Mathematical reasoning is a shield against confusion and deception. Weakness in 
 To be “smart in mathematics” is not about being a genius, but about cultivating everyday reasoning. Mental calculation is a foundation for resilience in academia, industry, and economics. The future belongs to those who not only know formulas but can **think mathematically in real time.**  
 
 > *“Practice sharpens intuition, and intuition protects against mistakes.”*  
-
-![img](https://images.unsplash.com/photo-1504607798333-52a30db54a5d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGVjb25vbWljc3xlbnwwfHwwfHx8MA%3D%3D)
