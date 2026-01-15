@@ -3,7 +3,7 @@ title: 'Why Certain Individuals Possess Business Instincts While Many Do Not'
 published: 2026-01-06
 description: 'Instinct is not magic — it is the refinement of foundations practiced over time.'
 image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzaW5lc3N8ZW58MHx8MHx8fDA%3D'
-tags: [Business, Insight]
+tags: [Business, insight]
 category: 'my thought'
 draft: false 
 lang: 'en'

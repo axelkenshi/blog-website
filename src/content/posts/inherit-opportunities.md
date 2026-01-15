@@ -3,7 +3,7 @@ title: 'How Networking and Parental Mindset Shape a Child’s Future'
 published: 2026-01-08
 description: '“Privilege may open doors, but resilience builds the strength to walk through them.”'
 image: 'https://plus.unsplash.com/premium_photo-1661407696331-6ab41ffbe05a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW5oZXJpdGFuY2V8ZW58MHx8MHx8fDA%3D'
-tags: [Insight, depth topic]
+tags: [insight, depth topic]
 category: 'life'
 draft: false 
 lang: 'en'
@@ -76,5 +76,7 @@ To prepare the next generation, we must consciously pass on not only knowledge b
 If we can absorb these lessons and live them out, then we give our children — and their children — a stronger foundation. The invisible inheritance of mindset and networks can be built deliberately, ensuring that future generations are not only dreamers, but doers with the tools to thrive.  
 
 > “Let us be the generation that plants the seeds of resilience and connection, so our children may harvest opportunity.”
+
+![gif](https://media.tenor.com/AScG1S_yeWkAAAAM/snow-kotonoha-katsura.gif)
 
 ---
