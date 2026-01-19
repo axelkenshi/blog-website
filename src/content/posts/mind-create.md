@@ -63,4 +63,3 @@ The world may be unpredictable, but our thoughts remain the seeds of creation. T
 ---
 
 ![img](https://plus.unsplash.com/premium_photo-1743885026119-ea6a50e027e8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fHw%3D)
-![img](https://images.unsplash.com/photo-1590305173565-f789a8dd6be7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8)
