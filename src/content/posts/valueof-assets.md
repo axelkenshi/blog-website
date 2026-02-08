@@ -113,5 +113,3 @@ This awareness challenges me to think critically: when I evaluate an asset, am I
 > *“From tulips to Bitcoin to carbon credits, history and the future remind us: demand is the true architect of value.”*  
 
 ---
-
-![img](https://images.unsplash.com/photo-1592495963101-ee794af31721?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8fA%3D%3D)
