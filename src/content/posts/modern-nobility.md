@@ -15,7 +15,7 @@ If you want to use another language, please use the translation feature in your 
 
 ---
 
-# **The Invisible Nobility of Modern Times**
+# The Invisible Nobility of Modern Times
 
 I often ask myself: *why, in this modern age of democracy and equality, do ordinary people still look at the rich or the powerful as if they were noble beings?*  
 
