@@ -45,6 +45,8 @@ I learned to filter what was truly good for me, keeping only what was valuable. 
 
 What I feel now is that it doesn't matter whether you want to learn a little today.  
 What's clear is that this is a way to remove the ambiguity of future destiny.  
+I don't care if I'm late in achieving my learning goals; what matters is that I'm doing them, not just letting the days pass.  
+Sometimes, time can become a psychological pressure, with the urgency of "I have to be able to do this, so I can handle that one day."  
 
 I still haven't gotten what I want, but I know I will.  
 There may be a void afterward, but a new purpose will emerge.  
@@ -116,6 +118,17 @@ And one thing I have come to realize: **it is never too late to improve ourselve
 
 Knowledge knows no boundaries of time. Every day is a new space to repair ourselves. Better to start late than to forever bear the consequences of ignorance.  
 
+Make a promise to yourself about something.  
+Even if we regret not being able to keep that promise, at least we've gained experience from it to create new opportunities from old patterns.  
+
+On this journey, There's no need for ambition (because that's influenced by unstable emotions) to execute. Just maintain consistency.  
+
+Remember that a dream remains a dream without action.  
+But if we take action, it will manifest.  
+
+Imagine an illustrator who daydreams but just daydreams and doesn't paint his work on a real canvas, and his artistic skills become less refined.  
+But if he tries to paint it, it might become a sustain work.  
+
 ---
 
 ## Ignorance Is Not a Biological Defect If you're normal  
@@ -125,6 +138,11 @@ Ignorance is not merely a biological limitation. It is not simply the weakness o
 In other words, ignorance is relative. It appears when we stop searching, stop opening ourselves, stop learning. A person may be brilliant in one room, yet appear foolish in another — simply because there are things they have not yet discovered.  
 
 This is why learning is the only way to close that gap.  
+
+Stupidity is every individual's right, and that's a choice.  
+Therefore, it's natural to feel foolish or make blunders. As we reflect on our mistakes, the gaps will be patched so we don't stumble again.  
+
+But the danger is when that right is overused, whether through pride or a sense of righteousness, it's tantamount to ignoring the pitfalls that trip us up and lead to our next victim.  
 
 ---
 
@@ -136,6 +154,17 @@ Imagine someone who never makes the effort to learn. They may feel comfortable n
 - Unable to endure.  
 
 Ignorance is the door that closes the future. Learning is the key that opens it.  
+
+From my perspective, life in this world is simple and temporary. I want to live a life that's sufficient, ordinary enough to avoid the need to be a contributing figure or live up to expectations.  
+
+But I've realized that common mechanisms quickly weed out those who "lose, stay silent, or remain mediocre" in the struggle for survival by taking worldly advantages from those who don't know how to utilize and reap those benefits.  
+
+Unfair? Yes, but it's a choice everyone makes.  
+It doesn't matter if you're comfortable with each one.  
+
+Sometimes, people at their lowest point don't think it's a choice, as if they're programmed to be that way.  
+
+But they don't realize they have a choice to get off that bleak path.  
 
 ---
 
@@ -161,7 +190,7 @@ Then, the final side, which acts as a balance and a pillar, symbolizes deep spec
 
 thank you, the old version of me.  
 
-I believe learning is not merely an intellectual activity, but a way of life. It is the admission that we are not yet enough, that we still need to grow.  
+I believe learning is not merely an intellectual activity which takes time, but a way of life. It is the admission that we are not yet enough, that we still need to grow.  
 
 > *“It is better to endure the fatigue of learning today than to endure the pain of ignorance tomorrow.”*  
 
